@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or source data, please cite the associated manuscript."
+title: "GART-associated proliferative and purine-metabolic ISC-like epithelial state in ulcerative colitis"
+type: software
+authors:
+  - family-names: "Authors of the associated manuscript"
+version: 1.0.0
+date-released: 2026-09-08
+license: MIT

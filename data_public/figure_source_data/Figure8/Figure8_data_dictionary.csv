@@ -1,0 +1,6 @@
+﻿field,definition
+mouse_id,De-identified stable ID for one individual mouse.
+statistical_unit,Mouse for Figure 8P; mouse x day for longitudinal endpoints.
+selection_status,Figure 8P used a random 3-of-6 imaging subset selected before quantification; other endpoints used the full cohort.
+aggregation_rule,"For imaging, multiple fields of view were averaged within mouse before group analysis."
+exclusion_status,Animals not selected for imaging were not experimental exclusions.

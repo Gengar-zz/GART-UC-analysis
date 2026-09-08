@@ -1,0 +1,217 @@
+relative_path	size_bytes	file_type	public_role	include_in_commit	notes
+.gitattributes	154	no_extension	internal QA/audit artifact	YES	Publication-facing file
+.gitignore	1150	no_extension	Git exclusion policy	YES	Publication-facing file
+CITATION.cff	358	cff	license/citation metadata	YES	Publication-facing file
+CODE_LOGIC_DIFF_AUDIT.tsv	5914	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+CODE_PORTABILITY_POST_REPAIR_HASHES.tsv	26884	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+CODE_PORTABILITY_PRE_REPAIR_HASHES.tsv	18927	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+CODE_REPRODUCIBILITY_AUDIT.tsv	11089	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+CODE_REPRODUCIBILITY_AUDIT_REVISED.tsv	11036	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+CORRUPTED_SCRIPT_REPAIR_LOG.tsv	1227	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+data_external/README.md	3646	md	external-input instructions	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/animal_accounting.csv	6104	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/animal_endpoint_multiplicity_BH.csv	9639	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/body_weight_long.csv	11968	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/DAI_long.csv	9201	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/mouse_endpoint_raw_values.csv	16456	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Animal_numerical_data/mouse_multiplex_IF_raw_values.csv	25533	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv	8971	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure1/four_cohort_effect_sizes.csv	494	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure1/four_cohort_leave_one_out.csv	837	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure1/four_cohort_meta_summary.csv	257	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure1/GSE87466_GART_result.csv	688	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2B_faceted_epithelial_marker_dotplot_source_data.csv	33254	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2C_GART_detection_source_data.csv	19171628	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2D_ISClike_subcluster_source_data.csv	971007	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2F_ISClike_subcluster_profiles_source_data.csv	1087	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2G_donor_balanced_final_source_data.csv	15535	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/Fig2G_equal_donor_percentage_source_data.csv	2313	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/GART_detection_and_hurdle_models.csv	2242	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/GART_donor_fraction.csv	1476	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/GART_model_diagnostics.csv	946	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure2/singlecell_donor_mapping_audit.csv	2581	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3A_source_data.csv	2454410	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3B_pseudobulk_DEG_source_data.csv	7425761	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3C_Hallmark_GSEA_source_data.csv	32696	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3D_Reactome_GO_GSEA_source_data.xlsx	866718	xlsx	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3E_paired_donor_modules_source_data.csv	66524	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3F_cell_cycle_stratified_source_data.csv	6571	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/Fig3G_representative_proliferation_nucleotide_gene_effects_source_data.csv	6107	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/module_cell_cycle_stratified.csv	6218	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/primary_module_mixed_models.csv	3814	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/primary_module_paired_donor_data.csv	23452	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/primary_module_paired_donor_tests.csv	1010	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/purine_enzyme_adjusted_models.csv	3417	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/purine_enzyme_donor_detection.csv	9836	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_DEG.csv	1926702	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_GSEA.csv	1262585	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/singlecell_module_gene_sets_and_parameters.csv	883080	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/Fig4C_source_data.csv	5893	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/Fig4D_source_data.csv	453	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/Fig4E_focused_candidate_source_data.csv	4921	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/Fig4F_core_programs_source_data.csv	911	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_cell_plot_data.csv	1322155	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_donor_summary.csv	4632	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_paired_donor_data.csv	6618	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_paired_donor_tests.csv	353	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_root_selection.csv	1422	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/scTenifold_5iteration_long.csv	658480	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/scTenifold_5run_gene_level_complete_original_merged.csv	1446697	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/scTenifold_consensus_ranking.csv	196973	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure4/scTenifold_module_perturbation.csv	756	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/CellChat_candidate_and_pathway_summary.csv	97997	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/CellChat_candidate_LODO.csv	163591	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/CellChat_MIF_CD74_all_threshold_results.csv	23748	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/donor_eligibility_and_exclusion_log.csv	144163	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/donor_group_cell_counts_all_thresholds.csv	31788	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5A_MIF_CellChat_donor_source_data.csv	10182	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5B_LIANA_consensus_donor_source_data.csv	8865	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5B_method_consistency_source_data.csv	366	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5C_MIF_CD74_context_heatmap_source_data.csv	520	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5D_MYBL2_expression_rebuild_source_data.csv	404	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5E_proliferation_nucleotide_lollipop_source_data.csv	2086	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/Fig5F_tissue_validation_marker_summary_source_data.csv	740	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/HGNN_MYBL2_candidate_paths.csv	3211	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/HGNN_receptor_priority.csv	1985	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/HGNN_regulatory_node_priority.csv	19093	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/LIANA_MIF_CD74_all_threshold_results.csv	97784	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/LIANA_MIF_CD74_LODO_primary20.csv	19824	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/MYBL2_direct_expression_models.csv	2631	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure5/SCENIC_regulon_adjusted_models.csv	1167	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/figure_panel_manifest.csv	394	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv	1419010	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/revised_primary_donor_scores.csv	675	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/revised_primary_statistics.csv	522	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/selected_signature_gene_list.csv	152013	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/selected_singlecell_program_scores.csv	1046456	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/spatial_locked_primary_ROI_membership.csv	394939	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/spatial_section_donor_map.csv	2171	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure6/spatial_selection_summary.json	114	json	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7_archived_plotting_values.csv	128555	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7_data_dictionary.csv	849	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7_provenance.csv	3929	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7A_participant_level_source_data.csv	28126	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7B_participant_level_source_data.csv	30339	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure7/Fig7C_participant_level_source_data.csv	70330	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/animal_accounting.csv	14652	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/barrier_IHC_mouse_level.csv	6979	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/blood_mouse_level.csv	10934	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/body_weight_mouse_level.csv	21794	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/colon_length_mouse_level.csv	1538	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/cytokine_mouse_level.csv	10394	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/DAI_mouse_level.csv	23594	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/Figure8_data_dictionary.csv	486	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/Figure8_provenance.csv	3478	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/histology_mouse_level.csv	1646	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure8/spleen_mouse_level.csv	2210	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure9/animal_accounting.csv	33378	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure9/Figure9_data_dictionary.csv	441	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure9/Figure9_provenance.csv	8792	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure9/IF_mouse_level_source_data.csv	24579	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Supplementary_Figures/four_cohort_effect_sizes.csv	494	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Supplementary_Figures/four_cohort_leave_one_out.csv	837	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Supplementary_Figures/four_cohort_meta_summary.csv	257	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Supplementary_Figures/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
+data_public/public_dataset_manifest.csv	1496	csv	public data manifest	YES	Publication-facing file
+data_public/supplementary_tables/Table S1.xlsx	11052	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S2.xlsx	9065	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S3.xlsx	1658116	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S4.xlsx	1227914	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S5.xlsx	9171	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S6.xlsx	104390	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S7.xlsx	25258	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S8.xlsx	21647	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S9.xlsx	10388	xlsx	public Supplementary Table	YES	Publication-facing file
+docs/analysis_parameters.csv	4659	csv	reproducibility documentation	YES	Publication-facing file
+docs/data_dictionary.md	1006	md	reproducibility documentation	YES	Publication-facing file
+documentation/analysis_workflow.md	1143	md	reproducibility documentation	YES	Publication-facing file
+documentation/exclusions_and_locked_decisions.md	1539	md	reproducibility documentation	YES	Publication-facing file
+documentation/figure_to_script_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
+documentation/figure_to_source_data_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
+documentation/file_inventory_sha256.csv	23466	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+documentation/final_figure_numbering.csv	476	csv	reproducibility documentation	YES	Publication-facing file
+documentation/microscopy_data_availability.csv	2118	csv	reproducibility documentation	YES	Publication-facing file
+documentation/numerical_provenance_conflicts.csv	423	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+documentation/numerical_source_verification.csv	20536	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+documentation/source_data_completeness_audit.csv	22358	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+environment/edgeR_DESCRIPTION_archived.txt	2520	txt	software environment and provenance	YES	Publication-facing file
+environment/key_parameters.csv	4659	csv	software environment and provenance	YES	Publication-facing file
+environment/package_version_provenance.csv	8088	csv	software environment and provenance	YES	Publication-facing file
+environment/package_versions_donor_balanced_archived.txt	68	txt	software environment and provenance	YES	Publication-facing file
+environment/package_versions_revision_archived.csv	4659	csv	software environment and provenance	YES	Publication-facing file
+environment/Python_package_versions.txt	352	txt	software environment and provenance	YES	Publication-facing file
+environment/R_package_versions.csv	4974	csv	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo.txt	6161	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_archived.txt	21605	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_donor_balanced_archived.txt	887	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_Figure5_archived.txt	1177	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_original_scTenifold_archived.txt	5293	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_original_singlecell_archived.txt	3769	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_revision_multiverse_archived.txt	1677	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_SCENIC_CellChat_archived.txt	6936	txt	software environment and provenance	YES	Publication-facing file
+environment/R_sessionInfo_spatial_archived.txt	1354	txt	software environment and provenance	YES	Publication-facing file
+environment/random_seeds.csv	1008	csv	software environment and provenance	YES	Publication-facing file
+environment/software_versions.txt	345	txt	software environment and provenance	YES	Publication-facing file
+INPUT_CONTRACT_AUDIT.tsv	12049	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+LICENSE	1102	no_extension	license/citation metadata	YES	Publication-facing file
+PRE_GIT_PUBLIC_SCAN.tsv	885	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+PUBLIC_PRIVACY_SECRET_SCAN.tsv	14110	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+PUBLIC_RELEASE_MANIFEST.tsv	28805	tsv	public release manifest	YES	Publication-facing file
+PUBLIC_SOURCE_DATA_TRACEABILITY.tsv	25534	tsv	figure/source-data traceability	YES	Publication-facing file
+README.md	4605	md	repository documentation	YES	Publication-facing file
+REPOSITORY_FILE_INVENTORY.tsv	36152	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+REPOSITORY_PUBLIC_RELEASE_QA.md	4101	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+REPOSITORY_PUBLIC_RELEASE_QA_CODE_REPAIRED.md	1876	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+REPOSITORY_PUBLIC_RELEASE_QA_REVISED.md	5392	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+requirements.txt	203	txt	Python dependency specification	YES	Publication-facing file
+results_reference/final_expected_statistics.tsv	4734	tsv	locked reference statistics	YES	Publication-facing file
+scripts/01_bulk/01_extract_final_bulk_source.py	3199	py	analysis code	YES	Publication-facing file
+scripts/01_bulk/02_process_GSE87466.py	5233	py	analysis code	YES	Publication-facing file
+scripts/01_bulk/03_four_cohort_meta_analysis.py	4046	py	analysis code	YES	Publication-facing file
+scripts/01_bulk/04_plot_final_four_cohort_Figure1.R	6571	r	analysis code	YES	Publication-facing file
+scripts/01_bulk/__pycache__/01_extract_final_bulk_source.cpython-312.pyc	4870	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/01_bulk/__pycache__/02_process_GSE87466.cpython-312.pyc	10107	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/01_bulk/__pycache__/03_four_cohort_meta_analysis.cpython-312.pyc	7027	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R	2555	r	analysis code	YES	Publication-facing file
+scripts/02_singlecell_preprocessing/02_epithelial_annotation_and_ISClike.R	3649	r	analysis code	YES	Publication-facing file
+scripts/02_singlecell_preprocessing/common.R	5049	r	analysis code	YES	Publication-facing file
+scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R	3665	r	analysis code	YES	Publication-facing file
+scripts/03_GART_detection_and_donor_models/02_donor_balanced_primary_validation.R	25418	r	analysis code	YES	Publication-facing file
+scripts/04_donor_pseudobulk_and_modules/01_public_module_scoring.R	3157	r	analysis code	YES	Publication-facing file
+scripts/04_donor_pseudobulk_and_modules/02_purine_enzyme_models.R	3089	r	analysis code	YES	Publication-facing file
+scripts/04_donor_pseudobulk_and_modules/03_donor_paired_pseudobulk_GSEA.R	4974	r	analysis code	YES	Publication-facing file
+scripts/05_pseudotime/01_pseudotime_sensitivity.R	3317	r	analysis code	YES	Publication-facing file
+scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R	2763	r	analysis code	YES	Publication-facing file
+scripts/06_scTenifoldKnk/README.md	795	md	analysis code	YES	Publication-facing file
+scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R	2007	r	analysis code	YES	Publication-facing file
+scripts/07_cell_communication/02_build_final_CellChat_LIANA_summaries.R	15487	r	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/01_extract_singlecell_training_matrix.R	2948	r	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/02_train_outcome_blinded_singlecell_program.py	24590	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/03_finalize_selected_program.py	3664	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/04_export_locked_top40_ROI.py	1263	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/05_score_external_program_in_spatial_data.R	5642	r	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py	1523	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/07_plot_final_Figure6.py	2613	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/__pycache__/02_train_outcome_blinded_singlecell_program.cpython-312.pyc	38443	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/08_spatial_GSE189184/__pycache__/03_finalize_selected_program.cpython-312.pyc	7493	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/08_spatial_GSE189184/__pycache__/04_export_locked_top40_ROI.cpython-312.pyc	2394	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/08_spatial_GSE189184/__pycache__/06_donor_level_primary_inference.cpython-312.pyc	3544	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/08_spatial_GSE189184/__pycache__/07_plot_final_Figure6.cpython-312.pyc	5365	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/09_figure_generation/__pycache__/plot_Figure4E.cpython-312.pyc	11538	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/09_figure_generation/plot_Figure2B.R	7945	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure2C_D.R	11005	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure2E_F_G.R	20817	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure3A_F.R	31681	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure3G.R	7085	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure4C_D_F.R	6784	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure4E.py	6766	py	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure5D.R	4868	r	analysis code	YES	Publication-facing file
+scripts/09_figure_generation/plot_Figure5F.R	3952	r	analysis code	YES	Publication-facing file
+scripts/10_animal_statistics/01_verify_animal_endpoint_BH.py	4292	py	analysis code	YES	Publication-facing file
+scripts/10_animal_statistics/__pycache__/01_verify_animal_endpoint_BH.cpython-312.pyc	7791	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/path_config.py	932	py	analysis code	YES	Publication-facing file
+scripts/path_config.R	997	r	analysis code	YES	Publication-facing file
+session_info/python_environment.txt	352	txt	software environment and provenance	YES	Publication-facing file
+session_info/R_sessionInfo.txt	6161	txt	software environment and provenance	YES	Publication-facing file
+STALE_SUPERSEDED_CONTENT_SCAN.tsv	26457	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore

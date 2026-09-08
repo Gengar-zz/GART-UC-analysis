@@ -1,0 +1,3 @@
+display_order,metric,label,Spearman_rho,n_cells,interpretation,display_scope
+1,GART_correlation_independent_root,GART-independent continuum,0.199296053661246,9306,Exploratory state-continuum localization; not temporal transition,primary archived continuum
+2,GART_correlation_cell_cycle_excluded,GART/cell-cycle-excluded continuum,0.0373937275756851,9306,Exploratory state-continuum localization; not temporal transition,feature-exclusion sensitivity

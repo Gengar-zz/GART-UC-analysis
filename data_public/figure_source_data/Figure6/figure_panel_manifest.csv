@@ -1,0 +1,7 @@
+panel,file_stem,role
+A,Fig6A_spatial_distribution_of_GART,GART localization
+B,Fig6B_external_program_locked_ROI,External program + locked ROI
+C,Fig6C_revised_primary_donor_paired,Revised primary inference
+D,Fig6D_public_replication_repair_maps,Public programs
+E,Fig6E_candidate_marker_maps,Post-lock marker context
+F,Fig6F_inflammatory_validation_context,Inflammatory/validation context

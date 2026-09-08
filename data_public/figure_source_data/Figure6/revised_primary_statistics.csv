@@ -1,0 +1,2 @@
+signature,method,ROI,resolution,n_donors,n_spots,effect_mean_difference,median_difference,Hodges_Lehmann,CI_lower,CI_upper,exact_signflip_P,positive_donors,LODO_min,LODO_max,LODO_all_positive,matched_random_empirical_percentile,meets_locked_positive_criterion
+SC_GART_NEAREST_CENTROID_PROGRAM,nearest_centroid_similarity,epithelial_top40,raw_spot,7,3391,0.02620254269391309,0.019893305643958525,0.024400264829558954,0.01399996188877057,0.040668972787999115,0.015625,7,0.02028922661652033,0.029862800686744,True,1.0,True

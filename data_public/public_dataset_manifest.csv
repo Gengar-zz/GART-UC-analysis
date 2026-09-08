@@ -1,0 +1,8 @@
+﻿Data_type,Dataset,Repository,Accession,Public_URL,Role_in_study,Notes
+Bulk transcriptomics,GSE24287,NCBI GEO,GSE24287,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24287,Bulk UC-versus-healthy cohort,Final four-cohort analysis
+Bulk transcriptomics,GSE36807,NCBI GEO,GSE36807,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36807,Bulk UC-versus-healthy cohort,Final four-cohort analysis
+Bulk transcriptomics,GSE37283,NCBI GEO,GSE37283,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE37283,Bulk UC-versus-healthy cohort,Five normal and four quiescent non-neoplastic UC samples retained; 11 UC-associated-neoplasia samples excluded
+Bulk transcriptomics,GSE87466,NCBI GEO,GSE87466,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87466,Independent external bulk cohort,Adult baseline colonic mucosa; six prespecified unambiguous GART probes summarized by donor mean
+Single-cell RNA sequencing,GSE214695,NCBI GEO,GSE214695,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214695,Single-cell discovery/replication,Corrected raw-count layers used
+Single-cell RNA sequencing,SCP259,Broad Institute Single Cell Portal,SCP259,https://singlecell.broadinstitute.org/single_cell/study/SCP259,Single-cell donor-paired analyses,Public portal study
+Spatial transcriptomics,GSE189184,NCBI GEO,GSE189184,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189184,Spatial validation / localization,Seven retained sections from seven independent donors: two HC and five UC

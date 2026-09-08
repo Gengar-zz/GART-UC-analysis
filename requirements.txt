@@ -1,0 +1,8 @@
+# Package names used by public Python scripts. Exact historical versions were not recoverable; see session_info/python_environment.txt.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl
+Pillow

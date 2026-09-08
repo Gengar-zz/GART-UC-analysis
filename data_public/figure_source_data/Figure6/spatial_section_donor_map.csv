@@ -1,0 +1,17 @@
+section_id,gsm,donor_id,condition,biopsy_or_resection,anatomical_location,retained,exclusion_reason,number_of_sections_from_donor
+B5,GSM5695828,GI 6266,UC,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+B4,GSM5695829,GI 6264,UC,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+GSM5695830,GSM5695830,PRISE 31,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+GSM5695831,GSM5695831,PRISE 14,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+GSM5695832,GSM5695832,GI 6275,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+GSM5695833,GSM5695833,PRISE 23,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+GSM5695834,GSM5695834,GI 6967,UC,Resection,Colon,False,"Excluded: UC resection section, repeated donor GI 6967, not biopsy-matched and not present in local retained object",2
+GSM5695835,GSM5695835,GI 6967,UC,Resection,Colon,False,"Excluded: UC resection section, repeated donor GI 6967, not biopsy-matched and not present in local retained object",2
+GSM5695836,GSM5695836,GI 6278,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+B10,GSM5695837,GI 6925,Healthy,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+B12,GSM5695838,GI 6658,UC,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+B13,GSM5695839,GI 4980,UC,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+C2,GSM5695840,BB4652,UC,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1
+GSM5695841,GSM5695841,GI 6274,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+GSM5695842,GSM5695842,GI 3667,Other,Biopsy,Colon,False,"Excluded: disease is checkpoint-inhibitor colitis, outside HC-versus-UC target",1
+C5,GSM5695843,TIP 517,Healthy,Biopsy,Colon,True,Retained: biopsy HC/UC and local raw inputs available,1

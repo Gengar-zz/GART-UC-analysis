@@ -1,0 +1,61 @@
+﻿panel,mouse_id,group,endpoint,value,unit,included_in_analysis,missing_reason,source_record,animal_identity_note
+F,CTRL_CBC_01,Control,Hemoglobin (HGB),141.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,CTRL_CBC_02,Control,Hemoglobin (HGB),148.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,CTRL_CBC_03,Control,Hemoglobin (HGB),153.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,CTRL_CBC_04,Control,Hemoglobin (HGB),155.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,CTRL_CBC_05,Control,Hemoglobin (HGB),160.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,CTRL_CBC_06,Control,Hemoglobin (HGB),167.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_01,Model,Hemoglobin (HGB),102.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_02,Model,Hemoglobin (HGB),112.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_03,Model,Hemoglobin (HGB),117.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_04,Model,Hemoglobin (HGB),119.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_05,Model,Hemoglobin (HGB),124.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+F,DSS_CBC_06,Model,Hemoglobin (HGB),134.0,g/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_01,Control,Hematocrit (HCT),36.8,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_02,Control,Hematocrit (HCT),39.7,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_03,Control,Hematocrit (HCT),40.6,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_04,Control,Hematocrit (HCT),48.6,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_05,Control,Hematocrit (HCT),49.5,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,CTRL_CBC_06,Control,Hematocrit (HCT),52.4,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_01,Model,Hematocrit (HCT),31.7,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_02,Model,Hematocrit (HCT),33.1,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_03,Model,Hematocrit (HCT),34.3,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_04,Model,Hematocrit (HCT),37.3,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_05,Model,Hematocrit (HCT),38.5,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+G,DSS_CBC_06,Model,Hematocrit (HCT),39.9,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_01,Control,White blood cell count (WBC),4.6,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_02,Control,White blood cell count (WBC),6.4,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_03,Control,White blood cell count (WBC),4.1,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_04,Control,White blood cell count (WBC),5.9,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_05,Control,White blood cell count (WBC),6.7,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,CTRL_CBC_06,Control,White blood cell count (WBC),7.5,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_01,Model,White blood cell count (WBC),6.5,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_02,Model,White blood cell count (WBC),7.7,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_03,Model,White blood cell count (WBC),11.9,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_04,Model,White blood cell count (WBC),8.2,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_05,Model,White blood cell count (WBC),12.3,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+J,DSS_CBC_06,Model,White blood cell count (WBC),13.5,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_01,Control,Granulocyte percentage (Gran%),19.3,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_02,Control,Granulocyte percentage (Gran%),21.8,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_03,Control,Granulocyte percentage (Gran%),22.9,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_04,Control,Granulocyte percentage (Gran%),27.6,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_05,Control,Granulocyte percentage (Gran%),28.8,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,CTRL_CBC_06,Control,Granulocyte percentage (Gran%),31.3,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_01,Model,Granulocyte percentage (Gran%),37.8,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_02,Model,Granulocyte percentage (Gran%),39.9,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_03,Model,Granulocyte percentage (Gran%),40.3,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_04,Model,Granulocyte percentage (Gran%),45.4,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_05,Model,Granulocyte percentage (Gran%),45.7,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+I,DSS_CBC_06,Model,Granulocyte percentage (Gran%),47.8,%,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_01,Control,Platelet count (PLT),852.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_02,Control,Platelet count (PLT),902.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_03,Control,Platelet count (PLT),931.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_04,Control,Platelet count (PLT),1013.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_05,Control,Platelet count (PLT),1042.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,CTRL_CBC_06,Control,Platelet count (PLT),1092.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_01,Model,Platelet count (PLT),1771.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_02,Model,Platelet count (PLT),1841.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_03,Model,Platelet count (PLT),1899.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_04,Model,Platelet count (PLT),1923.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_05,Model,Platelet count (PLT),1981.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived
+H,DSS_CBC_06,Model,Platelet count (PLT),2051.0,10^9/L,Yes,NA,Final archived endpoint table exported from Prism,Mouse source-position ID; cross-endpoint animal mapping not archived

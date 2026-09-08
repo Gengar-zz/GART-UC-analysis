@@ -1,0 +1,9 @@
+"analysis","random_structure","n_cells","n_donors","isSingular","convergence_warning","donor_variance","sample_variance","residual_variance"
+"Primary raw GART count >=1","donor-only",9306,33,FALSE,"",0.0331549202022884,NA,0
+"Primary raw GART count >=1","donor/sample",9306,33,FALSE,"",0.00316082962080093,0.0436289930260905,0
+"Sensitivity raw GART count >=2","donor-only",9306,33,FALSE,"",0.0352748757720142,NA,0
+"Sensitivity raw GART count >=2","donor/sample",9306,33,FALSE,"",0.0227906498412825,0.0280356012399309,0
+"Cohort-specific >=1: GSE214695","donor-only",136,11,TRUE," | boundary (singular) fit: see help('isSingular')",0,NA,0
+"Cohort-specific >=1: SCP259","donor-only",9170,22,FALSE,"",0.0336305104873268,NA,0
+"Continuous log1p raw GART count","donor-only",9306,33,FALSE,"",0.000957969674697847,NA,0.143062735785105
+"Hurdle positive-expression component","donor-only",3080,25,FALSE,"",0.00106773848774508,NA,0.0616617165741655

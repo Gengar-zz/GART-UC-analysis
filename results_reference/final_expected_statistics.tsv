@@ -1,0 +1,28 @@
+figure	result	estimate	ci_lower	ci_upper	p_value	n	biological_unit	public_source_file
+Figure 1	Four-cohort random-effects pooled Hedges g	0.743254551111811	0.2388597836421904	1.2476493185814317	0.018331481339167767	4 cohorts	cohort	data_public/figure_source_data/Figure1/four_cohort_meta_summary.csv
+Figure 1	Cochran Q	2.6045793781308495			0.45668728829186933	4 cohorts	cohort	data_public/figure_source_data/Figure1/four_cohort_meta_summary.csv
+Figure 1	I2 percent	0.0				4 cohorts	cohort	data_public/figure_source_data/Figure1/four_cohort_meta_summary.csv
+Figure 1	tau2 REML	0.0				4 cohorts	cohort	data_public/figure_source_data/Figure1/four_cohort_meta_summary.csv
+Figure 2	Primary adjusted integrated donor-random-intercept GLMM (OR)	2.41278720404255	0.848124203684516	6.86402070203974	0.0987003822894522	33	donor	data_public/figure_source_data/Figure2/GART_detection_and_hurdle_models.csv
+Figure 2	Cohort-specific >=1: GSE214695 (OR)	0.694767334897347	0.113065176385206	4.2692335966985	0.694216302973373	11	donor	data_public/figure_source_data/Figure2/GART_detection_and_hurdle_models.csv
+Figure 2	Cohort-specific >=1: SCP259 (OR)	4.89902942798335	1.08088634349026	22.2044523744722	0.0393147389789468	22	donor	data_public/figure_source_data/Figure2/GART_detection_and_hurdle_models.csv
+Figure 2G	Equal-donor-weighted displayed OR	2.08287199579364	1.00960037808643	4.29710194748954	0.0470489699094573	33	donor	data_public/figure_source_data/Figure2/Fig2G_donor_balanced_final_source_data.csv
+Figure 2G	Mean donor-level GART-detected fraction: Healthy	0.27037037037037037				9	donor	data_public/figure_source_data/Figure2/Fig2G_equal_donor_percentage_source_data.csv
+Figure 2G	Mean donor-level GART-detected fraction: UC	0.2986218564150541				24	donor	data_public/figure_source_data/Figure2/Fig2G_equal_donor_percentage_source_data.csv
+Figure 3	SCP259 paired pseudobulk donors	11				11	donor	data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_DEG.csv
+Figure 3	GSE214695 paired pseudobulk	Not estimable under prespecified paired-cell criterion					donor	data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_DEG.csv
+Figure 4	GART-pseudotime Spearman rho: independent root	0.199296053661246				9306	cell (descriptive)	data_public/figure_source_data/Figure4/pseudotime_stability.csv
+Figure 4	GART-pseudotime Spearman rho: GART/cell-cycle excluded	0.0373937275756851				9306	cell (descriptive)	data_public/figure_source_data/Figure4/pseudotime_stability.csv
+Figure 4	Donor-paired independent-root pseudotime	0.0401586713557872	-0.00337311808820915	0.0836904607997836	0.0234566482956348	23	donor	data_public/figure_source_data/Figure4/pseudotime_paired_donor_tests.csv
+Figure 4	scTenifoldKnk independent runs	5					run	data_public/figure_source_data/Figure4/scTenifold_5run_gene_level_complete_original_merged.csv
+Figure 5	CellChat MIF/CD74 paired comparison				0.001953125	11	donor	data_public/figure_source_data/Figure5/Fig5A_MIF_CellChat_donor_source_data.csv
+Figure 5	CellChat MIF/CD74 BH FDR				0.0082750822368421	11	donor	data_public/figure_source_data/Figure5/Fig5A_MIF_CellChat_donor_source_data.csv
+Figure 5	LIANA+ MIF/CD74 paired comparison				0.0009765625	11	donor	data_public/figure_source_data/Figure5/Fig5B_LIANA_consensus_donor_source_data.csv
+Figure 5	LIANA+ MIF/CD74 BH FDR				0.0101961525537634	11	donor	data_public/figure_source_data/Figure5/Fig5B_LIANA_consensus_donor_source_data.csv
+Figure 5	MYBL2 donor-paired pseudobulk log2FC	0.526792704014918	0.302483903129004	0.751101504900831	0.000239919410070971	11	donor	data_public/figure_source_data/Figure5/Fig5D_MYBL2_expression_rebuild_source_data.csv
+Figure 5	Adjusted MYBL2 SCENIC regulon effect (nominal P)	-0.000666833313792161	-0.00092619907701657	-0.000407467550567752	4.67506812939334e-07	29	donor	data_public/figure_source_data/Figure5/SCENIC_regulon_adjusted_models.csv
+Figure 5	Adjusted MYBL2 SCENIC regulon effect (BH FDR)	-0.000666833313792161	-0.00092619907701657	-0.000407467550567752	2.33753406469667e-06	29	donor	data_public/figure_source_data/Figure5/SCENIC_regulon_adjusted_models.csv
+Figure 6	Within-donor external-program score difference	0.02620254269391309	0.01399996188877057	0.040668972787999115	0.015625	7	donor	data_public/figure_source_data/Figure6/revised_primary_statistics.csv
+Figure 6	Positive donor directions	7/7				7	donor	data_public/figure_source_data/Figure6/revised_primary_statistics.csv
+Figure 7	Participant x endpoint rows	752				178 panel-specific participant records	participant	data_public/figure_source_data/Figure7
+Figures 8-9	BH significance changes	0 of 31 endpoints					mouse	data_public/figure_source_data/Animal_numerical_data/animal_endpoint_multiplicity_BH.csv

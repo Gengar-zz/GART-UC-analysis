@@ -1,0 +1,14 @@
+﻿analysis,run,seed,purpose
+Single-cell input/annotation,final,20260904,Reproducible sampling and revised analysis
+Donor-balanced GART model,bootstrap,20260905,Stratified donor bootstrap
+scTenifoldKnk,run_1,1234,Cell subsampling and network perturbation run
+scTenifoldKnk,run_2,2024,Cell subsampling and network perturbation run
+scTenifoldKnk,run_3,7777,Cell subsampling and network perturbation run
+scTenifoldKnk,run_4,8888,Cell subsampling and network perturbation run
+scTenifoldKnk,run_5,9999,Cell subsampling and network perturbation run
+CellChat/LIANA,locked benchmark,20260902,Locked subsampling/permutation workflow
+Spatial single-cell program,model selection,20260907,Donor-blocked program training
+Spatial technical ROI,selection,20260910,Outcome-blinded technical selection
+Spatial primary inference,donor bootstrap,20260909,Two-thousand-donor bootstrap confidence interval
+Figure 6,visual jitter,42,Plotting only
+Bulk meta-analysis,not applicable,Not used,Deterministic calculation

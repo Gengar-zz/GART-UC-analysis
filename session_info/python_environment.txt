@@ -1,0 +1,7 @@
+Python: Not recoverable from the archived environment
+LIANA: 1.8.1
+numpy: Not recoverable from the archived environment
+pandas: Not recoverable from the archived environment
+scipy: Not recoverable from the archived environment
+scikit-learn: Not recoverable from the archived environment
+matplotlib: Not recoverable from the archived environment

@@ -1,0 +1,36 @@
+﻿dataset,endpoint,group,n,unit,included,exclusion_reason,mapping_status
+body weight,weight_percent,Control,6,longitudinal trajectory,TRUE,none in source table,actual mouse IDs absent; columns consistently tracked
+body weight,weight_percent,Model,6,longitudinal trajectory,TRUE,none in source table,actual mouse IDs absent; columns consistently tracked
+DAI,DAI,Control,6,longitudinal trajectory,TRUE,none in source table,actual mouse IDs absent; columns consistently tracked
+DAI,DAI,Model,6,longitudinal trajectory,TRUE,none in source table,actual mouse IDs absent; columns consistently tracked
+endpoint,血红蛋白HGB  G/L,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,红细胞压积HCT  %,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,白细胞数目WBC 10^9/L,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,中性粒细胞百分比Gran%,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,血小板数目PLT 10^9/L,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,IL-6,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,IL-17A,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,IL-1β,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,TNF-α,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,IL-10,Control/Model,6/6,mouse source replicate position,TRUE,none visible in Prism table,source replicate positions; actual IDs unavailable
+endpoint,ZO-1,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,occludin,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,claudin-1,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART MFI in crypt/cellular ROI,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,CD74+ objects per mm²,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,CD74+ objects within 50 μm of GART+ regions (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,MIF-high area within 50 μm of GART+ regions (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART MFI,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,MYBL2 nuclear MFI,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,Ki67+ cells (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART+Ki67+ cells (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART+MYBL2+Ki67+ cells (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART MFI in EPCAM+ crypt epithelium,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,OLFM4 MFI in EPCAM+ crypt epithelium,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART+OLFM4+EPCAM+ cells / estimated crypt ROI,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,% GART+ among EPCAM+ epithelial cells,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,% OLFM4+ among EPCAM+ epithelial cells,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,% GART+OLFM4+ double-positive among EPCAM+ cells,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,PAICS MFI in crypt/cellular ROI,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,PCNA+ cells (%),Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable
+endpoint,GART+PAICS+ overlap area / crypt epithelial area,Control/Model,3/3,unmapped source replicate; animal status unverified,TRUE,none visible in Prism table,3-of-6 selection/animal mapping unavailable

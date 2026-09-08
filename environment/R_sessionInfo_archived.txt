@@ -1,0 +1,362 @@
+Archived analysis-environment records. Each section is copied verbatim from a contemporaneous project record.
+
+===== R_sessionInfo_donor_balanced_archived.txt =====
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8    LC_MONETARY=Chinese (Simplified)_China.utf8 LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] clubSandwich_0.7.0 sandwich_3.1-3     survey_4.5         survival_3.8-3     Matrix_1.7-4      
+
+loaded via a namespace (and not attached):
+[1] zoo_1.9-0      compiler_4.5.2 tools_4.5.2    DBI_1.3.0      otel_0.2.0     Rcpp_1.1.2     splines_4.5.2  lattice_0.22-7 mitools_2.7   
+
+===== R_sessionInfo_Figure5_archived.txt =====
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] scales_1.4.0        cowplot_1.2.0       ggplot2_4.0.3      
+[4] data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+ [1] labeling_0.4.3     RColorBrewer_1.1-3 R6_2.6.1           tidyselect_1.2.1  
+ [5] farver_2.1.2       magrittr_2.0.5     gtable_0.3.6       glue_1.8.1        
+ [9] tibble_3.3.1       pkgconfig_2.0.3    dplyr_1.2.1        generics_0.1.4    
+[13] lifecycle_1.0.5    cli_3.6.6          S7_0.2.2           grid_4.5.2        
+[17] vctrs_0.7.3        withr_3.0.3        compiler_4.5.2     pillar_1.11.1     
+[21] rlang_1.3.0       
+
+===== R_sessionInfo_original_scTenifold_archived.txt =====
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8 LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_1.0.1               openxlsx_4.2.8.1            ggrepel_0.9.8              
+ [4] stringr_1.6.0               msigdbr_26.1.0              fgsea_1.32.4               
+ [7] scTenifoldKnk_1.0.3         tidyr_1.3.2                 scales_1.4.0               
+[10] monocle3_1.4.26             SingleCellExperiment_1.28.1 SummarizedExperiment_1.36.0
+[13] GenomicRanges_1.58.0        GenomeInfoDb_1.42.3         IRanges_2.40.1             
+[16] S4Vectors_0.44.0            MatrixGenerics_1.18.1       matrixStats_1.5.0          
+[19] Biobase_2.66.0              BiocGenerics_0.52.0         readr_2.2.0                
+[22] Matrix_1.7-1                patchwork_1.3.2             ggplot2_4.0.2              
+[25] tibble_3.3.0                dplyr_1.2.0                 Seurat_5.4.0               
+[28] SeuratObject_5.3.0          sp_2.2-1                   
+
+loaded via a namespace (and not attached):
+  [1] RcppAnnoy_0.0.23        splines_4.4.2           later_1.4.8            
+  [4] ggplotify_0.1.3         polyclip_1.10-7         fastDummies_1.7.5      
+  [7] lifecycle_1.0.5         Rdpack_2.6.6            globals_0.19.1         
+ [10] lattice_0.22-6          vroom_1.7.0             MASS_7.3-61            
+ [13] magrittr_2.0.3          plotly_4.12.0           httpuv_1.6.17          
+ [16] otel_0.2.0              sctransform_0.4.3       zip_2.3.3              
+ [19] spam_2.11-1             spatstat.sparse_3.1-0   reticulate_1.45.0      
+ [22] cowplot_1.2.0           pbapply_1.7-4           minqa_1.2.8            
+ [25] RColorBrewer_1.1-3      abind_1.4-8             zlibbioc_1.52.0        
+ [28] Rtsne_0.17              purrr_1.2.1             WriteXLS_6.8.0         
+ [31] yulab.utils_0.2.4       rappdirs_0.3.4          GenomeInfoDbData_1.2.13
+ [34] irlba_2.3.7             listenv_0.10.1          spatstat.utils_3.2-2   
+ [37] goftest_1.2-3           RSpectra_0.16-2         spatstat.random_3.4-4  
+ [40] fitdistrplus_1.2-6      parallelly_1.46.1       codetools_0.2-20       
+ [43] DelayedArray_0.32.0     tidyselect_1.2.1        aplot_0.2.9            
+ [46] UCSC.utils_1.2.0        farver_2.1.2            lme4_2.0-1             
+ [49] viridis_0.6.5           spatstat.explore_3.7-0  jsonlite_2.0.0         
+ [52] progressr_0.18.0        ggridges_0.5.7          survival_3.7-0         
+ [55] systemfonts_1.3.2       tools_4.4.2             ragg_1.5.1             
+ [58] snow_0.4-4              rio_1.2.4               ica_1.0-3              
+ [61] Rcpp_1.1.0              glue_1.8.0              gridExtra_2.3          
+ [64] SparseArray_1.6.2       mgcv_1.9-1              withr_3.0.2            
+ [67] BiocManager_1.30.27     fastmap_1.2.0           scTenifoldNet_1.3      
+ [70] boot_1.3-31             digest_0.6.37           R6_2.6.1               
+ [73] mime_0.13               gridGraphics_0.5-1      textshaping_1.0.5      
+ [76] scattermore_1.2         tensor_1.5.1            spatstat.data_3.1-9    
+ [79] RhpcBLASctl_0.23-42     utf8_1.2.6              generics_0.1.4         
+ [82] data.table_1.18.2.1     httr_1.4.8              htmlwidgets_1.6.4      
+ [85] S4Arrays_1.6.0          uwot_0.2.4              pkgconfig_2.0.3        
+ [88] gtable_0.3.6            lmtest_0.9-40           S7_0.2.0               
+ [91] XVector_0.46.0          htmltools_0.5.9         dotCall64_1.2          
+ [94] png_0.1-9               spatstat.univar_3.1-6   reformulas_0.4.4       
+ [97] enrichR_3.4             ggfun_0.2.0             rstudioapi_0.18.0      
+[100] rjson_0.2.23            tzdb_0.5.0              reshape2_1.4.5         
+[103] curl_7.0.0              nlme_3.1-166            nloptr_2.2.1           
+[106] proxy_0.4-29            zoo_1.8-15              KernSmooth_2.23-24     
+[109] parallel_4.4.2          miniUI_0.1.2            pillar_1.11.1          
+[112] grid_4.4.2              vctrs_0.7.2             RANN_2.6.2             
+[115] promises_1.5.0          xtable_1.8-8            cluster_2.1.6          
+[118] cli_3.6.5               compiler_4.4.2          rlang_1.1.7            
+[121] crayon_1.5.3            leidenbase_0.1.36       future.apply_1.20.2    
+[124] labeling_0.4.3          plyr_1.8.9              fs_1.6.7               
+[127] stringi_1.8.7           BiocParallel_1.40.0     viridisLite_0.4.3      
+[130] deldir_2.0-4            babelgene_22.9          assertthat_0.2.1       
+[133] lazyeval_0.2.2          spatstat.geom_3.7-0     RcppHNSW_0.6.0         
+[136] hms_1.1.4               bit64_4.6.0-1           future_1.70.0          
+[139] shiny_1.13.0            rbibutils_2.4.1         ROCR_1.0-12            
+[142] igraph_2.2.2            fastmatch_1.1-8         bit_4.6.0              
+
+===== R_sessionInfo_original_singlecell_archived.txt =====
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8 LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] future_1.70.0      harmony_1.2.4      Rcpp_1.1.0         patchwork_1.3.2   
+[5] ggplot2_4.0.2      dplyr_1.2.0        Seurat_5.4.0       SeuratObject_5.3.0
+[9] sp_2.2-1          
+
+loaded via a namespace (and not attached):
+  [1] deldir_2.0-4           pbapply_1.7-4          gridExtra_2.3         
+  [4] rlang_1.1.7            magrittr_2.0.3         rio_1.2.4             
+  [7] RcppAnnoy_0.0.23       otel_0.2.0             matrixStats_1.5.0     
+ [10] ggridges_0.5.7         compiler_4.4.2         spatstat.geom_3.7-0   
+ [13] systemfonts_1.3.2      png_0.1-9              vctrs_0.7.2           
+ [16] reshape2_1.4.5         stringr_1.6.0          pkgconfig_2.0.3       
+ [19] fastmap_1.2.0          labeling_0.4.3         utf8_1.2.6            
+ [22] promises_1.5.0         ggbeeswarm_0.7.3       ragg_1.5.1            
+ [25] purrr_1.2.1            aplot_0.2.9            jsonlite_2.0.0        
+ [28] goftest_1.2-3          later_1.4.8            spatstat.utils_3.2-2  
+ [31] irlba_2.3.7            parallel_4.4.2         cluster_2.1.6         
+ [34] R6_2.6.1               ica_1.0-3              stringi_1.8.7         
+ [37] RColorBrewer_1.1-3     spatstat.data_3.1-9    reticulate_1.45.0     
+ [40] parallelly_1.46.1      spatstat.univar_3.1-6  lmtest_0.9-40         
+ [43] scattermore_1.2        tensor_1.5.1           future.apply_1.20.2   
+ [46] zoo_1.8-15             sctransform_0.4.3      httpuv_1.6.17         
+ [49] Matrix_1.7-1           splines_4.4.2          igraph_2.2.2          
+ [52] tidyselect_1.2.1       rstudioapi_0.18.0      abind_1.4-8           
+ [55] spatstat.random_3.4-4  codetools_0.2-20       miniUI_0.1.2          
+ [58] spatstat.explore_3.7-0 listenv_0.10.1         lattice_0.22-6        
+ [61] tibble_3.3.0           plyr_1.8.9             withr_3.0.2           
+ [64] shiny_1.13.0           S7_0.2.0               ROCR_1.0-12           
+ [67] ggrastr_1.0.2          Rtsne_0.17             gridGraphics_0.5-1    
+ [70] fastDummies_1.7.5      survival_3.7-0         polyclip_1.10-7       
+ [73] fitdistrplus_1.2-6     pillar_1.11.1          KernSmooth_2.23-24    
+ [76] ggfun_0.2.0            plotly_4.12.0          generics_0.1.4        
+ [79] RcppHNSW_0.6.0         scales_1.4.0           globals_0.19.1        
+ [82] xtable_1.8-8           RhpcBLASctl_0.23-42    glue_1.8.0            
+ [85] lazyeval_0.2.2         tools_4.4.2            data.table_1.18.2.1   
+ [88] RSpectra_0.16-2        RANN_2.6.2             fs_1.6.7              
+ [91] dotCall64_1.2          cowplot_1.2.0          grid_4.4.2            
+ [94] tidyr_1.3.2            nlme_3.1-166           beeswarm_0.4.0        
+ [97] vipor_0.4.7            cli_3.6.5              spatstat.sparse_3.1-0 
+[100] rappdirs_0.3.4         textshaping_1.0.5      spam_2.11-1           
+[103] viridisLite_0.4.3      uwot_0.2.4             gtable_0.3.6          
+[106] yulab.utils_0.2.4      digest_0.6.37          progressr_0.18.0      
+[109] ggrepel_0.9.8          ggplotify_0.1.3        htmlwidgets_1.6.4     
+[112] farver_2.1.2           htmltools_0.5.9        lifecycle_1.0.5       
+[115] httr_1.4.8             mime_0.13              MASS_7.3-61           
+
+===== R_sessionInfo_revision_multiverse_archived.txt =====
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] ggplot2_4.0.3       sandwich_3.1-3      metafor_5.0-1      
+ [4] numDeriv_2016.8-1.1 metadat_1.6-0       glmmTMB_1.1.14     
+ [7] lmerTest_3.2-1      lme4_2.0-6          Matrix_1.7-4       
+[10] data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6       dplyr_1.2.1        compiler_4.5.2     tidyselect_1.2.1  
+ [5] Rcpp_1.1.2         splines_4.5.2      scales_1.4.0       boot_1.3-32       
+ [9] lattice_0.22-7     R6_2.6.1           labeling_0.4.3     generics_0.1.4    
+[13] rbibutils_2.4.1    MASS_7.3-65        tibble_3.3.1       nloptr_2.2.1      
+[17] minqa_1.2.8        pillar_1.11.1      RColorBrewer_1.1-3 TMB_1.9.25        
+[21] rlang_1.3.0        mathjaxr_2.0-0     S7_0.2.2           cli_3.6.6         
+[25] withr_3.0.3        magrittr_2.0.5     mgcv_1.9-3         Rdpack_2.6.6      
+[29] digest_0.6.39      grid_4.5.2         lifecycle_1.0.5    nlme_3.1-168      
+[33] reformulas_0.4.4   vctrs_0.7.3        glue_1.8.1         farver_2.1.2      
+[37] zoo_1.9-0          tools_4.5.2        pkgconfig_2.0.3   
+
+===== R_sessionInfo_SCENIC_CellChat_archived.txt =====
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8 LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] SCENIC_1.3.1        GENIE3_1.28.0       RcisTarget_1.26.0   AUCell_1.28.0      
+ [5] pheatmap_1.0.13     future_1.70.0       readr_2.2.0         stringr_1.6.0      
+ [9] patchwork_1.3.2     tidyr_1.3.2         Matrix_1.7-1        CellChat_1.6.1     
+[13] Biobase_2.66.0      BiocGenerics_0.52.0 ggplot2_4.0.2       igraph_2.2.2       
+[17] dplyr_1.2.0         Seurat_5.4.0        SeuratObject_5.3.0  sp_2.2-1           
+
+loaded via a namespace (and not attached):
+  [1] fs_1.6.7                    matrixStats_1.5.0           spatstat.sparse_3.1-0      
+  [4] devtools_2.5.0              httr_1.4.8                  RColorBrewer_1.1-3         
+  [7] doParallel_1.0.17           tools_4.4.2                 sctransform_0.4.3          
+ [10] backports_1.5.0             utf8_1.2.6                  R6_2.6.1                   
+ [13] lazyeval_0.2.2              uwot_0.2.4                  GetoptLong_1.1.0           
+ [16] withr_3.0.2                 gridExtra_2.3               progressr_0.18.0           
+ [19] cli_3.6.5                   textshaping_1.0.5           spatstat.explore_3.7-0     
+ [22] fastDummies_1.7.5           network_1.20.0              labeling_0.4.3             
+ [25] arrow_24.0.0                S7_0.2.0                    spatstat.data_3.1-9        
+ [28] ggridges_0.5.7              pbapply_1.7-4               systemfonts_1.3.2          
+ [31] yulab.utils_0.2.4           R.utils_2.13.0              svglite_2.2.2              
+ [34] sessioninfo_1.2.3           parallelly_1.46.1           rstudioapi_0.18.0          
+ [37] RSQLite_2.4.6               FNN_1.1.4.1                 generics_0.1.4             
+ [40] gridGraphics_0.5-1          shape_1.4.6.1               ica_1.0-3                  
+ [43] spatstat.random_3.4-4       vroom_1.7.0                 car_3.1-5                  
+ [46] S4Vectors_0.44.0            abind_1.4-8                 R.methodsS3_1.8.2          
+ [49] lifecycle_1.0.5             carData_3.0-6               SummarizedExperiment_1.36.0
+ [52] SparseArray_1.6.2           Rtsne_0.17                  grid_4.4.2                 
+ [55] blob_1.3.0                  promises_1.5.0              crayon_1.5.3               
+ [58] miniUI_0.1.2                lattice_0.22-6              cowplot_1.2.0              
+ [61] annotate_1.84.0             KEGGREST_1.46.0             sna_2.8                    
+ [64] pillar_1.11.1               ComplexHeatmap_2.22.0       GenomicRanges_1.58.0       
+ [67] rjson_0.2.23                future.apply_1.20.2         codetools_0.2-20           
+ [70] glue_1.8.0                  ggfun_0.2.0                 spatstat.univar_3.1-6      
+ [73] remotes_2.5.0               data.table_1.18.2.1         vctrs_0.7.2                
+ [76] png_0.1-9                   spam_2.11-1                 gtable_0.3.6               
+ [79] assertthat_0.2.1            cachem_1.1.0                S4Arrays_1.6.0             
+ [82] mime_0.13                   coda_0.19-4.1               survival_3.7-0             
+ [85] iterators_1.0.14            ellipsis_0.3.2              fitdistrplus_1.2-6         
+ [88] ROCR_1.0-12                 nlme_3.1-166                usethis_3.2.1              
+ [91] bit64_4.6.0-1               RcppAnnoy_0.0.23            GenomeInfoDb_1.42.3        
+ [94] irlba_2.3.7                 KernSmooth_2.23-24          otel_0.2.0                 
+ [97] colorspace_2.1-2            DBI_1.3.0                   processx_3.8.6             
+[100] tidyselect_1.2.1            curl_7.0.0                  bit_4.6.0                  
+[103] compiler_4.4.2              graph_1.84.1                BiocNeighbors_1.20.2       
+[106] desc_1.4.3                  DelayedArray_0.32.0         plotly_4.12.0              
+[109] scales_1.4.0                lmtest_0.9-40               callr_3.7.6                
+[112] NMF_0.28                    rappdirs_0.3.4              digest_0.6.37              
+[115] goftest_1.2-3               spatstat.utils_3.2-2        rio_1.2.4                  
+[118] XVector_0.46.0              htmltools_0.5.9             pkgconfig_2.0.3            
+[121] sparseMatrixStats_1.18.0    MatrixGenerics_1.18.1       fastmap_1.2.0              
+[124] rlang_1.1.7                 GlobalOptions_0.1.3         htmlwidgets_1.6.4          
+[127] UCSC.utils_1.2.0            shiny_1.13.0                DelayedMatrixStats_1.28.1  
+[130] farver_2.1.2                zoo_1.8-15                  jsonlite_2.0.0             
+[133] BiocParallel_1.40.0         statnet.common_4.13.0       R.oo_1.27.1                
+[136] magrittr_2.0.3              Formula_1.2-5               GenomeInfoDbData_1.2.13    
+[139] ggnetwork_0.5.14            ggplotify_0.1.3             dotCall64_1.2              
+[142] Rcpp_1.1.0                  reticulate_1.45.0           stringi_1.8.7              
+[145] ggalluvial_0.12.6           zlibbioc_1.52.0             MASS_7.3-61                
+[148] pkgbuild_1.4.8              plyr_1.8.9                  parallel_4.4.2             
+[151] listenv_0.10.1              ggrepel_0.9.8               deldir_2.0-4               
+[154] Biostrings_2.74.1           splines_4.4.2               tensor_1.5.1               
+[157] hms_1.1.4                   circlize_0.4.17             ps_1.9.1                   
+[160] ggpubr_0.6.3                spatstat.geom_3.7-0         ggsignif_0.6.4             
+[163] RcppHNSW_0.6.0              rngtools_1.5.2              pkgload_1.5.0              
+[166] reshape2_1.4.5              stats4_4.4.2                XML_3.99-0.22              
+[169] BiocManager_1.30.27         tzdb_0.5.0                  foreach_1.5.2              
+[172] httpuv_1.6.17               RANN_2.6.2                  purrr_1.2.1                
+[175] polyclip_1.10-7             clue_0.3-67                 scattermore_1.2            
+[178] gridBase_0.4-7              broom_1.0.12                xtable_1.8-8               
+[181] RSpectra_0.16-2             rstatix_0.7.3               later_1.4.8                
+[184] viridisLite_0.4.3           ragg_1.5.1                  tibble_3.3.0               
+[187] aplot_0.2.9                 memoise_2.0.1               AnnotationDbi_1.68.0       
+[190] registry_0.5-1              IRanges_2.40.1              cluster_2.1.6              
+[193] globals_0.19.1              GSEABase_1.68.0            
+
+===== R_sessionInfo_spatial_archived.txt =====
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8    LC_MONETARY=Chinese (Simplified)_China.utf8 LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] jsonlite_2.0.0     png_0.1-9          lme4_2.0-6         Matrix_1.7-4       SeuratObject_5.4.0 sp_2.2-3          
+
+loaded via a namespace (and not attached):
+ [1] nlme_3.1-168        cli_3.6.6           progressr_1.0.0     rlang_1.3.0         reformulas_0.4.4    generics_0.1.4      dotCall64_1.2       minqa_1.2.8         future.apply_1.20.2 listenv_1.0.0      
+[11] grid_4.5.2          MASS_7.3-65         lifecycle_1.0.5     compiler_4.5.2      codetools_0.2-20    Rcpp_1.1.2          future_1.75.0       lattice_0.22-7      digest_0.6.39       nloptr_2.2.1       
+[21] parallelly_1.48.0   Rdpack_2.6.6        parallel_4.5.2      splines_4.5.2       spam_2.11-4         rbibutils_2.4.1     tools_4.5.2         boot_1.3-32         globals_0.19.1     

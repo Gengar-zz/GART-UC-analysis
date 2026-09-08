@@ -1,0 +1,9 @@
+module_number,module,marker,display_order,interpretation,directionality,causal_interpretation
+1,Inflammatory context,MIF,1,candidate tissue-validation marker,none,FALSE
+1,Inflammatory context,CD74,2,candidate tissue-validation marker,none,FALSE
+2,Proliferative state,MYBL2,1,candidate tissue-validation marker,none,FALSE
+2,Proliferative state,Ki67,2,candidate tissue-validation marker,none,FALSE
+2,Proliferative state,PCNA,3,candidate tissue-validation marker,none,FALSE
+3,Nucleotide/replication program,PAICS,1,candidate tissue-validation marker,none,FALSE
+3,Nucleotide/replication program,MCM7,2,candidate tissue-validation marker,none,FALSE
+3,Nucleotide/replication program,GINS2,3,candidate tissue-validation marker,none,FALSE

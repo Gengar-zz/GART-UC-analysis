@@ -1,0 +1,1261 @@
+donor_id,cohort,condition,gart_threshold,sender,sender_cells,undetected_cells,detected_cells,min_cells,eligible,exclusion_reason
+GSE214695_HC1,GSE214695,Healthy,1,Myeloid,0,0,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Myeloid,0,0,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Myeloid,0,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Myeloid,0,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Myeloid,2,2,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Myeloid,2,2,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Myeloid,0,0,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Myeloid,0,0,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Myeloid,1,2,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Myeloid,1,2,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Myeloid,0,0,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Myeloid,0,0,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Myeloid,0,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Myeloid,0,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Myeloid,1,12,5,10,FALSE,sender below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Myeloid,1,12,4,10,FALSE,sender below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Myeloid,0,8,6,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Myeloid,0,8,2,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Myeloid,9,2,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Myeloid,9,2,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Myeloid,0,2,1,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Myeloid,0,2,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Myeloid,0,55,35,10,FALSE,sender below minimum
+GSE214695_UC6,GSE214695,UC,2,Myeloid,0,55,19,10,FALSE,sender below minimum
+SCP259_N10,SCP259,Healthy,1,Myeloid,544,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Myeloid,544,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Myeloid,682,292,121,10,TRUE,retained
+SCP259_N106,SCP259,UC,2,Myeloid,682,292,38,10,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Myeloid,76,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Myeloid,76,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Myeloid,265,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Myeloid,265,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Myeloid,1115,210,138,10,TRUE,retained
+SCP259_N111,SCP259,UC,2,Myeloid,1115,210,40,10,TRUE,retained
+SCP259_N12,SCP259,UC,1,Myeloid,182,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Myeloid,182,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Myeloid,205,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Myeloid,205,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Myeloid,57,1,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Myeloid,57,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Myeloid,263,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Myeloid,263,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Myeloid,220,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Myeloid,220,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Myeloid,221,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Myeloid,221,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Myeloid,313,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Myeloid,313,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Myeloid,143,3,4,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Myeloid,143,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Myeloid,388,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Myeloid,388,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Myeloid,163,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Myeloid,163,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Myeloid,380,828,258,10,TRUE,retained
+SCP259_N23,SCP259,UC,2,Myeloid,380,828,78,10,TRUE,retained
+SCP259_N24,SCP259,UC,1,Myeloid,308,2252,1394,10,TRUE,retained
+SCP259_N24,SCP259,UC,2,Myeloid,308,2252,442,10,TRUE,retained
+SCP259_N26,SCP259,UC,1,Myeloid,499,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Myeloid,499,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Myeloid,855,162,124,10,TRUE,retained
+SCP259_N44,SCP259,UC,2,Myeloid,855,162,44,10,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Myeloid,1443,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Myeloid,1443,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Myeloid,635,302,140,10,TRUE,retained
+SCP259_N49,SCP259,UC,2,Myeloid,635,302,42,10,TRUE,retained
+SCP259_N50,SCP259,UC,1,Myeloid,513,430,184,10,TRUE,retained
+SCP259_N50,SCP259,UC,2,Myeloid,513,430,56,10,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Myeloid,846,18,2,10,FALSE,GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Myeloid,846,18,1,10,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Myeloid,871,115,13,10,TRUE,retained
+SCP259_N52,SCP259,UC,2,Myeloid,871,115,0,10,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Myeloid,569,174,106,10,TRUE,retained
+SCP259_N539,SCP259,UC,2,Myeloid,569,174,28,10,TRUE,retained
+SCP259_N58,SCP259,UC,1,Myeloid,725,227,174,10,TRUE,retained
+SCP259_N58,SCP259,UC,2,Myeloid,725,227,76,10,TRUE,retained
+SCP259_N661,SCP259,UC,1,Myeloid,8554,710,236,10,TRUE,retained
+SCP259_N661,SCP259,UC,2,Myeloid,8554,710,57,10,TRUE,retained
+SCP259_N7,SCP259,UC,1,Myeloid,332,19,8,10,FALSE,GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Myeloid,332,19,3,10,FALSE,GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Myeloid,124,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Myeloid,124,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Myeloid,445,379,125,10,TRUE,retained
+SCP259_N9,SCP259,UC,2,Myeloid,445,379,46,10,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Fibroblast,120,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Fibroblast,120,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Fibroblast,37,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Fibroblast,37,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Fibroblast,114,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Fibroblast,114,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Fibroblast,200,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Fibroblast,200,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Fibroblast,382,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Fibroblast,382,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Fibroblast,177,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Fibroblast,177,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Fibroblast,206,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Fibroblast,206,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Fibroblast,47,12,5,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Fibroblast,47,12,4,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Fibroblast,104,8,6,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Fibroblast,104,8,2,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Fibroblast,15,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Fibroblast,15,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Fibroblast,167,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Fibroblast,167,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Fibroblast,110,55,35,10,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Fibroblast,110,55,19,10,TRUE,retained
+SCP259_N10,SCP259,Healthy,1,Fibroblast,1669,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Fibroblast,1669,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Fibroblast,488,292,121,10,TRUE,retained
+SCP259_N106,SCP259,UC,2,Fibroblast,488,292,38,10,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Fibroblast,252,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Fibroblast,252,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Fibroblast,509,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Fibroblast,509,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Fibroblast,1790,210,138,10,TRUE,retained
+SCP259_N111,SCP259,UC,2,Fibroblast,1790,210,40,10,TRUE,retained
+SCP259_N12,SCP259,UC,1,Fibroblast,586,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Fibroblast,586,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Fibroblast,232,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Fibroblast,232,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Fibroblast,376,1,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Fibroblast,376,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Fibroblast,522,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Fibroblast,522,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Fibroblast,301,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Fibroblast,301,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Fibroblast,281,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Fibroblast,281,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Fibroblast,794,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Fibroblast,794,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Fibroblast,323,3,4,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Fibroblast,323,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Fibroblast,427,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Fibroblast,427,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Fibroblast,276,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Fibroblast,276,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Fibroblast,240,828,258,10,TRUE,retained
+SCP259_N23,SCP259,UC,2,Fibroblast,240,828,78,10,TRUE,retained
+SCP259_N24,SCP259,UC,1,Fibroblast,1104,2252,1394,10,TRUE,retained
+SCP259_N24,SCP259,UC,2,Fibroblast,1104,2252,442,10,TRUE,retained
+SCP259_N26,SCP259,UC,1,Fibroblast,631,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Fibroblast,631,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Fibroblast,864,162,124,10,TRUE,retained
+SCP259_N44,SCP259,UC,2,Fibroblast,864,162,44,10,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Fibroblast,996,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Fibroblast,996,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Fibroblast,1054,302,140,10,TRUE,retained
+SCP259_N49,SCP259,UC,2,Fibroblast,1054,302,42,10,TRUE,retained
+SCP259_N50,SCP259,UC,1,Fibroblast,545,430,184,10,TRUE,retained
+SCP259_N50,SCP259,UC,2,Fibroblast,545,430,56,10,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Fibroblast,571,18,2,10,FALSE,GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Fibroblast,571,18,1,10,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Fibroblast,2750,115,13,10,TRUE,retained
+SCP259_N52,SCP259,UC,2,Fibroblast,2750,115,0,10,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Fibroblast,1308,174,106,10,TRUE,retained
+SCP259_N539,SCP259,UC,2,Fibroblast,1308,174,28,10,TRUE,retained
+SCP259_N58,SCP259,UC,1,Fibroblast,1865,227,174,10,TRUE,retained
+SCP259_N58,SCP259,UC,2,Fibroblast,1865,227,76,10,TRUE,retained
+SCP259_N661,SCP259,UC,1,Fibroblast,1789,710,236,10,TRUE,retained
+SCP259_N661,SCP259,UC,2,Fibroblast,1789,710,57,10,TRUE,retained
+SCP259_N7,SCP259,UC,1,Fibroblast,887,19,8,10,FALSE,GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Fibroblast,887,19,3,10,FALSE,GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Fibroblast,385,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Fibroblast,385,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Fibroblast,488,379,125,10,TRUE,retained
+SCP259_N9,SCP259,UC,2,Fibroblast,488,379,46,10,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Endothelial,14,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Endothelial,14,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Endothelial,1,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Endothelial,1,1,0,10,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Endothelial,11,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Endothelial,11,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Endothelial,12,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Endothelial,12,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Endothelial,18,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Endothelial,18,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Endothelial,14,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Endothelial,14,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Endothelial,20,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Endothelial,20,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Endothelial,8,12,5,10,FALSE,sender below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Endothelial,8,12,4,10,FALSE,sender below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Endothelial,49,8,6,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Endothelial,49,8,2,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Endothelial,25,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Endothelial,25,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Endothelial,37,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Endothelial,37,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Endothelial,20,55,35,10,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Endothelial,20,55,19,10,TRUE,retained
+SCP259_N10,SCP259,Healthy,1,Endothelial,212,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Endothelial,212,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Endothelial,75,292,121,10,TRUE,retained
+SCP259_N106,SCP259,UC,2,Endothelial,75,292,38,10,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Endothelial,79,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Endothelial,79,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Endothelial,59,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Endothelial,59,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Endothelial,383,210,138,10,TRUE,retained
+SCP259_N111,SCP259,UC,2,Endothelial,383,210,40,10,TRUE,retained
+SCP259_N12,SCP259,UC,1,Endothelial,215,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Endothelial,215,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Endothelial,28,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Endothelial,28,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Endothelial,176,1,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Endothelial,176,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Endothelial,174,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Endothelial,174,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Endothelial,44,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Endothelial,44,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Endothelial,61,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Endothelial,61,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Endothelial,82,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Endothelial,82,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Endothelial,82,3,4,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Endothelial,82,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Endothelial,106,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Endothelial,106,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Endothelial,27,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Endothelial,27,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Endothelial,66,828,258,10,TRUE,retained
+SCP259_N23,SCP259,UC,2,Endothelial,66,828,78,10,TRUE,retained
+SCP259_N24,SCP259,UC,1,Endothelial,249,2252,1394,10,TRUE,retained
+SCP259_N24,SCP259,UC,2,Endothelial,249,2252,442,10,TRUE,retained
+SCP259_N26,SCP259,UC,1,Endothelial,65,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Endothelial,65,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Endothelial,131,162,124,10,TRUE,retained
+SCP259_N44,SCP259,UC,2,Endothelial,131,162,44,10,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Endothelial,160,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Endothelial,160,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Endothelial,313,302,140,10,TRUE,retained
+SCP259_N49,SCP259,UC,2,Endothelial,313,302,42,10,TRUE,retained
+SCP259_N50,SCP259,UC,1,Endothelial,161,430,184,10,TRUE,retained
+SCP259_N50,SCP259,UC,2,Endothelial,161,430,56,10,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Endothelial,57,18,2,10,FALSE,GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Endothelial,57,18,1,10,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Endothelial,426,115,13,10,TRUE,retained
+SCP259_N52,SCP259,UC,2,Endothelial,426,115,0,10,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Endothelial,316,174,106,10,TRUE,retained
+SCP259_N539,SCP259,UC,2,Endothelial,316,174,28,10,TRUE,retained
+SCP259_N58,SCP259,UC,1,Endothelial,579,227,174,10,TRUE,retained
+SCP259_N58,SCP259,UC,2,Endothelial,579,227,76,10,TRUE,retained
+SCP259_N661,SCP259,UC,1,Endothelial,834,710,236,10,TRUE,retained
+SCP259_N661,SCP259,UC,2,Endothelial,834,710,57,10,TRUE,retained
+SCP259_N7,SCP259,UC,1,Endothelial,111,19,8,10,FALSE,GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Endothelial,111,19,3,10,FALSE,GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Endothelial,76,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Endothelial,76,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Endothelial,201,379,125,10,TRUE,retained
+SCP259_N9,SCP259,UC,2,Endothelial,201,379,46,10,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Other epithelial,256,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Other epithelial,256,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Other epithelial,975,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Other epithelial,975,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Other epithelial,1672,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Other epithelial,1672,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Other epithelial,1438,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Other epithelial,1438,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Other epithelial,1303,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Other epithelial,1303,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Other epithelial,1068,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Other epithelial,1068,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Other epithelial,36,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Other epithelial,36,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Other epithelial,303,12,5,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Other epithelial,303,12,4,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Other epithelial,85,8,6,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Other epithelial,85,8,2,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Other epithelial,205,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Other epithelial,205,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Other epithelial,68,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Other epithelial,68,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Other epithelial,329,55,35,10,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Other epithelial,329,55,19,10,TRUE,retained
+SCP259_N10,SCP259,Healthy,1,Other epithelial,6648,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Other epithelial,6648,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Other epithelial,1398,292,121,10,TRUE,retained
+SCP259_N106,SCP259,UC,2,Other epithelial,1398,292,38,10,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Other epithelial,5188,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Other epithelial,5188,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Other epithelial,6918,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Other epithelial,6918,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Other epithelial,2767,210,138,10,TRUE,retained
+SCP259_N111,SCP259,UC,2,Other epithelial,2767,210,40,10,TRUE,retained
+SCP259_N12,SCP259,UC,1,Other epithelial,775,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Other epithelial,775,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Other epithelial,1486,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Other epithelial,1486,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Other epithelial,2828,1,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Other epithelial,2828,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Other epithelial,6082,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Other epithelial,6082,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Other epithelial,3094,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Other epithelial,3094,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Other epithelial,2323,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Other epithelial,2323,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Other epithelial,3441,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Other epithelial,3441,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Other epithelial,3568,3,4,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Other epithelial,3568,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Other epithelial,2740,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Other epithelial,2740,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Other epithelial,4247,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Other epithelial,4247,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Other epithelial,5576,828,258,10,TRUE,retained
+SCP259_N23,SCP259,UC,2,Other epithelial,5576,828,78,10,TRUE,retained
+SCP259_N24,SCP259,UC,1,Other epithelial,4315,2252,1394,10,TRUE,retained
+SCP259_N24,SCP259,UC,2,Other epithelial,4315,2252,442,10,TRUE,retained
+SCP259_N26,SCP259,UC,1,Other epithelial,6767,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Other epithelial,6767,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Other epithelial,2408,162,124,10,TRUE,retained
+SCP259_N44,SCP259,UC,2,Other epithelial,2408,162,44,10,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Other epithelial,3074,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Other epithelial,3074,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Other epithelial,631,302,140,10,TRUE,retained
+SCP259_N49,SCP259,UC,2,Other epithelial,631,302,42,10,TRUE,retained
+SCP259_N50,SCP259,UC,1,Other epithelial,1588,430,184,10,TRUE,retained
+SCP259_N50,SCP259,UC,2,Other epithelial,1588,430,56,10,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Other epithelial,11190,18,2,10,FALSE,GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Other epithelial,11190,18,1,10,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Other epithelial,10879,115,13,10,TRUE,retained
+SCP259_N52,SCP259,UC,2,Other epithelial,10879,115,0,10,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Other epithelial,1119,174,106,10,TRUE,retained
+SCP259_N539,SCP259,UC,2,Other epithelial,1119,174,28,10,TRUE,retained
+SCP259_N58,SCP259,UC,1,Other epithelial,6927,227,174,10,TRUE,retained
+SCP259_N58,SCP259,UC,2,Other epithelial,6927,227,76,10,TRUE,retained
+SCP259_N661,SCP259,UC,1,Other epithelial,950,710,236,10,TRUE,retained
+SCP259_N661,SCP259,UC,2,Other epithelial,950,710,57,10,TRUE,retained
+SCP259_N7,SCP259,UC,1,Other epithelial,779,19,8,10,FALSE,GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Other epithelial,779,19,3,10,FALSE,GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Other epithelial,960,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Other epithelial,960,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Other epithelial,5409,379,125,10,TRUE,retained
+SCP259_N9,SCP259,UC,2,Other epithelial,5409,379,46,10,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,T/NK,630,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,T/NK,630,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,T/NK,505,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,T/NK,505,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,T/NK,951,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,T/NK,951,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,T/NK,342,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,T/NK,342,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,T/NK,613,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,T/NK,613,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,T/NK,213,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,T/NK,213,0,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,T/NK,375,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,T/NK,375,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,T/NK,532,12,5,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,T/NK,532,12,4,10,FALSE,GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,T/NK,366,8,6,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,T/NK,366,8,2,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,T/NK,1328,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,T/NK,1328,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,T/NK,638,2,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,T/NK,638,2,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,T/NK,1037,55,35,10,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,T/NK,1037,55,19,10,TRUE,retained
+SCP259_N10,SCP259,Healthy,1,T/NK,3227,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,T/NK,3227,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,T/NK,2198,292,121,10,TRUE,retained
+SCP259_N106,SCP259,UC,2,T/NK,2198,292,38,10,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,T/NK,487,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,T/NK,487,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,T/NK,523,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,T/NK,523,7,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,T/NK,7929,210,138,10,TRUE,retained
+SCP259_N111,SCP259,UC,2,T/NK,7929,210,40,10,TRUE,retained
+SCP259_N12,SCP259,UC,1,T/NK,231,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,T/NK,231,4,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,T/NK,859,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,T/NK,859,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,T/NK,837,1,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,T/NK,837,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,T/NK,1923,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,T/NK,1923,1,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,T/NK,551,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,T/NK,551,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,T/NK,757,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,T/NK,757,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,T/NK,1199,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,T/NK,1199,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,T/NK,1237,3,4,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,T/NK,1237,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,T/NK,2629,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,T/NK,2629,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,T/NK,923,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,T/NK,923,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,T/NK,2332,828,258,10,TRUE,retained
+SCP259_N23,SCP259,UC,2,T/NK,2332,828,78,10,TRUE,retained
+SCP259_N24,SCP259,UC,1,T/NK,1884,2252,1394,10,TRUE,retained
+SCP259_N24,SCP259,UC,2,T/NK,1884,2252,442,10,TRUE,retained
+SCP259_N26,SCP259,UC,1,T/NK,1169,3,1,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,T/NK,1169,3,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,T/NK,3242,162,124,10,TRUE,retained
+SCP259_N44,SCP259,UC,2,T/NK,3242,162,44,10,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,T/NK,2142,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,T/NK,2142,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,T/NK,2405,302,140,10,TRUE,retained
+SCP259_N49,SCP259,UC,2,T/NK,2405,302,42,10,TRUE,retained
+SCP259_N50,SCP259,UC,1,T/NK,2532,430,184,10,TRUE,retained
+SCP259_N50,SCP259,UC,2,T/NK,2532,430,56,10,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,T/NK,4983,18,2,10,FALSE,GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,T/NK,4983,18,1,10,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,T/NK,7983,115,13,10,TRUE,retained
+SCP259_N52,SCP259,UC,2,T/NK,7983,115,0,10,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,T/NK,1897,174,106,10,TRUE,retained
+SCP259_N539,SCP259,UC,2,T/NK,1897,174,28,10,TRUE,retained
+SCP259_N58,SCP259,UC,1,T/NK,3988,227,174,10,TRUE,retained
+SCP259_N58,SCP259,UC,2,T/NK,3988,227,76,10,TRUE,retained
+SCP259_N661,SCP259,UC,1,T/NK,18351,710,236,10,TRUE,retained
+SCP259_N661,SCP259,UC,2,T/NK,18351,710,57,10,TRUE,retained
+SCP259_N7,SCP259,UC,1,T/NK,628,19,8,10,FALSE,GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,T/NK,628,19,3,10,FALSE,GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,T/NK,221,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,T/NK,221,0,0,10,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,T/NK,2775,379,125,10,TRUE,retained
+SCP259_N9,SCP259,UC,2,T/NK,2775,379,46,10,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Myeloid,0,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Myeloid,0,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Myeloid,0,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Myeloid,0,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Myeloid,2,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Myeloid,2,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Myeloid,0,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Myeloid,0,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Myeloid,1,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Myeloid,1,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Myeloid,0,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Myeloid,0,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Myeloid,0,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Myeloid,0,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Myeloid,1,12,5,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Myeloid,1,12,4,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Myeloid,0,8,6,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Myeloid,0,8,2,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Myeloid,9,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Myeloid,9,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Myeloid,0,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Myeloid,0,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Myeloid,0,55,35,20,FALSE,sender below minimum
+GSE214695_UC6,GSE214695,UC,2,Myeloid,0,55,19,20,FALSE,sender below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Myeloid,544,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Myeloid,544,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Myeloid,682,292,121,20,TRUE,retained
+SCP259_N106,SCP259,UC,2,Myeloid,682,292,38,20,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Myeloid,76,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Myeloid,76,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Myeloid,265,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Myeloid,265,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Myeloid,1115,210,138,20,TRUE,retained
+SCP259_N111,SCP259,UC,2,Myeloid,1115,210,40,20,TRUE,retained
+SCP259_N12,SCP259,UC,1,Myeloid,182,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Myeloid,182,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Myeloid,205,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Myeloid,205,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Myeloid,57,1,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Myeloid,57,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Myeloid,263,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Myeloid,263,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Myeloid,220,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Myeloid,220,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Myeloid,221,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Myeloid,221,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Myeloid,313,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Myeloid,313,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Myeloid,143,3,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Myeloid,143,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Myeloid,388,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Myeloid,388,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Myeloid,163,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Myeloid,163,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Myeloid,380,828,258,20,TRUE,retained
+SCP259_N23,SCP259,UC,2,Myeloid,380,828,78,20,TRUE,retained
+SCP259_N24,SCP259,UC,1,Myeloid,308,2252,1394,20,TRUE,retained
+SCP259_N24,SCP259,UC,2,Myeloid,308,2252,442,20,TRUE,retained
+SCP259_N26,SCP259,UC,1,Myeloid,499,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Myeloid,499,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Myeloid,855,162,124,20,TRUE,retained
+SCP259_N44,SCP259,UC,2,Myeloid,855,162,44,20,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Myeloid,1443,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Myeloid,1443,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Myeloid,635,302,140,20,TRUE,retained
+SCP259_N49,SCP259,UC,2,Myeloid,635,302,42,20,TRUE,retained
+SCP259_N50,SCP259,UC,1,Myeloid,513,430,184,20,TRUE,retained
+SCP259_N50,SCP259,UC,2,Myeloid,513,430,56,20,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Myeloid,846,18,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Myeloid,846,18,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Myeloid,871,115,13,20,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Myeloid,871,115,0,20,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Myeloid,569,174,106,20,TRUE,retained
+SCP259_N539,SCP259,UC,2,Myeloid,569,174,28,20,TRUE,retained
+SCP259_N58,SCP259,UC,1,Myeloid,725,227,174,20,TRUE,retained
+SCP259_N58,SCP259,UC,2,Myeloid,725,227,76,20,TRUE,retained
+SCP259_N661,SCP259,UC,1,Myeloid,8554,710,236,20,TRUE,retained
+SCP259_N661,SCP259,UC,2,Myeloid,8554,710,57,20,TRUE,retained
+SCP259_N7,SCP259,UC,1,Myeloid,332,19,8,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Myeloid,332,19,3,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Myeloid,124,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Myeloid,124,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Myeloid,445,379,125,20,TRUE,retained
+SCP259_N9,SCP259,UC,2,Myeloid,445,379,46,20,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Fibroblast,120,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Fibroblast,120,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Fibroblast,37,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Fibroblast,37,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Fibroblast,114,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Fibroblast,114,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Fibroblast,200,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Fibroblast,200,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Fibroblast,382,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Fibroblast,382,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Fibroblast,177,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Fibroblast,177,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Fibroblast,206,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Fibroblast,206,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Fibroblast,47,12,5,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Fibroblast,47,12,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Fibroblast,104,8,6,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Fibroblast,104,8,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Fibroblast,15,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Fibroblast,15,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Fibroblast,167,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Fibroblast,167,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Fibroblast,110,55,35,20,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Fibroblast,110,55,19,20,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Fibroblast,1669,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Fibroblast,1669,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Fibroblast,488,292,121,20,TRUE,retained
+SCP259_N106,SCP259,UC,2,Fibroblast,488,292,38,20,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Fibroblast,252,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Fibroblast,252,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Fibroblast,509,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Fibroblast,509,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Fibroblast,1790,210,138,20,TRUE,retained
+SCP259_N111,SCP259,UC,2,Fibroblast,1790,210,40,20,TRUE,retained
+SCP259_N12,SCP259,UC,1,Fibroblast,586,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Fibroblast,586,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Fibroblast,232,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Fibroblast,232,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Fibroblast,376,1,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Fibroblast,376,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Fibroblast,522,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Fibroblast,522,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Fibroblast,301,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Fibroblast,301,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Fibroblast,281,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Fibroblast,281,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Fibroblast,794,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Fibroblast,794,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Fibroblast,323,3,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Fibroblast,323,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Fibroblast,427,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Fibroblast,427,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Fibroblast,276,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Fibroblast,276,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Fibroblast,240,828,258,20,TRUE,retained
+SCP259_N23,SCP259,UC,2,Fibroblast,240,828,78,20,TRUE,retained
+SCP259_N24,SCP259,UC,1,Fibroblast,1104,2252,1394,20,TRUE,retained
+SCP259_N24,SCP259,UC,2,Fibroblast,1104,2252,442,20,TRUE,retained
+SCP259_N26,SCP259,UC,1,Fibroblast,631,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Fibroblast,631,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Fibroblast,864,162,124,20,TRUE,retained
+SCP259_N44,SCP259,UC,2,Fibroblast,864,162,44,20,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Fibroblast,996,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Fibroblast,996,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Fibroblast,1054,302,140,20,TRUE,retained
+SCP259_N49,SCP259,UC,2,Fibroblast,1054,302,42,20,TRUE,retained
+SCP259_N50,SCP259,UC,1,Fibroblast,545,430,184,20,TRUE,retained
+SCP259_N50,SCP259,UC,2,Fibroblast,545,430,56,20,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Fibroblast,571,18,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Fibroblast,571,18,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Fibroblast,2750,115,13,20,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Fibroblast,2750,115,0,20,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Fibroblast,1308,174,106,20,TRUE,retained
+SCP259_N539,SCP259,UC,2,Fibroblast,1308,174,28,20,TRUE,retained
+SCP259_N58,SCP259,UC,1,Fibroblast,1865,227,174,20,TRUE,retained
+SCP259_N58,SCP259,UC,2,Fibroblast,1865,227,76,20,TRUE,retained
+SCP259_N661,SCP259,UC,1,Fibroblast,1789,710,236,20,TRUE,retained
+SCP259_N661,SCP259,UC,2,Fibroblast,1789,710,57,20,TRUE,retained
+SCP259_N7,SCP259,UC,1,Fibroblast,887,19,8,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Fibroblast,887,19,3,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Fibroblast,385,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Fibroblast,385,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Fibroblast,488,379,125,20,TRUE,retained
+SCP259_N9,SCP259,UC,2,Fibroblast,488,379,46,20,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Endothelial,14,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Endothelial,14,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Endothelial,1,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Endothelial,1,1,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Endothelial,11,2,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Endothelial,11,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Endothelial,12,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Endothelial,12,0,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Endothelial,18,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Endothelial,18,2,0,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Endothelial,14,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Endothelial,14,0,1,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Endothelial,20,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Endothelial,20,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Endothelial,8,12,5,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Endothelial,8,12,4,20,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Endothelial,49,8,6,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Endothelial,49,8,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Endothelial,25,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Endothelial,25,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Endothelial,37,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Endothelial,37,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Endothelial,20,55,35,20,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Endothelial,20,55,19,20,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Endothelial,212,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Endothelial,212,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Endothelial,75,292,121,20,TRUE,retained
+SCP259_N106,SCP259,UC,2,Endothelial,75,292,38,20,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Endothelial,79,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Endothelial,79,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Endothelial,59,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Endothelial,59,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Endothelial,383,210,138,20,TRUE,retained
+SCP259_N111,SCP259,UC,2,Endothelial,383,210,40,20,TRUE,retained
+SCP259_N12,SCP259,UC,1,Endothelial,215,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Endothelial,215,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Endothelial,28,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Endothelial,28,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Endothelial,176,1,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Endothelial,176,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Endothelial,174,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Endothelial,174,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Endothelial,44,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Endothelial,44,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Endothelial,61,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Endothelial,61,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Endothelial,82,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Endothelial,82,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Endothelial,82,3,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Endothelial,82,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Endothelial,106,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Endothelial,106,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Endothelial,27,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Endothelial,27,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Endothelial,66,828,258,20,TRUE,retained
+SCP259_N23,SCP259,UC,2,Endothelial,66,828,78,20,TRUE,retained
+SCP259_N24,SCP259,UC,1,Endothelial,249,2252,1394,20,TRUE,retained
+SCP259_N24,SCP259,UC,2,Endothelial,249,2252,442,20,TRUE,retained
+SCP259_N26,SCP259,UC,1,Endothelial,65,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Endothelial,65,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Endothelial,131,162,124,20,TRUE,retained
+SCP259_N44,SCP259,UC,2,Endothelial,131,162,44,20,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Endothelial,160,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Endothelial,160,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Endothelial,313,302,140,20,TRUE,retained
+SCP259_N49,SCP259,UC,2,Endothelial,313,302,42,20,TRUE,retained
+SCP259_N50,SCP259,UC,1,Endothelial,161,430,184,20,TRUE,retained
+SCP259_N50,SCP259,UC,2,Endothelial,161,430,56,20,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Endothelial,57,18,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Endothelial,57,18,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Endothelial,426,115,13,20,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Endothelial,426,115,0,20,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Endothelial,316,174,106,20,TRUE,retained
+SCP259_N539,SCP259,UC,2,Endothelial,316,174,28,20,TRUE,retained
+SCP259_N58,SCP259,UC,1,Endothelial,579,227,174,20,TRUE,retained
+SCP259_N58,SCP259,UC,2,Endothelial,579,227,76,20,TRUE,retained
+SCP259_N661,SCP259,UC,1,Endothelial,834,710,236,20,TRUE,retained
+SCP259_N661,SCP259,UC,2,Endothelial,834,710,57,20,TRUE,retained
+SCP259_N7,SCP259,UC,1,Endothelial,111,19,8,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Endothelial,111,19,3,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Endothelial,76,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Endothelial,76,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Endothelial,201,379,125,20,TRUE,retained
+SCP259_N9,SCP259,UC,2,Endothelial,201,379,46,20,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Other epithelial,256,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Other epithelial,256,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Other epithelial,975,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Other epithelial,975,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Other epithelial,1672,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Other epithelial,1672,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Other epithelial,1438,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Other epithelial,1438,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Other epithelial,1303,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Other epithelial,1303,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Other epithelial,1068,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Other epithelial,1068,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Other epithelial,36,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Other epithelial,36,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Other epithelial,303,12,5,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Other epithelial,303,12,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Other epithelial,85,8,6,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Other epithelial,85,8,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Other epithelial,205,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Other epithelial,205,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Other epithelial,68,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Other epithelial,68,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Other epithelial,329,55,35,20,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Other epithelial,329,55,19,20,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Other epithelial,6648,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Other epithelial,6648,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Other epithelial,1398,292,121,20,TRUE,retained
+SCP259_N106,SCP259,UC,2,Other epithelial,1398,292,38,20,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Other epithelial,5188,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Other epithelial,5188,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Other epithelial,6918,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Other epithelial,6918,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Other epithelial,2767,210,138,20,TRUE,retained
+SCP259_N111,SCP259,UC,2,Other epithelial,2767,210,40,20,TRUE,retained
+SCP259_N12,SCP259,UC,1,Other epithelial,775,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Other epithelial,775,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Other epithelial,1486,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Other epithelial,1486,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Other epithelial,2828,1,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Other epithelial,2828,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Other epithelial,6082,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Other epithelial,6082,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Other epithelial,3094,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Other epithelial,3094,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Other epithelial,2323,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Other epithelial,2323,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Other epithelial,3441,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Other epithelial,3441,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Other epithelial,3568,3,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Other epithelial,3568,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Other epithelial,2740,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Other epithelial,2740,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Other epithelial,4247,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Other epithelial,4247,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Other epithelial,5576,828,258,20,TRUE,retained
+SCP259_N23,SCP259,UC,2,Other epithelial,5576,828,78,20,TRUE,retained
+SCP259_N24,SCP259,UC,1,Other epithelial,4315,2252,1394,20,TRUE,retained
+SCP259_N24,SCP259,UC,2,Other epithelial,4315,2252,442,20,TRUE,retained
+SCP259_N26,SCP259,UC,1,Other epithelial,6767,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Other epithelial,6767,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Other epithelial,2408,162,124,20,TRUE,retained
+SCP259_N44,SCP259,UC,2,Other epithelial,2408,162,44,20,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Other epithelial,3074,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Other epithelial,3074,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Other epithelial,631,302,140,20,TRUE,retained
+SCP259_N49,SCP259,UC,2,Other epithelial,631,302,42,20,TRUE,retained
+SCP259_N50,SCP259,UC,1,Other epithelial,1588,430,184,20,TRUE,retained
+SCP259_N50,SCP259,UC,2,Other epithelial,1588,430,56,20,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Other epithelial,11190,18,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Other epithelial,11190,18,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Other epithelial,10879,115,13,20,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Other epithelial,10879,115,0,20,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Other epithelial,1119,174,106,20,TRUE,retained
+SCP259_N539,SCP259,UC,2,Other epithelial,1119,174,28,20,TRUE,retained
+SCP259_N58,SCP259,UC,1,Other epithelial,6927,227,174,20,TRUE,retained
+SCP259_N58,SCP259,UC,2,Other epithelial,6927,227,76,20,TRUE,retained
+SCP259_N661,SCP259,UC,1,Other epithelial,950,710,236,20,TRUE,retained
+SCP259_N661,SCP259,UC,2,Other epithelial,950,710,57,20,TRUE,retained
+SCP259_N7,SCP259,UC,1,Other epithelial,779,19,8,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Other epithelial,779,19,3,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Other epithelial,960,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Other epithelial,960,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Other epithelial,5409,379,125,20,TRUE,retained
+SCP259_N9,SCP259,UC,2,Other epithelial,5409,379,46,20,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,T/NK,630,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,T/NK,630,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,T/NK,505,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,T/NK,505,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,T/NK,951,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,T/NK,951,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,T/NK,342,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,T/NK,342,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,T/NK,613,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,T/NK,613,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,T/NK,213,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,T/NK,213,0,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,T/NK,375,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,T/NK,375,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,T/NK,532,12,5,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,T/NK,532,12,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,T/NK,366,8,6,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,T/NK,366,8,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,T/NK,1328,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,T/NK,1328,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,T/NK,638,2,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,T/NK,638,2,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,T/NK,1037,55,35,20,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,T/NK,1037,55,19,20,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,T/NK,3227,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,T/NK,3227,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,T/NK,2198,292,121,20,TRUE,retained
+SCP259_N106,SCP259,UC,2,T/NK,2198,292,38,20,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,T/NK,487,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,T/NK,487,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,T/NK,523,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,T/NK,523,7,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,T/NK,7929,210,138,20,TRUE,retained
+SCP259_N111,SCP259,UC,2,T/NK,7929,210,40,20,TRUE,retained
+SCP259_N12,SCP259,UC,1,T/NK,231,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,T/NK,231,4,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,T/NK,859,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,T/NK,859,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,T/NK,837,1,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,T/NK,837,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,T/NK,1923,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,T/NK,1923,1,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,T/NK,551,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,T/NK,551,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,T/NK,757,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,T/NK,757,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,T/NK,1199,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,T/NK,1199,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,T/NK,1237,3,4,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,T/NK,1237,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,T/NK,2629,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,T/NK,2629,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,T/NK,923,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,T/NK,923,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,T/NK,2332,828,258,20,TRUE,retained
+SCP259_N23,SCP259,UC,2,T/NK,2332,828,78,20,TRUE,retained
+SCP259_N24,SCP259,UC,1,T/NK,1884,2252,1394,20,TRUE,retained
+SCP259_N24,SCP259,UC,2,T/NK,1884,2252,442,20,TRUE,retained
+SCP259_N26,SCP259,UC,1,T/NK,1169,3,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,T/NK,1169,3,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,T/NK,3242,162,124,20,TRUE,retained
+SCP259_N44,SCP259,UC,2,T/NK,3242,162,44,20,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,T/NK,2142,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,T/NK,2142,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,T/NK,2405,302,140,20,TRUE,retained
+SCP259_N49,SCP259,UC,2,T/NK,2405,302,42,20,TRUE,retained
+SCP259_N50,SCP259,UC,1,T/NK,2532,430,184,20,TRUE,retained
+SCP259_N50,SCP259,UC,2,T/NK,2532,430,56,20,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,T/NK,4983,18,2,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,T/NK,4983,18,1,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,T/NK,7983,115,13,20,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,T/NK,7983,115,0,20,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,T/NK,1897,174,106,20,TRUE,retained
+SCP259_N539,SCP259,UC,2,T/NK,1897,174,28,20,TRUE,retained
+SCP259_N58,SCP259,UC,1,T/NK,3988,227,174,20,TRUE,retained
+SCP259_N58,SCP259,UC,2,T/NK,3988,227,76,20,TRUE,retained
+SCP259_N661,SCP259,UC,1,T/NK,18351,710,236,20,TRUE,retained
+SCP259_N661,SCP259,UC,2,T/NK,18351,710,57,20,TRUE,retained
+SCP259_N7,SCP259,UC,1,T/NK,628,19,8,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,T/NK,628,19,3,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,T/NK,221,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,T/NK,221,0,0,20,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,T/NK,2775,379,125,20,TRUE,retained
+SCP259_N9,SCP259,UC,2,T/NK,2775,379,46,20,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Myeloid,0,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Myeloid,0,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Myeloid,0,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Myeloid,0,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Myeloid,2,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Myeloid,2,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Myeloid,0,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Myeloid,0,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Myeloid,1,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Myeloid,1,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Myeloid,0,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Myeloid,0,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Myeloid,0,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Myeloid,0,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Myeloid,1,12,5,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Myeloid,1,12,4,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Myeloid,0,8,6,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Myeloid,0,8,2,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Myeloid,9,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Myeloid,9,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Myeloid,0,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Myeloid,0,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Myeloid,0,55,35,30,FALSE,sender below minimum
+GSE214695_UC6,GSE214695,UC,2,Myeloid,0,55,19,30,FALSE,sender below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Myeloid,544,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Myeloid,544,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Myeloid,682,292,121,30,TRUE,retained
+SCP259_N106,SCP259,UC,2,Myeloid,682,292,38,30,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Myeloid,76,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Myeloid,76,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Myeloid,265,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Myeloid,265,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Myeloid,1115,210,138,30,TRUE,retained
+SCP259_N111,SCP259,UC,2,Myeloid,1115,210,40,30,TRUE,retained
+SCP259_N12,SCP259,UC,1,Myeloid,182,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Myeloid,182,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Myeloid,205,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Myeloid,205,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Myeloid,57,1,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Myeloid,57,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Myeloid,263,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Myeloid,263,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Myeloid,220,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Myeloid,220,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Myeloid,221,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Myeloid,221,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Myeloid,313,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Myeloid,313,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Myeloid,143,3,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Myeloid,143,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Myeloid,388,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Myeloid,388,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Myeloid,163,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Myeloid,163,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Myeloid,380,828,258,30,TRUE,retained
+SCP259_N23,SCP259,UC,2,Myeloid,380,828,78,30,TRUE,retained
+SCP259_N24,SCP259,UC,1,Myeloid,308,2252,1394,30,TRUE,retained
+SCP259_N24,SCP259,UC,2,Myeloid,308,2252,442,30,TRUE,retained
+SCP259_N26,SCP259,UC,1,Myeloid,499,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Myeloid,499,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Myeloid,855,162,124,30,TRUE,retained
+SCP259_N44,SCP259,UC,2,Myeloid,855,162,44,30,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Myeloid,1443,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Myeloid,1443,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Myeloid,635,302,140,30,TRUE,retained
+SCP259_N49,SCP259,UC,2,Myeloid,635,302,42,30,TRUE,retained
+SCP259_N50,SCP259,UC,1,Myeloid,513,430,184,30,TRUE,retained
+SCP259_N50,SCP259,UC,2,Myeloid,513,430,56,30,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Myeloid,846,18,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Myeloid,846,18,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Myeloid,871,115,13,30,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Myeloid,871,115,0,30,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Myeloid,569,174,106,30,TRUE,retained
+SCP259_N539,SCP259,UC,2,Myeloid,569,174,28,30,FALSE,GART-detected receiver below minimum
+SCP259_N58,SCP259,UC,1,Myeloid,725,227,174,30,TRUE,retained
+SCP259_N58,SCP259,UC,2,Myeloid,725,227,76,30,TRUE,retained
+SCP259_N661,SCP259,UC,1,Myeloid,8554,710,236,30,TRUE,retained
+SCP259_N661,SCP259,UC,2,Myeloid,8554,710,57,30,TRUE,retained
+SCP259_N7,SCP259,UC,1,Myeloid,332,19,8,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Myeloid,332,19,3,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Myeloid,124,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Myeloid,124,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Myeloid,445,379,125,30,TRUE,retained
+SCP259_N9,SCP259,UC,2,Myeloid,445,379,46,30,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Fibroblast,120,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Fibroblast,120,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Fibroblast,37,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Fibroblast,37,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Fibroblast,114,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Fibroblast,114,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Fibroblast,200,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Fibroblast,200,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Fibroblast,382,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Fibroblast,382,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Fibroblast,177,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Fibroblast,177,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Fibroblast,206,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Fibroblast,206,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Fibroblast,47,12,5,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Fibroblast,47,12,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Fibroblast,104,8,6,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Fibroblast,104,8,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Fibroblast,15,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Fibroblast,15,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Fibroblast,167,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Fibroblast,167,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Fibroblast,110,55,35,30,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Fibroblast,110,55,19,30,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Fibroblast,1669,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Fibroblast,1669,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Fibroblast,488,292,121,30,TRUE,retained
+SCP259_N106,SCP259,UC,2,Fibroblast,488,292,38,30,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Fibroblast,252,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Fibroblast,252,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Fibroblast,509,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Fibroblast,509,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Fibroblast,1790,210,138,30,TRUE,retained
+SCP259_N111,SCP259,UC,2,Fibroblast,1790,210,40,30,TRUE,retained
+SCP259_N12,SCP259,UC,1,Fibroblast,586,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Fibroblast,586,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Fibroblast,232,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Fibroblast,232,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Fibroblast,376,1,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Fibroblast,376,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Fibroblast,522,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Fibroblast,522,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Fibroblast,301,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Fibroblast,301,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Fibroblast,281,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Fibroblast,281,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Fibroblast,794,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Fibroblast,794,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Fibroblast,323,3,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Fibroblast,323,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Fibroblast,427,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Fibroblast,427,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Fibroblast,276,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Fibroblast,276,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Fibroblast,240,828,258,30,TRUE,retained
+SCP259_N23,SCP259,UC,2,Fibroblast,240,828,78,30,TRUE,retained
+SCP259_N24,SCP259,UC,1,Fibroblast,1104,2252,1394,30,TRUE,retained
+SCP259_N24,SCP259,UC,2,Fibroblast,1104,2252,442,30,TRUE,retained
+SCP259_N26,SCP259,UC,1,Fibroblast,631,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Fibroblast,631,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Fibroblast,864,162,124,30,TRUE,retained
+SCP259_N44,SCP259,UC,2,Fibroblast,864,162,44,30,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Fibroblast,996,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Fibroblast,996,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Fibroblast,1054,302,140,30,TRUE,retained
+SCP259_N49,SCP259,UC,2,Fibroblast,1054,302,42,30,TRUE,retained
+SCP259_N50,SCP259,UC,1,Fibroblast,545,430,184,30,TRUE,retained
+SCP259_N50,SCP259,UC,2,Fibroblast,545,430,56,30,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Fibroblast,571,18,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Fibroblast,571,18,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Fibroblast,2750,115,13,30,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Fibroblast,2750,115,0,30,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Fibroblast,1308,174,106,30,TRUE,retained
+SCP259_N539,SCP259,UC,2,Fibroblast,1308,174,28,30,FALSE,GART-detected receiver below minimum
+SCP259_N58,SCP259,UC,1,Fibroblast,1865,227,174,30,TRUE,retained
+SCP259_N58,SCP259,UC,2,Fibroblast,1865,227,76,30,TRUE,retained
+SCP259_N661,SCP259,UC,1,Fibroblast,1789,710,236,30,TRUE,retained
+SCP259_N661,SCP259,UC,2,Fibroblast,1789,710,57,30,TRUE,retained
+SCP259_N7,SCP259,UC,1,Fibroblast,887,19,8,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Fibroblast,887,19,3,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Fibroblast,385,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Fibroblast,385,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Fibroblast,488,379,125,30,TRUE,retained
+SCP259_N9,SCP259,UC,2,Fibroblast,488,379,46,30,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Endothelial,14,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Endothelial,14,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Endothelial,1,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Endothelial,1,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Endothelial,11,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Endothelial,11,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Endothelial,12,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Endothelial,12,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Endothelial,18,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Endothelial,18,2,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Endothelial,14,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Endothelial,14,0,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Endothelial,20,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Endothelial,20,1,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Endothelial,8,12,5,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Endothelial,8,12,4,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Endothelial,49,8,6,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Endothelial,49,8,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Endothelial,25,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Endothelial,25,2,1,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Endothelial,37,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Endothelial,37,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Endothelial,20,55,35,30,FALSE,sender below minimum
+GSE214695_UC6,GSE214695,UC,2,Endothelial,20,55,19,30,FALSE,sender below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Endothelial,212,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Endothelial,212,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Endothelial,75,292,121,30,TRUE,retained
+SCP259_N106,SCP259,UC,2,Endothelial,75,292,38,30,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Endothelial,79,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Endothelial,79,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Endothelial,59,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Endothelial,59,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Endothelial,383,210,138,30,TRUE,retained
+SCP259_N111,SCP259,UC,2,Endothelial,383,210,40,30,TRUE,retained
+SCP259_N12,SCP259,UC,1,Endothelial,215,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Endothelial,215,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Endothelial,28,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Endothelial,28,0,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Endothelial,176,1,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Endothelial,176,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Endothelial,174,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Endothelial,174,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Endothelial,44,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Endothelial,44,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Endothelial,61,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Endothelial,61,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Endothelial,82,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Endothelial,82,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Endothelial,82,3,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Endothelial,82,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Endothelial,106,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Endothelial,106,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Endothelial,27,3,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Endothelial,27,3,0,30,FALSE,sender below minimum; GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Endothelial,66,828,258,30,TRUE,retained
+SCP259_N23,SCP259,UC,2,Endothelial,66,828,78,30,TRUE,retained
+SCP259_N24,SCP259,UC,1,Endothelial,249,2252,1394,30,TRUE,retained
+SCP259_N24,SCP259,UC,2,Endothelial,249,2252,442,30,TRUE,retained
+SCP259_N26,SCP259,UC,1,Endothelial,65,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Endothelial,65,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Endothelial,131,162,124,30,TRUE,retained
+SCP259_N44,SCP259,UC,2,Endothelial,131,162,44,30,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Endothelial,160,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Endothelial,160,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Endothelial,313,302,140,30,TRUE,retained
+SCP259_N49,SCP259,UC,2,Endothelial,313,302,42,30,TRUE,retained
+SCP259_N50,SCP259,UC,1,Endothelial,161,430,184,30,TRUE,retained
+SCP259_N50,SCP259,UC,2,Endothelial,161,430,56,30,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Endothelial,57,18,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Endothelial,57,18,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Endothelial,426,115,13,30,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Endothelial,426,115,0,30,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Endothelial,316,174,106,30,TRUE,retained
+SCP259_N539,SCP259,UC,2,Endothelial,316,174,28,30,FALSE,GART-detected receiver below minimum
+SCP259_N58,SCP259,UC,1,Endothelial,579,227,174,30,TRUE,retained
+SCP259_N58,SCP259,UC,2,Endothelial,579,227,76,30,TRUE,retained
+SCP259_N661,SCP259,UC,1,Endothelial,834,710,236,30,TRUE,retained
+SCP259_N661,SCP259,UC,2,Endothelial,834,710,57,30,TRUE,retained
+SCP259_N7,SCP259,UC,1,Endothelial,111,19,8,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Endothelial,111,19,3,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Endothelial,76,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Endothelial,76,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Endothelial,201,379,125,30,TRUE,retained
+SCP259_N9,SCP259,UC,2,Endothelial,201,379,46,30,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,Other epithelial,256,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,Other epithelial,256,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,Other epithelial,975,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,Other epithelial,975,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,Other epithelial,1672,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,Other epithelial,1672,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,Other epithelial,1438,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,Other epithelial,1438,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,Other epithelial,1303,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,Other epithelial,1303,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,Other epithelial,1068,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,Other epithelial,1068,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,Other epithelial,36,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,Other epithelial,36,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,Other epithelial,303,12,5,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,Other epithelial,303,12,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,Other epithelial,85,8,6,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,Other epithelial,85,8,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,Other epithelial,205,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,Other epithelial,205,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,Other epithelial,68,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,Other epithelial,68,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,Other epithelial,329,55,35,30,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,Other epithelial,329,55,19,30,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,Other epithelial,6648,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,Other epithelial,6648,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,Other epithelial,1398,292,121,30,TRUE,retained
+SCP259_N106,SCP259,UC,2,Other epithelial,1398,292,38,30,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,Other epithelial,5188,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,Other epithelial,5188,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,Other epithelial,6918,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,Other epithelial,6918,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,Other epithelial,2767,210,138,30,TRUE,retained
+SCP259_N111,SCP259,UC,2,Other epithelial,2767,210,40,30,TRUE,retained
+SCP259_N12,SCP259,UC,1,Other epithelial,775,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,Other epithelial,775,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,Other epithelial,1486,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,Other epithelial,1486,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,Other epithelial,2828,1,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,Other epithelial,2828,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,Other epithelial,6082,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,Other epithelial,6082,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,Other epithelial,3094,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,Other epithelial,3094,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,Other epithelial,2323,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,Other epithelial,2323,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,Other epithelial,3441,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,Other epithelial,3441,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,Other epithelial,3568,3,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,Other epithelial,3568,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,Other epithelial,2740,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,Other epithelial,2740,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,Other epithelial,4247,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,Other epithelial,4247,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,Other epithelial,5576,828,258,30,TRUE,retained
+SCP259_N23,SCP259,UC,2,Other epithelial,5576,828,78,30,TRUE,retained
+SCP259_N24,SCP259,UC,1,Other epithelial,4315,2252,1394,30,TRUE,retained
+SCP259_N24,SCP259,UC,2,Other epithelial,4315,2252,442,30,TRUE,retained
+SCP259_N26,SCP259,UC,1,Other epithelial,6767,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,Other epithelial,6767,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,Other epithelial,2408,162,124,30,TRUE,retained
+SCP259_N44,SCP259,UC,2,Other epithelial,2408,162,44,30,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,Other epithelial,3074,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,Other epithelial,3074,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,Other epithelial,631,302,140,30,TRUE,retained
+SCP259_N49,SCP259,UC,2,Other epithelial,631,302,42,30,TRUE,retained
+SCP259_N50,SCP259,UC,1,Other epithelial,1588,430,184,30,TRUE,retained
+SCP259_N50,SCP259,UC,2,Other epithelial,1588,430,56,30,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,Other epithelial,11190,18,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,Other epithelial,11190,18,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,Other epithelial,10879,115,13,30,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,Other epithelial,10879,115,0,30,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,Other epithelial,1119,174,106,30,TRUE,retained
+SCP259_N539,SCP259,UC,2,Other epithelial,1119,174,28,30,FALSE,GART-detected receiver below minimum
+SCP259_N58,SCP259,UC,1,Other epithelial,6927,227,174,30,TRUE,retained
+SCP259_N58,SCP259,UC,2,Other epithelial,6927,227,76,30,TRUE,retained
+SCP259_N661,SCP259,UC,1,Other epithelial,950,710,236,30,TRUE,retained
+SCP259_N661,SCP259,UC,2,Other epithelial,950,710,57,30,TRUE,retained
+SCP259_N7,SCP259,UC,1,Other epithelial,779,19,8,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,Other epithelial,779,19,3,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,Other epithelial,960,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,Other epithelial,960,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,Other epithelial,5409,379,125,30,TRUE,retained
+SCP259_N9,SCP259,UC,2,Other epithelial,5409,379,46,30,TRUE,retained
+GSE214695_HC1,GSE214695,Healthy,1,T/NK,630,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC1,GSE214695,Healthy,2,T/NK,630,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,1,T/NK,505,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC2,GSE214695,Healthy,2,T/NK,505,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,1,T/NK,951,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC3,GSE214695,Healthy,2,T/NK,951,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,1,T/NK,342,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC4,GSE214695,Healthy,2,T/NK,342,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,1,T/NK,613,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC5,GSE214695,Healthy,2,T/NK,613,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,1,T/NK,213,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_HC6,GSE214695,Healthy,2,T/NK,213,0,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,1,T/NK,375,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC1,GSE214695,UC,2,T/NK,375,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,1,T/NK,532,12,5,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC2,GSE214695,UC,2,T/NK,532,12,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,1,T/NK,366,8,6,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC3,GSE214695,UC,2,T/NK,366,8,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,1,T/NK,1328,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC4,GSE214695,UC,2,T/NK,1328,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,1,T/NK,638,2,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC5,GSE214695,UC,2,T/NK,638,2,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+GSE214695_UC6,GSE214695,UC,1,T/NK,1037,55,35,30,TRUE,retained
+GSE214695_UC6,GSE214695,UC,2,T/NK,1037,55,19,30,FALSE,GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,1,T/NK,3227,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N10,SCP259,Healthy,2,T/NK,3227,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N106,SCP259,UC,1,T/NK,2198,292,121,30,TRUE,retained
+SCP259_N106,SCP259,UC,2,T/NK,2198,292,38,30,TRUE,retained
+SCP259_N11,SCP259,Healthy,1,T/NK,487,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N11,SCP259,Healthy,2,T/NK,487,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,1,T/NK,523,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N110,SCP259,UC,2,T/NK,523,7,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N111,SCP259,UC,1,T/NK,7929,210,138,30,TRUE,retained
+SCP259_N111,SCP259,UC,2,T/NK,7929,210,40,30,TRUE,retained
+SCP259_N12,SCP259,UC,1,T/NK,231,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N12,SCP259,UC,2,T/NK,231,4,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,1,T/NK,859,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N13,SCP259,Healthy,2,T/NK,859,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,1,T/NK,837,1,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N14,SCP259,UC,2,T/NK,837,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,1,T/NK,1923,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N15,SCP259,Healthy,2,T/NK,1923,1,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,1,T/NK,551,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N16,SCP259,Healthy,2,T/NK,551,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,1,T/NK,757,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N17,SCP259,Healthy,2,T/NK,757,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,1,T/NK,1199,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N18,SCP259,Healthy,2,T/NK,1199,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,1,T/NK,1237,3,4,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N19,SCP259,UC,2,T/NK,1237,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,1,T/NK,2629,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N20,SCP259,Healthy,2,T/NK,2629,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,1,T/NK,923,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N21,SCP259,Healthy,2,T/NK,923,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N23,SCP259,UC,1,T/NK,2332,828,258,30,TRUE,retained
+SCP259_N23,SCP259,UC,2,T/NK,2332,828,78,30,TRUE,retained
+SCP259_N24,SCP259,UC,1,T/NK,1884,2252,1394,30,TRUE,retained
+SCP259_N24,SCP259,UC,2,T/NK,1884,2252,442,30,TRUE,retained
+SCP259_N26,SCP259,UC,1,T/NK,1169,3,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N26,SCP259,UC,2,T/NK,1169,3,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N44,SCP259,UC,1,T/NK,3242,162,124,30,TRUE,retained
+SCP259_N44,SCP259,UC,2,T/NK,3242,162,44,30,TRUE,retained
+SCP259_N46,SCP259,Healthy,1,T/NK,2142,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N46,SCP259,Healthy,2,T/NK,2142,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N49,SCP259,UC,1,T/NK,2405,302,140,30,TRUE,retained
+SCP259_N49,SCP259,UC,2,T/NK,2405,302,42,30,TRUE,retained
+SCP259_N50,SCP259,UC,1,T/NK,2532,430,184,30,TRUE,retained
+SCP259_N50,SCP259,UC,2,T/NK,2532,430,56,30,TRUE,retained
+SCP259_N51,SCP259,Healthy,1,T/NK,4983,18,2,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N51,SCP259,Healthy,2,T/NK,4983,18,1,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,1,T/NK,7983,115,13,30,FALSE,GART-detected receiver below minimum
+SCP259_N52,SCP259,UC,2,T/NK,7983,115,0,30,FALSE,GART-detected receiver below minimum
+SCP259_N539,SCP259,UC,1,T/NK,1897,174,106,30,TRUE,retained
+SCP259_N539,SCP259,UC,2,T/NK,1897,174,28,30,FALSE,GART-detected receiver below minimum
+SCP259_N58,SCP259,UC,1,T/NK,3988,227,174,30,TRUE,retained
+SCP259_N58,SCP259,UC,2,T/NK,3988,227,76,30,TRUE,retained
+SCP259_N661,SCP259,UC,1,T/NK,18351,710,236,30,TRUE,retained
+SCP259_N661,SCP259,UC,2,T/NK,18351,710,57,30,TRUE,retained
+SCP259_N7,SCP259,UC,1,T/NK,628,19,8,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N7,SCP259,UC,2,T/NK,628,19,3,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,1,T/NK,221,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N8,SCP259,Healthy,2,T/NK,221,0,0,30,FALSE,GART-undetected receiver below minimum; GART-detected receiver below minimum
+SCP259_N9,SCP259,UC,1,T/NK,2775,379,125,30,TRUE,retained
+SCP259_N9,SCP259,UC,2,T/NK,2775,379,46,30,TRUE,retained

@@ -1,0 +1,97 @@
+﻿figure,panel,endpoint,planned_mouse_slot,group,planned_n,measured,included_in_analysis,exclusion_or_missing_reason,notes,selection_status,missing_reason,exclusion_status
+Figure 8,A,Body weight,CTRL_01,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,CTRL_02,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,CTRL_03,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,CTRL_04,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,CTRL_05,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,CTRL_06,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_01,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_02,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_03,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_04,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_05,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,A,Body weight,DSS_06,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_01,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_02,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_03,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_04,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_05,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,CTRL_06,Control,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_01,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_02,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_03,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_04,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_05,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,B,Disease activity index,DSS_06,Model,6,Yes,Yes,NA,Cross-day trajectory preserved; cross-endpoint animal identity not archived,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_01,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_02,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_03,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_04,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_05,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,CTRL_06,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_01,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_02,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_03,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_04,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_05,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,C,Splenic index,DSS_06,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_01,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_02,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_03,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_04,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_05,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,CTRL_06,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_01,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_02,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_03,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_04,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_05,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,D,Colon length,DSS_06,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_01,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_02,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_03,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_04,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_05,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,CTRL_06,Control,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_01,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_02,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_03,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_04,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_05,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,E,Histology score,DSS_06,Model,6,Yes,Yes,NA,Endpoint-specific source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_01,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_02,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_03,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_04,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_05,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,CTRL_06,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_01,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_02,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_03,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_04,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_05,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,F-J,CBC endpoints,DSS_06,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_01,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_02,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_03,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_04,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_05,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,CTRL_06,Control,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_01,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_02,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_03,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_04,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_05,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,K-O,Cytokines,DSS_06,Model,6,Yes,Yes,NA,Endpoint-specific mouse source positions,Full cohort assayed,NA,Not excluded
+Figure 8,P,Barrier IHC,CTRL_01,Control,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,CTRL_02,Control,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,CTRL_03,Control,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,CTRL_04,Control,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded
+Figure 8,P,Barrier IHC,CTRL_05,Control,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded
+Figure 8,P,Barrier IHC,CTRL_06,Control,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded
+Figure 8,P,Barrier IHC,DSS_01,Model,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,DSS_02,Model,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,DSS_03,Model,6,Yes,Yes,NA,One distinct individual mouse; multiple fields of view averaged within mouse before analysis.,Randomly selected imaging subset,NA,Not excluded
+Figure 8,P,Barrier IHC,DSS_04,Model,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded
+Figure 8,P,Barrier IHC,DSS_05,Model,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded
+Figure 8,P,Barrier IHC,DSS_06,Model,6,No,No,Not selected for this imaging endpoint,"Animal remained in the original cohort and was not an experimental exclusion, missing animal, or failed measurement.",Not selected for this imaging endpoint,Not applicable,Not excluded

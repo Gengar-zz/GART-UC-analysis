@@ -1,0 +1,55 @@
+Figure,Panel,Analysis,Script,Source_data,Statistical_unit,Status
+Figure 1,A,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
+Figure 1,B,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
+Figure 1,C,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
+Figure 1,D,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
+Figure 1,E-H,Final revision panel,scripts/01_bulk/03_four_cohort_meta_analysis.py,data_public/figure_source_data/Figure1/four_cohort_effect_sizes.csv,cohort,Final source mapped
+Figure 2,A,Final revision panel,scripts/09_figure_generation/plot_Figure2C_D.R,data_public/figure_source_data/Figure2/Fig2C_GART_detection_source_data.csv,cell (descriptive),Final source mapped
+Figure 2,B,Final revision panel,scripts/09_figure_generation/plot_Figure2C_D.R,data_public/figure_source_data/Figure2/Fig2B_faceted_epithelial_marker_dotplot_source_data.csv,cell (descriptive),Final source mapped
+Figure 2,C,Final revision panel,scripts/09_figure_generation/plot_Figure2C_D.R,data_public/figure_source_data/Figure2/Fig2C_GART_detection_source_data.csv,cell (descriptive),Final source mapped
+Figure 2,D,Final revision panel,scripts/09_figure_generation/plot_Figure2C_D.R,data_public/figure_source_data/Figure2/Fig2D_ISClike_subcluster_source_data.csv,cell (descriptive),Final source mapped
+Figure 2,E-F,Final revision panel,scripts/09_figure_generation/plot_Figure2E_F_G.R,data_public/figure_source_data/Figure2/Fig2F_ISClike_subcluster_profiles_source_data.csv,cell (descriptive),Final source mapped
+Figure 2,G,Final revision panel,scripts/09_figure_generation/plot_Figure2E_F_G.R,data_public/figure_source_data/Figure2/Fig2G_equal_donor_percentage_source_data.csv,donor,Final source mapped
+Figure 3,A,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3A_source_data.csv,donor,Final source mapped
+Figure 3,B,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3B_pseudobulk_DEG_source_data.csv,donor,Final source mapped
+Figure 3,C,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3C_Hallmark_GSEA_source_data.csv,donor,Final source mapped
+Figure 3,D,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3D_Reactome_GO_GSEA_source_data.xlsx,donor,Final source mapped
+Figure 3,E,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3E_paired_donor_modules_source_data.csv,donor,Final source mapped
+Figure 3,F,Final revision panel,scripts/09_figure_generation/plot_Figure3A_F.R,data_public/figure_source_data/Figure3/Fig3F_cell_cycle_stratified_source_data.csv,donor,Final source mapped
+Figure 3,G,Final revision panel,scripts/09_figure_generation/plot_Figure3G.R,data_public/figure_source_data/Figure3/Fig3G_representative_proliferation_nucleotide_gene_effects_source_data.csv,donor,Final source mapped
+Figure 4,A,Final revision panel,scripts/05_pseudotime/01_pseudotime_sensitivity.R,data_public/figure_source_data/Figure4/pseudotime_cell_plot_data.csv,cell/gene output,Final source mapped
+Figure 4,B,Final revision panel,scripts/05_pseudotime/01_pseudotime_sensitivity.R,data_public/figure_source_data/Figure4/pseudotime_donor_summary.csv,donor,Final source mapped
+Figure 4,C,Final revision panel,scripts/09_figure_generation/plot_Figure4C_D_F.R,data_public/figure_source_data/Figure4/Fig4C_source_data.csv,cell/gene output,Final source mapped
+Figure 4,D,Final revision panel,scripts/09_figure_generation/plot_Figure4C_D_F.R,data_public/figure_source_data/Figure4/Fig4D_source_data.csv,cell/gene output,Final source mapped
+Figure 4,E,Final revision panel,scripts/09_figure_generation/plot_Figure4C_D_F.R,data_public/figure_source_data/Figure4/Fig4E_focused_candidate_source_data.csv,cell/gene output,Final source mapped
+Figure 4,F,Final revision panel,scripts/09_figure_generation/plot_Figure4C_D_F.R,data_public/figure_source_data/Figure4/Fig4F_core_programs_source_data.csv,cell/gene output,Final source mapped
+Figure 5,A,Final revision panel,scripts/07_cell_communication/02_build_final_CellChat_LIANA_summaries.R,data_public/figure_source_data/Figure5/Fig5A_MIF_CellChat_donor_source_data.csv,donor,Final source mapped
+Figure 5,B,Final revision panel,scripts/07_cell_communication/02_build_final_CellChat_LIANA_summaries.R,data_public/figure_source_data/Figure5/Fig5B_LIANA_consensus_donor_source_data.csv,donor,Final source mapped
+Figure 5,C,Final revision panel,scripts/07_cell_communication/02_build_final_CellChat_LIANA_summaries.R,data_public/figure_source_data/Figure5/Fig5C_MIF_CD74_context_heatmap_source_data.csv,descriptive candidate,Final source mapped
+Figure 5,D,Final revision panel,scripts/09_figure_generation/plot_Figure5D.R,data_public/figure_source_data/Figure5/Fig5D_MYBL2_expression_rebuild_source_data.csv,donor,Final source mapped
+Figure 5,E,Final revision panel,scripts/09_figure_generation/plot_Figure5F.R,data_public/figure_source_data/Figure5/Fig5E_proliferation_nucleotide_lollipop_source_data.csv,descriptive candidate,Final source mapped
+Figure 5,F,Final revision panel,scripts/09_figure_generation/plot_Figure5F.R,data_public/figure_source_data/Figure5/Fig5F_tissue_validation_marker_summary_source_data.csv,descriptive candidate,Final source mapped
+Figure 6,A,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure 6,B,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure 6,C,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/revised_primary_donor_scores.csv,donor,Final source mapped
+Figure 6,D,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure 6,E,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure 6,F,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure 7,A,Final revision panel,Not recoverable; locked numerical source data,data_public/figure_source_data/Figure7/Fig7A_participant_level_source_data.csv,participant,Final source mapped
+Figure 7,B,Final revision panel,Not recoverable; locked numerical source data,data_public/figure_source_data/Figure7/Fig7B_participant_level_source_data.csv,participant,Final source mapped
+Figure 7,C,Final revision panel,Not recoverable; locked numerical source data,data_public/figure_source_data/Figure7/Fig7C_participant_level_source_data.csv,participant,Final source mapped
+Figure 8,A,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/body_weight_mouse_level.csv,mouse x day,Final source mapped
+Figure 8,B,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/DAI_mouse_level.csv,mouse x day,Final source mapped
+Figure 8,C,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/spleen_mouse_level.csv,mouse,Final source mapped
+Figure 8,D,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/colon_length_mouse_level.csv,mouse,Final source mapped
+Figure 8,E,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/histology_mouse_level.csv,mouse,Final source mapped
+Figure 8,F-J,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/blood_mouse_level.csv,mouse,Final source mapped
+Figure 8,K-O,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/cytokine_mouse_level.csv,mouse,Final source mapped
+Figure 8,P,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/barrier_IHC_mouse_level.csv,mouse,Final source mapped
+Figure 9,A-D,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure9/IF_mouse_level_source_data.csv,mouse,Final source mapped
+Figure S1,A-B,Final revision panel,See main-stage scripts,data_public/figure_source_data/Supplementary_Figures/four_cohort_effect_sizes.csv,donor,Final source mapped
+Figure S2,A-B,Final revision panel,See main-stage scripts,data_public/figure_source_data/Figure2/GART_donor_fraction.csv,donor,Final source mapped
+Figure S3,A-B,Final revision panel,See main-stage scripts,data_public/figure_source_data/Figure3/primary_module_mixed_models.csv,donor,Final source mapped
+Figure S4,A,Final revision panel,See main-stage scripts,data_public/figure_source_data/Figure4/pseudotime_cell_plot_data.csv,donor,Final source mapped
+Figure S5,A-B,Final revision panel,See main-stage scripts,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
+Figure S6,A-D,Final revision panel,See main-stage scripts,data_public/figure_source_data/Figure9/IF_mouse_level_source_data.csv,mouse,Final source mapped

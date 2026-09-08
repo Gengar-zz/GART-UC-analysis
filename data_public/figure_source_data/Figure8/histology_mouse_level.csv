@@ -1,0 +1,13 @@
+﻿panel,mouse_id,group,endpoint,value,unit,included_in_analysis,missing_reason,source_record,animal_identity_note
+E,CTRL_HIST_01,Control,Histology score,1.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,CTRL_HIST_02,Control,Histology score,0.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,CTRL_HIST_03,Control,Histology score,0.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,CTRL_HIST_04,Control,Histology score,0.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,CTRL_HIST_05,Control,Histology score,1.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,CTRL_HIST_06,Control,Histology score,0.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_01,Model,Histology score,5.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_02,Model,Histology score,8.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_03,Model,Histology score,7.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_04,Model,Histology score,6.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_05,Model,Histology score,8.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+E,DSS_HIST_06,Model,Histology score,6.0,score,Yes,NA,HCS.pzfx,Source-position ID; cross-endpoint animal mapping not archived

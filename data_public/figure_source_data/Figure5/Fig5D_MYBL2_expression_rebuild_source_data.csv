@@ -1,0 +1,2 @@
+gene,log2FC,CI_low,CI_high,nominal_P,BH_FDR,n_paired_donors,cell_threshold,biological_unit,model,donor_level_expression_matrix_available,donor_values_reconstructed,display_type
+MYBL2,0.526792704014918,0.302483903129004,0.751101504900831,4.16267327732355e-06,0.000239919410070971,11,20,donor-by-GART-state pseudobulk,edgeR QL; design ~ donor_id + GART_status,FALSE,FALSE,single-row lollipop/effect plot

@@ -1,0 +1,11 @@
+﻿Column,Definition
+Panel,Figure 7 panel; participant identity is panel-specific.
+Staining_panel,Multiplex immunofluorescence staining combination.
+Participant_ID,De-identified panel-specific participant identifier assigned according to the verified final cohort structure and FINAL Prism row order; not a clinical identifier.
+Group,Healthy or UC.
+Endpoint,Quantitative endpoint title in the original FINAL GraphPad Prism table.
+Value,Authoritative participant-level value exported directly from the original FINAL GraphPad Prism table without quantitative transformation.
+Unit,Measurement unit corresponding to the endpoint.
+Biological_unit,Biological and statistical unit; participant for every record.
+Numerical_source,Authority used for the quantitative value.
+Cross_panel_identity,Cross-panel participant identity was not inferred.

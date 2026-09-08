@@ -1,0 +1,6 @@
+method,paired_P,BH_FDR,positive_donor_n,paired_donor_n,direction
+CellPhoneDB,0.0009765625,0.0101961525537634,11,11,Positive
+Connectome,0.0009765625,0.0101961525537634,11,11,Positive
+Geometric mean,0.0009765625,0.0101961525537634,11,11,Positive
+LIANA consensus,0.0009765625,0.0101961525537634,11,11,Positive
+NATMI,0.0009765625,0.0101961525537634,11,11,Positive

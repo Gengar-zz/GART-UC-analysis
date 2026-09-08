@@ -1,0 +1,5 @@
+display_order,module,label,n_genes,median_rank,median_percentile,enrichment_P,FDR,minus_log10_FDR,display_scope,analysis_type
+1,Reactome_DNA_replication,DNA replication,69,1056,0.268224536449073,6.67638207131118e-06,4.67346744991783e-05,4.33036077776731,main-text core program,exploratory computational perturbation
+2,Reactome_DNA_repair,DNA repair,112,1233.5,0.313309626619253,0.000243780356029362,0.000784177236291633,3.10558576889174,main-text core program,exploratory computational perturbation
+3,Reactome_mitotic_cell_cycle,Mitotic cell cycle,215,1412,0.358648717297435,0.000694852050967745,0.00121599108919355,2.91506960757007,main-text core program,exploratory computational perturbation
+4,Reactome_purine_GART_excluded,Purine biosynthesis (GART excluded),4,286,0.0726441452882906,0.00193986101657736,0.0027158054232083,2.56610134877079,main-text core program,exploratory computational perturbation

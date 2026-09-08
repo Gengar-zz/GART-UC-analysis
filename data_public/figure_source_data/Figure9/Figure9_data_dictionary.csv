@@ -1,0 +1,6 @@
+﻿field,definition
+mouse_id,De-identified stable ID for one distinct individual mouse.
+statistical_unit,Mouse.
+selection_status,Random 3-of-6 imaging subset selected before quantification and independently of the final imaging outcome.
+aggregation_rule,Multiple fields of view were averaged within each mouse before group-level statistical analysis.
+exclusion_status,Animals not selected for imaging were not experimental exclusions.

@@ -1,0 +1,3 @@
+environment/*.txt whitespace=-trailing-space
+session_info/*.txt whitespace=-trailing-space
+PUBLIC_SOURCE_DATA_TRACEABILITY.tsv whitespace=-trailing-space

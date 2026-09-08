@@ -1,0 +1,13 @@
+﻿panel,mouse_id,group,endpoint,value,unit,included_in_analysis,missing_reason,source_record,animal_identity_note
+D,CTRL_CL_01,Control,Colon length,8.8,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,CTRL_CL_02,Control,Colon length,8.9,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,CTRL_CL_03,Control,Colon length,9.2,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,CTRL_CL_04,Control,Colon length,9.4,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,CTRL_CL_05,Control,Colon length,9.5,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,CTRL_CL_06,Control,Colon length,9.6,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_01,Model,Colon length,4.9,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_02,Model,Colon length,5.2,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_03,Model,Colon length,5.4,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_04,Model,Colon length,5.6,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_05,Model,Colon length,6.2,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+D,DSS_CL_06,Model,Colon length,5.8,cm,Yes,NA,CL.pzfx,Source-position ID; cross-endpoint animal mapping not archived

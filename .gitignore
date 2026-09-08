@@ -1,0 +1,53 @@
+# Large/public external inputs and regenerated outputs
+data_external/*
+!data_external/README.md
+work/
+results_reproduced/
+
+# Runtime/cache files
+__pycache__/
+*.py[cod]
+*.Rhistory
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.temp
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Raw/private local material must never enter the public repository
+raw_microscopy/
+raw_microscopy*/
+private_clinical*/
+internal_verification*/
+internal_QA*/
+*Prism*.pzfx
+*.czi
+*.lif
+*.nd2
+
+# Internal release audits retained locally, not published
+CODE_LOGIC_DIFF_AUDIT.tsv
+CODE_PORTABILITY_POST_REPAIR_HASHES.tsv
+CODE_PORTABILITY_PRE_REPAIR_HASHES.tsv
+CODE_REPRODUCIBILITY_AUDIT*.tsv
+CORRUPTED_SCRIPT_REPAIR_LOG.tsv
+INPUT_CONTRACT_AUDIT.tsv
+PUBLIC_PRIVACY_SECRET_SCAN.tsv
+REPOSITORY_FILE_INVENTORY.tsv
+REPOSITORY_PUBLIC_RELEASE_QA*.md
+STALE_SUPERSEDED_CONTENT_SCAN.tsv
+PRE_GIT_PUBLIC_SCAN.tsv
+GITHUB_RELEASE_VERIFICATION.md
+PUBLIC_REPOSITORY_LINKS_FOR_MANUSCRIPT.md
+documentation/file_inventory_sha256.csv
+documentation/numerical_provenance_conflicts.csv
+documentation/numerical_source_verification.csv
+documentation/source_data_completeness_audit.csv

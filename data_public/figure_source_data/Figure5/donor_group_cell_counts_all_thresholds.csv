@@ -1,0 +1,589 @@
+"donor_id","cohort","condition","gart_threshold","group","n_cells"
+"GSE214695_HC1","GSE214695","Healthy",1,"Myeloid",0
+"GSE214695_HC1","GSE214695","Healthy",1,"Fibroblast",120
+"GSE214695_HC1","GSE214695","Healthy",1,"Endothelial",14
+"GSE214695_HC1","GSE214695","Healthy",1,"Other epithelial",256
+"GSE214695_HC1","GSE214695","Healthy",1,"T/NK",630
+"GSE214695_HC1","GSE214695","Healthy",1,"GART-undetected ISC-like",0
+"GSE214695_HC1","GSE214695","Healthy",1,"GART-detected ISC-like",0
+"GSE214695_HC1","GSE214695","Healthy",2,"Myeloid",0
+"GSE214695_HC1","GSE214695","Healthy",2,"Fibroblast",120
+"GSE214695_HC1","GSE214695","Healthy",2,"Endothelial",14
+"GSE214695_HC1","GSE214695","Healthy",2,"Other epithelial",256
+"GSE214695_HC1","GSE214695","Healthy",2,"T/NK",630
+"GSE214695_HC1","GSE214695","Healthy",2,"GART-undetected ISC-like",0
+"GSE214695_HC1","GSE214695","Healthy",2,"GART-detected ISC-like",0
+"GSE214695_HC2","GSE214695","Healthy",1,"Myeloid",0
+"GSE214695_HC2","GSE214695","Healthy",1,"Fibroblast",37
+"GSE214695_HC2","GSE214695","Healthy",1,"Endothelial",1
+"GSE214695_HC2","GSE214695","Healthy",1,"Other epithelial",975
+"GSE214695_HC2","GSE214695","Healthy",1,"T/NK",505
+"GSE214695_HC2","GSE214695","Healthy",1,"GART-undetected ISC-like",1
+"GSE214695_HC2","GSE214695","Healthy",1,"GART-detected ISC-like",0
+"GSE214695_HC2","GSE214695","Healthy",2,"Myeloid",0
+"GSE214695_HC2","GSE214695","Healthy",2,"Fibroblast",37
+"GSE214695_HC2","GSE214695","Healthy",2,"Endothelial",1
+"GSE214695_HC2","GSE214695","Healthy",2,"Other epithelial",975
+"GSE214695_HC2","GSE214695","Healthy",2,"T/NK",505
+"GSE214695_HC2","GSE214695","Healthy",2,"GART-undetected ISC-like",1
+"GSE214695_HC2","GSE214695","Healthy",2,"GART-detected ISC-like",0
+"GSE214695_HC3","GSE214695","Healthy",1,"Myeloid",2
+"GSE214695_HC3","GSE214695","Healthy",1,"Fibroblast",114
+"GSE214695_HC3","GSE214695","Healthy",1,"Endothelial",11
+"GSE214695_HC3","GSE214695","Healthy",1,"Other epithelial",1672
+"GSE214695_HC3","GSE214695","Healthy",1,"T/NK",951
+"GSE214695_HC3","GSE214695","Healthy",1,"GART-undetected ISC-like",2
+"GSE214695_HC3","GSE214695","Healthy",1,"GART-detected ISC-like",1
+"GSE214695_HC3","GSE214695","Healthy",2,"Myeloid",2
+"GSE214695_HC3","GSE214695","Healthy",2,"Fibroblast",114
+"GSE214695_HC3","GSE214695","Healthy",2,"Endothelial",11
+"GSE214695_HC3","GSE214695","Healthy",2,"Other epithelial",1672
+"GSE214695_HC3","GSE214695","Healthy",2,"T/NK",951
+"GSE214695_HC3","GSE214695","Healthy",2,"GART-undetected ISC-like",2
+"GSE214695_HC3","GSE214695","Healthy",2,"GART-detected ISC-like",0
+"GSE214695_HC4","GSE214695","Healthy",1,"Myeloid",0
+"GSE214695_HC4","GSE214695","Healthy",1,"Fibroblast",200
+"GSE214695_HC4","GSE214695","Healthy",1,"Endothelial",12
+"GSE214695_HC4","GSE214695","Healthy",1,"Other epithelial",1438
+"GSE214695_HC4","GSE214695","Healthy",1,"T/NK",342
+"GSE214695_HC4","GSE214695","Healthy",1,"GART-undetected ISC-like",0
+"GSE214695_HC4","GSE214695","Healthy",1,"GART-detected ISC-like",1
+"GSE214695_HC4","GSE214695","Healthy",2,"Myeloid",0
+"GSE214695_HC4","GSE214695","Healthy",2,"Fibroblast",200
+"GSE214695_HC4","GSE214695","Healthy",2,"Endothelial",12
+"GSE214695_HC4","GSE214695","Healthy",2,"Other epithelial",1438
+"GSE214695_HC4","GSE214695","Healthy",2,"T/NK",342
+"GSE214695_HC4","GSE214695","Healthy",2,"GART-undetected ISC-like",0
+"GSE214695_HC4","GSE214695","Healthy",2,"GART-detected ISC-like",0
+"GSE214695_HC5","GSE214695","Healthy",1,"Myeloid",1
+"GSE214695_HC5","GSE214695","Healthy",1,"Fibroblast",382
+"GSE214695_HC5","GSE214695","Healthy",1,"Endothelial",18
+"GSE214695_HC5","GSE214695","Healthy",1,"Other epithelial",1303
+"GSE214695_HC5","GSE214695","Healthy",1,"T/NK",613
+"GSE214695_HC5","GSE214695","Healthy",1,"GART-undetected ISC-like",2
+"GSE214695_HC5","GSE214695","Healthy",1,"GART-detected ISC-like",0
+"GSE214695_HC5","GSE214695","Healthy",2,"Myeloid",1
+"GSE214695_HC5","GSE214695","Healthy",2,"Fibroblast",382
+"GSE214695_HC5","GSE214695","Healthy",2,"Endothelial",18
+"GSE214695_HC5","GSE214695","Healthy",2,"Other epithelial",1303
+"GSE214695_HC5","GSE214695","Healthy",2,"T/NK",613
+"GSE214695_HC5","GSE214695","Healthy",2,"GART-undetected ISC-like",2
+"GSE214695_HC5","GSE214695","Healthy",2,"GART-detected ISC-like",0
+"GSE214695_HC6","GSE214695","Healthy",1,"Myeloid",0
+"GSE214695_HC6","GSE214695","Healthy",1,"Fibroblast",177
+"GSE214695_HC6","GSE214695","Healthy",1,"Endothelial",14
+"GSE214695_HC6","GSE214695","Healthy",1,"Other epithelial",1068
+"GSE214695_HC6","GSE214695","Healthy",1,"T/NK",213
+"GSE214695_HC6","GSE214695","Healthy",1,"GART-undetected ISC-like",0
+"GSE214695_HC6","GSE214695","Healthy",1,"GART-detected ISC-like",1
+"GSE214695_HC6","GSE214695","Healthy",2,"Myeloid",0
+"GSE214695_HC6","GSE214695","Healthy",2,"Fibroblast",177
+"GSE214695_HC6","GSE214695","Healthy",2,"Endothelial",14
+"GSE214695_HC6","GSE214695","Healthy",2,"Other epithelial",1068
+"GSE214695_HC6","GSE214695","Healthy",2,"T/NK",213
+"GSE214695_HC6","GSE214695","Healthy",2,"GART-undetected ISC-like",0
+"GSE214695_HC6","GSE214695","Healthy",2,"GART-detected ISC-like",1
+"GSE214695_UC1","GSE214695","UC",1,"Myeloid",0
+"GSE214695_UC1","GSE214695","UC",1,"Fibroblast",206
+"GSE214695_UC1","GSE214695","UC",1,"Endothelial",20
+"GSE214695_UC1","GSE214695","UC",1,"Other epithelial",36
+"GSE214695_UC1","GSE214695","UC",1,"T/NK",375
+"GSE214695_UC1","GSE214695","UC",1,"GART-undetected ISC-like",1
+"GSE214695_UC1","GSE214695","UC",1,"GART-detected ISC-like",0
+"GSE214695_UC1","GSE214695","UC",2,"Myeloid",0
+"GSE214695_UC1","GSE214695","UC",2,"Fibroblast",206
+"GSE214695_UC1","GSE214695","UC",2,"Endothelial",20
+"GSE214695_UC1","GSE214695","UC",2,"Other epithelial",36
+"GSE214695_UC1","GSE214695","UC",2,"T/NK",375
+"GSE214695_UC1","GSE214695","UC",2,"GART-undetected ISC-like",1
+"GSE214695_UC1","GSE214695","UC",2,"GART-detected ISC-like",0
+"GSE214695_UC2","GSE214695","UC",1,"Myeloid",1
+"GSE214695_UC2","GSE214695","UC",1,"Fibroblast",47
+"GSE214695_UC2","GSE214695","UC",1,"Endothelial",8
+"GSE214695_UC2","GSE214695","UC",1,"Other epithelial",303
+"GSE214695_UC2","GSE214695","UC",1,"T/NK",532
+"GSE214695_UC2","GSE214695","UC",1,"GART-undetected ISC-like",12
+"GSE214695_UC2","GSE214695","UC",1,"GART-detected ISC-like",5
+"GSE214695_UC2","GSE214695","UC",2,"Myeloid",1
+"GSE214695_UC2","GSE214695","UC",2,"Fibroblast",47
+"GSE214695_UC2","GSE214695","UC",2,"Endothelial",8
+"GSE214695_UC2","GSE214695","UC",2,"Other epithelial",303
+"GSE214695_UC2","GSE214695","UC",2,"T/NK",532
+"GSE214695_UC2","GSE214695","UC",2,"GART-undetected ISC-like",12
+"GSE214695_UC2","GSE214695","UC",2,"GART-detected ISC-like",4
+"GSE214695_UC3","GSE214695","UC",1,"Myeloid",0
+"GSE214695_UC3","GSE214695","UC",1,"Fibroblast",104
+"GSE214695_UC3","GSE214695","UC",1,"Endothelial",49
+"GSE214695_UC3","GSE214695","UC",1,"Other epithelial",85
+"GSE214695_UC3","GSE214695","UC",1,"T/NK",366
+"GSE214695_UC3","GSE214695","UC",1,"GART-undetected ISC-like",8
+"GSE214695_UC3","GSE214695","UC",1,"GART-detected ISC-like",6
+"GSE214695_UC3","GSE214695","UC",2,"Myeloid",0
+"GSE214695_UC3","GSE214695","UC",2,"Fibroblast",104
+"GSE214695_UC3","GSE214695","UC",2,"Endothelial",49
+"GSE214695_UC3","GSE214695","UC",2,"Other epithelial",85
+"GSE214695_UC3","GSE214695","UC",2,"T/NK",366
+"GSE214695_UC3","GSE214695","UC",2,"GART-undetected ISC-like",8
+"GSE214695_UC3","GSE214695","UC",2,"GART-detected ISC-like",2
+"GSE214695_UC4","GSE214695","UC",1,"Myeloid",9
+"GSE214695_UC4","GSE214695","UC",1,"Fibroblast",15
+"GSE214695_UC4","GSE214695","UC",1,"Endothelial",25
+"GSE214695_UC4","GSE214695","UC",1,"Other epithelial",205
+"GSE214695_UC4","GSE214695","UC",1,"T/NK",1328
+"GSE214695_UC4","GSE214695","UC",1,"GART-undetected ISC-like",2
+"GSE214695_UC4","GSE214695","UC",1,"GART-detected ISC-like",1
+"GSE214695_UC4","GSE214695","UC",2,"Myeloid",9
+"GSE214695_UC4","GSE214695","UC",2,"Fibroblast",15
+"GSE214695_UC4","GSE214695","UC",2,"Endothelial",25
+"GSE214695_UC4","GSE214695","UC",2,"Other epithelial",205
+"GSE214695_UC4","GSE214695","UC",2,"T/NK",1328
+"GSE214695_UC4","GSE214695","UC",2,"GART-undetected ISC-like",2
+"GSE214695_UC4","GSE214695","UC",2,"GART-detected ISC-like",1
+"GSE214695_UC5","GSE214695","UC",1,"Myeloid",0
+"GSE214695_UC5","GSE214695","UC",1,"Fibroblast",167
+"GSE214695_UC5","GSE214695","UC",1,"Endothelial",37
+"GSE214695_UC5","GSE214695","UC",1,"Other epithelial",68
+"GSE214695_UC5","GSE214695","UC",1,"T/NK",638
+"GSE214695_UC5","GSE214695","UC",1,"GART-undetected ISC-like",2
+"GSE214695_UC5","GSE214695","UC",1,"GART-detected ISC-like",1
+"GSE214695_UC5","GSE214695","UC",2,"Myeloid",0
+"GSE214695_UC5","GSE214695","UC",2,"Fibroblast",167
+"GSE214695_UC5","GSE214695","UC",2,"Endothelial",37
+"GSE214695_UC5","GSE214695","UC",2,"Other epithelial",68
+"GSE214695_UC5","GSE214695","UC",2,"T/NK",638
+"GSE214695_UC5","GSE214695","UC",2,"GART-undetected ISC-like",2
+"GSE214695_UC5","GSE214695","UC",2,"GART-detected ISC-like",0
+"GSE214695_UC6","GSE214695","UC",1,"Myeloid",0
+"GSE214695_UC6","GSE214695","UC",1,"Fibroblast",110
+"GSE214695_UC6","GSE214695","UC",1,"Endothelial",20
+"GSE214695_UC6","GSE214695","UC",1,"Other epithelial",329
+"GSE214695_UC6","GSE214695","UC",1,"T/NK",1037
+"GSE214695_UC6","GSE214695","UC",1,"GART-undetected ISC-like",55
+"GSE214695_UC6","GSE214695","UC",1,"GART-detected ISC-like",35
+"GSE214695_UC6","GSE214695","UC",2,"Myeloid",0
+"GSE214695_UC6","GSE214695","UC",2,"Fibroblast",110
+"GSE214695_UC6","GSE214695","UC",2,"Endothelial",20
+"GSE214695_UC6","GSE214695","UC",2,"Other epithelial",329
+"GSE214695_UC6","GSE214695","UC",2,"T/NK",1037
+"GSE214695_UC6","GSE214695","UC",2,"GART-undetected ISC-like",55
+"GSE214695_UC6","GSE214695","UC",2,"GART-detected ISC-like",19
+"SCP259_N10","SCP259","Healthy",1,"Myeloid",544
+"SCP259_N10","SCP259","Healthy",1,"Fibroblast",1669
+"SCP259_N10","SCP259","Healthy",1,"Endothelial",212
+"SCP259_N10","SCP259","Healthy",1,"Other epithelial",6648
+"SCP259_N10","SCP259","Healthy",1,"T/NK",3227
+"SCP259_N10","SCP259","Healthy",1,"GART-undetected ISC-like",1
+"SCP259_N10","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N10","SCP259","Healthy",2,"Myeloid",544
+"SCP259_N10","SCP259","Healthy",2,"Fibroblast",1669
+"SCP259_N10","SCP259","Healthy",2,"Endothelial",212
+"SCP259_N10","SCP259","Healthy",2,"Other epithelial",6648
+"SCP259_N10","SCP259","Healthy",2,"T/NK",3227
+"SCP259_N10","SCP259","Healthy",2,"GART-undetected ISC-like",1
+"SCP259_N10","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N106","SCP259","UC",1,"Myeloid",682
+"SCP259_N106","SCP259","UC",1,"Fibroblast",488
+"SCP259_N106","SCP259","UC",1,"Endothelial",75
+"SCP259_N106","SCP259","UC",1,"Other epithelial",1398
+"SCP259_N106","SCP259","UC",1,"T/NK",2198
+"SCP259_N106","SCP259","UC",1,"GART-undetected ISC-like",292
+"SCP259_N106","SCP259","UC",1,"GART-detected ISC-like",121
+"SCP259_N106","SCP259","UC",2,"Myeloid",682
+"SCP259_N106","SCP259","UC",2,"Fibroblast",488
+"SCP259_N106","SCP259","UC",2,"Endothelial",75
+"SCP259_N106","SCP259","UC",2,"Other epithelial",1398
+"SCP259_N106","SCP259","UC",2,"T/NK",2198
+"SCP259_N106","SCP259","UC",2,"GART-undetected ISC-like",292
+"SCP259_N106","SCP259","UC",2,"GART-detected ISC-like",38
+"SCP259_N11","SCP259","Healthy",1,"Myeloid",76
+"SCP259_N11","SCP259","Healthy",1,"Fibroblast",252
+"SCP259_N11","SCP259","Healthy",1,"Endothelial",79
+"SCP259_N11","SCP259","Healthy",1,"Other epithelial",5188
+"SCP259_N11","SCP259","Healthy",1,"T/NK",487
+"SCP259_N11","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N11","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N11","SCP259","Healthy",2,"Myeloid",76
+"SCP259_N11","SCP259","Healthy",2,"Fibroblast",252
+"SCP259_N11","SCP259","Healthy",2,"Endothelial",79
+"SCP259_N11","SCP259","Healthy",2,"Other epithelial",5188
+"SCP259_N11","SCP259","Healthy",2,"T/NK",487
+"SCP259_N11","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N11","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N110","SCP259","UC",1,"Myeloid",265
+"SCP259_N110","SCP259","UC",1,"Fibroblast",509
+"SCP259_N110","SCP259","UC",1,"Endothelial",59
+"SCP259_N110","SCP259","UC",1,"Other epithelial",6918
+"SCP259_N110","SCP259","UC",1,"T/NK",523
+"SCP259_N110","SCP259","UC",1,"GART-undetected ISC-like",7
+"SCP259_N110","SCP259","UC",1,"GART-detected ISC-like",0
+"SCP259_N110","SCP259","UC",2,"Myeloid",265
+"SCP259_N110","SCP259","UC",2,"Fibroblast",509
+"SCP259_N110","SCP259","UC",2,"Endothelial",59
+"SCP259_N110","SCP259","UC",2,"Other epithelial",6918
+"SCP259_N110","SCP259","UC",2,"T/NK",523
+"SCP259_N110","SCP259","UC",2,"GART-undetected ISC-like",7
+"SCP259_N110","SCP259","UC",2,"GART-detected ISC-like",0
+"SCP259_N111","SCP259","UC",1,"Myeloid",1115
+"SCP259_N111","SCP259","UC",1,"Fibroblast",1790
+"SCP259_N111","SCP259","UC",1,"Endothelial",383
+"SCP259_N111","SCP259","UC",1,"Other epithelial",2767
+"SCP259_N111","SCP259","UC",1,"T/NK",7929
+"SCP259_N111","SCP259","UC",1,"GART-undetected ISC-like",210
+"SCP259_N111","SCP259","UC",1,"GART-detected ISC-like",138
+"SCP259_N111","SCP259","UC",2,"Myeloid",1115
+"SCP259_N111","SCP259","UC",2,"Fibroblast",1790
+"SCP259_N111","SCP259","UC",2,"Endothelial",383
+"SCP259_N111","SCP259","UC",2,"Other epithelial",2767
+"SCP259_N111","SCP259","UC",2,"T/NK",7929
+"SCP259_N111","SCP259","UC",2,"GART-undetected ISC-like",210
+"SCP259_N111","SCP259","UC",2,"GART-detected ISC-like",40
+"SCP259_N12","SCP259","UC",1,"Myeloid",182
+"SCP259_N12","SCP259","UC",1,"Fibroblast",586
+"SCP259_N12","SCP259","UC",1,"Endothelial",215
+"SCP259_N12","SCP259","UC",1,"Other epithelial",775
+"SCP259_N12","SCP259","UC",1,"T/NK",231
+"SCP259_N12","SCP259","UC",1,"GART-undetected ISC-like",4
+"SCP259_N12","SCP259","UC",1,"GART-detected ISC-like",0
+"SCP259_N12","SCP259","UC",2,"Myeloid",182
+"SCP259_N12","SCP259","UC",2,"Fibroblast",586
+"SCP259_N12","SCP259","UC",2,"Endothelial",215
+"SCP259_N12","SCP259","UC",2,"Other epithelial",775
+"SCP259_N12","SCP259","UC",2,"T/NK",231
+"SCP259_N12","SCP259","UC",2,"GART-undetected ISC-like",4
+"SCP259_N12","SCP259","UC",2,"GART-detected ISC-like",0
+"SCP259_N13","SCP259","Healthy",1,"Myeloid",205
+"SCP259_N13","SCP259","Healthy",1,"Fibroblast",232
+"SCP259_N13","SCP259","Healthy",1,"Endothelial",28
+"SCP259_N13","SCP259","Healthy",1,"Other epithelial",1486
+"SCP259_N13","SCP259","Healthy",1,"T/NK",859
+"SCP259_N13","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N13","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N13","SCP259","Healthy",2,"Myeloid",205
+"SCP259_N13","SCP259","Healthy",2,"Fibroblast",232
+"SCP259_N13","SCP259","Healthy",2,"Endothelial",28
+"SCP259_N13","SCP259","Healthy",2,"Other epithelial",1486
+"SCP259_N13","SCP259","Healthy",2,"T/NK",859
+"SCP259_N13","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N13","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N14","SCP259","UC",1,"Myeloid",57
+"SCP259_N14","SCP259","UC",1,"Fibroblast",376
+"SCP259_N14","SCP259","UC",1,"Endothelial",176
+"SCP259_N14","SCP259","UC",1,"Other epithelial",2828
+"SCP259_N14","SCP259","UC",1,"T/NK",837
+"SCP259_N14","SCP259","UC",1,"GART-undetected ISC-like",1
+"SCP259_N14","SCP259","UC",1,"GART-detected ISC-like",1
+"SCP259_N14","SCP259","UC",2,"Myeloid",57
+"SCP259_N14","SCP259","UC",2,"Fibroblast",376
+"SCP259_N14","SCP259","UC",2,"Endothelial",176
+"SCP259_N14","SCP259","UC",2,"Other epithelial",2828
+"SCP259_N14","SCP259","UC",2,"T/NK",837
+"SCP259_N14","SCP259","UC",2,"GART-undetected ISC-like",1
+"SCP259_N14","SCP259","UC",2,"GART-detected ISC-like",0
+"SCP259_N15","SCP259","Healthy",1,"Myeloid",263
+"SCP259_N15","SCP259","Healthy",1,"Fibroblast",522
+"SCP259_N15","SCP259","Healthy",1,"Endothelial",174
+"SCP259_N15","SCP259","Healthy",1,"Other epithelial",6082
+"SCP259_N15","SCP259","Healthy",1,"T/NK",1923
+"SCP259_N15","SCP259","Healthy",1,"GART-undetected ISC-like",1
+"SCP259_N15","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N15","SCP259","Healthy",2,"Myeloid",263
+"SCP259_N15","SCP259","Healthy",2,"Fibroblast",522
+"SCP259_N15","SCP259","Healthy",2,"Endothelial",174
+"SCP259_N15","SCP259","Healthy",2,"Other epithelial",6082
+"SCP259_N15","SCP259","Healthy",2,"T/NK",1923
+"SCP259_N15","SCP259","Healthy",2,"GART-undetected ISC-like",1
+"SCP259_N15","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N16","SCP259","Healthy",1,"Myeloid",220
+"SCP259_N16","SCP259","Healthy",1,"Fibroblast",301
+"SCP259_N16","SCP259","Healthy",1,"Endothelial",44
+"SCP259_N16","SCP259","Healthy",1,"Other epithelial",3094
+"SCP259_N16","SCP259","Healthy",1,"T/NK",551
+"SCP259_N16","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N16","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N16","SCP259","Healthy",2,"Myeloid",220
+"SCP259_N16","SCP259","Healthy",2,"Fibroblast",301
+"SCP259_N16","SCP259","Healthy",2,"Endothelial",44
+"SCP259_N16","SCP259","Healthy",2,"Other epithelial",3094
+"SCP259_N16","SCP259","Healthy",2,"T/NK",551
+"SCP259_N16","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N16","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N17","SCP259","Healthy",1,"Myeloid",221
+"SCP259_N17","SCP259","Healthy",1,"Fibroblast",281
+"SCP259_N17","SCP259","Healthy",1,"Endothelial",61
+"SCP259_N17","SCP259","Healthy",1,"Other epithelial",2323
+"SCP259_N17","SCP259","Healthy",1,"T/NK",757
+"SCP259_N17","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N17","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N17","SCP259","Healthy",2,"Myeloid",221
+"SCP259_N17","SCP259","Healthy",2,"Fibroblast",281
+"SCP259_N17","SCP259","Healthy",2,"Endothelial",61
+"SCP259_N17","SCP259","Healthy",2,"Other epithelial",2323
+"SCP259_N17","SCP259","Healthy",2,"T/NK",757
+"SCP259_N17","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N17","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N18","SCP259","Healthy",1,"Myeloid",313
+"SCP259_N18","SCP259","Healthy",1,"Fibroblast",794
+"SCP259_N18","SCP259","Healthy",1,"Endothelial",82
+"SCP259_N18","SCP259","Healthy",1,"Other epithelial",3441
+"SCP259_N18","SCP259","Healthy",1,"T/NK",1199
+"SCP259_N18","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N18","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N18","SCP259","Healthy",2,"Myeloid",313
+"SCP259_N18","SCP259","Healthy",2,"Fibroblast",794
+"SCP259_N18","SCP259","Healthy",2,"Endothelial",82
+"SCP259_N18","SCP259","Healthy",2,"Other epithelial",3441
+"SCP259_N18","SCP259","Healthy",2,"T/NK",1199
+"SCP259_N18","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N18","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N19","SCP259","UC",1,"Myeloid",143
+"SCP259_N19","SCP259","UC",1,"Fibroblast",323
+"SCP259_N19","SCP259","UC",1,"Endothelial",82
+"SCP259_N19","SCP259","UC",1,"Other epithelial",3568
+"SCP259_N19","SCP259","UC",1,"T/NK",1237
+"SCP259_N19","SCP259","UC",1,"GART-undetected ISC-like",3
+"SCP259_N19","SCP259","UC",1,"GART-detected ISC-like",4
+"SCP259_N19","SCP259","UC",2,"Myeloid",143
+"SCP259_N19","SCP259","UC",2,"Fibroblast",323
+"SCP259_N19","SCP259","UC",2,"Endothelial",82
+"SCP259_N19","SCP259","UC",2,"Other epithelial",3568
+"SCP259_N19","SCP259","UC",2,"T/NK",1237
+"SCP259_N19","SCP259","UC",2,"GART-undetected ISC-like",3
+"SCP259_N19","SCP259","UC",2,"GART-detected ISC-like",1
+"SCP259_N20","SCP259","Healthy",1,"Myeloid",388
+"SCP259_N20","SCP259","Healthy",1,"Fibroblast",427
+"SCP259_N20","SCP259","Healthy",1,"Endothelial",106
+"SCP259_N20","SCP259","Healthy",1,"Other epithelial",2740
+"SCP259_N20","SCP259","Healthy",1,"T/NK",2629
+"SCP259_N20","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N20","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N20","SCP259","Healthy",2,"Myeloid",388
+"SCP259_N20","SCP259","Healthy",2,"Fibroblast",427
+"SCP259_N20","SCP259","Healthy",2,"Endothelial",106
+"SCP259_N20","SCP259","Healthy",2,"Other epithelial",2740
+"SCP259_N20","SCP259","Healthy",2,"T/NK",2629
+"SCP259_N20","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N20","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N21","SCP259","Healthy",1,"Myeloid",163
+"SCP259_N21","SCP259","Healthy",1,"Fibroblast",276
+"SCP259_N21","SCP259","Healthy",1,"Endothelial",27
+"SCP259_N21","SCP259","Healthy",1,"Other epithelial",4247
+"SCP259_N21","SCP259","Healthy",1,"T/NK",923
+"SCP259_N21","SCP259","Healthy",1,"GART-undetected ISC-like",3
+"SCP259_N21","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N21","SCP259","Healthy",2,"Myeloid",163
+"SCP259_N21","SCP259","Healthy",2,"Fibroblast",276
+"SCP259_N21","SCP259","Healthy",2,"Endothelial",27
+"SCP259_N21","SCP259","Healthy",2,"Other epithelial",4247
+"SCP259_N21","SCP259","Healthy",2,"T/NK",923
+"SCP259_N21","SCP259","Healthy",2,"GART-undetected ISC-like",3
+"SCP259_N21","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N23","SCP259","UC",1,"Myeloid",380
+"SCP259_N23","SCP259","UC",1,"Fibroblast",240
+"SCP259_N23","SCP259","UC",1,"Endothelial",66
+"SCP259_N23","SCP259","UC",1,"Other epithelial",5576
+"SCP259_N23","SCP259","UC",1,"T/NK",2332
+"SCP259_N23","SCP259","UC",1,"GART-undetected ISC-like",828
+"SCP259_N23","SCP259","UC",1,"GART-detected ISC-like",258
+"SCP259_N23","SCP259","UC",2,"Myeloid",380
+"SCP259_N23","SCP259","UC",2,"Fibroblast",240
+"SCP259_N23","SCP259","UC",2,"Endothelial",66
+"SCP259_N23","SCP259","UC",2,"Other epithelial",5576
+"SCP259_N23","SCP259","UC",2,"T/NK",2332
+"SCP259_N23","SCP259","UC",2,"GART-undetected ISC-like",828
+"SCP259_N23","SCP259","UC",2,"GART-detected ISC-like",78
+"SCP259_N24","SCP259","UC",1,"Myeloid",308
+"SCP259_N24","SCP259","UC",1,"Fibroblast",1104
+"SCP259_N24","SCP259","UC",1,"Endothelial",249
+"SCP259_N24","SCP259","UC",1,"Other epithelial",4315
+"SCP259_N24","SCP259","UC",1,"T/NK",1884
+"SCP259_N24","SCP259","UC",1,"GART-undetected ISC-like",2252
+"SCP259_N24","SCP259","UC",1,"GART-detected ISC-like",1394
+"SCP259_N24","SCP259","UC",2,"Myeloid",308
+"SCP259_N24","SCP259","UC",2,"Fibroblast",1104
+"SCP259_N24","SCP259","UC",2,"Endothelial",249
+"SCP259_N24","SCP259","UC",2,"Other epithelial",4315
+"SCP259_N24","SCP259","UC",2,"T/NK",1884
+"SCP259_N24","SCP259","UC",2,"GART-undetected ISC-like",2252
+"SCP259_N24","SCP259","UC",2,"GART-detected ISC-like",442
+"SCP259_N26","SCP259","UC",1,"Myeloid",499
+"SCP259_N26","SCP259","UC",1,"Fibroblast",631
+"SCP259_N26","SCP259","UC",1,"Endothelial",65
+"SCP259_N26","SCP259","UC",1,"Other epithelial",6767
+"SCP259_N26","SCP259","UC",1,"T/NK",1169
+"SCP259_N26","SCP259","UC",1,"GART-undetected ISC-like",3
+"SCP259_N26","SCP259","UC",1,"GART-detected ISC-like",1
+"SCP259_N26","SCP259","UC",2,"Myeloid",499
+"SCP259_N26","SCP259","UC",2,"Fibroblast",631
+"SCP259_N26","SCP259","UC",2,"Endothelial",65
+"SCP259_N26","SCP259","UC",2,"Other epithelial",6767
+"SCP259_N26","SCP259","UC",2,"T/NK",1169
+"SCP259_N26","SCP259","UC",2,"GART-undetected ISC-like",3
+"SCP259_N26","SCP259","UC",2,"GART-detected ISC-like",0
+"SCP259_N44","SCP259","UC",1,"Myeloid",855
+"SCP259_N44","SCP259","UC",1,"Fibroblast",864
+"SCP259_N44","SCP259","UC",1,"Endothelial",131
+"SCP259_N44","SCP259","UC",1,"Other epithelial",2408
+"SCP259_N44","SCP259","UC",1,"T/NK",3242
+"SCP259_N44","SCP259","UC",1,"GART-undetected ISC-like",162
+"SCP259_N44","SCP259","UC",1,"GART-detected ISC-like",124
+"SCP259_N44","SCP259","UC",2,"Myeloid",855
+"SCP259_N44","SCP259","UC",2,"Fibroblast",864
+"SCP259_N44","SCP259","UC",2,"Endothelial",131
+"SCP259_N44","SCP259","UC",2,"Other epithelial",2408
+"SCP259_N44","SCP259","UC",2,"T/NK",3242
+"SCP259_N44","SCP259","UC",2,"GART-undetected ISC-like",162
+"SCP259_N44","SCP259","UC",2,"GART-detected ISC-like",44
+"SCP259_N46","SCP259","Healthy",1,"Myeloid",1443
+"SCP259_N46","SCP259","Healthy",1,"Fibroblast",996
+"SCP259_N46","SCP259","Healthy",1,"Endothelial",160
+"SCP259_N46","SCP259","Healthy",1,"Other epithelial",3074
+"SCP259_N46","SCP259","Healthy",1,"T/NK",2142
+"SCP259_N46","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N46","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N46","SCP259","Healthy",2,"Myeloid",1443
+"SCP259_N46","SCP259","Healthy",2,"Fibroblast",996
+"SCP259_N46","SCP259","Healthy",2,"Endothelial",160
+"SCP259_N46","SCP259","Healthy",2,"Other epithelial",3074
+"SCP259_N46","SCP259","Healthy",2,"T/NK",2142
+"SCP259_N46","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N46","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N49","SCP259","UC",1,"Myeloid",635
+"SCP259_N49","SCP259","UC",1,"Fibroblast",1054
+"SCP259_N49","SCP259","UC",1,"Endothelial",313
+"SCP259_N49","SCP259","UC",1,"Other epithelial",631
+"SCP259_N49","SCP259","UC",1,"T/NK",2405
+"SCP259_N49","SCP259","UC",1,"GART-undetected ISC-like",302
+"SCP259_N49","SCP259","UC",1,"GART-detected ISC-like",140
+"SCP259_N49","SCP259","UC",2,"Myeloid",635
+"SCP259_N49","SCP259","UC",2,"Fibroblast",1054
+"SCP259_N49","SCP259","UC",2,"Endothelial",313
+"SCP259_N49","SCP259","UC",2,"Other epithelial",631
+"SCP259_N49","SCP259","UC",2,"T/NK",2405
+"SCP259_N49","SCP259","UC",2,"GART-undetected ISC-like",302
+"SCP259_N49","SCP259","UC",2,"GART-detected ISC-like",42
+"SCP259_N50","SCP259","UC",1,"Myeloid",513
+"SCP259_N50","SCP259","UC",1,"Fibroblast",545
+"SCP259_N50","SCP259","UC",1,"Endothelial",161
+"SCP259_N50","SCP259","UC",1,"Other epithelial",1588
+"SCP259_N50","SCP259","UC",1,"T/NK",2532
+"SCP259_N50","SCP259","UC",1,"GART-undetected ISC-like",430
+"SCP259_N50","SCP259","UC",1,"GART-detected ISC-like",184
+"SCP259_N50","SCP259","UC",2,"Myeloid",513
+"SCP259_N50","SCP259","UC",2,"Fibroblast",545
+"SCP259_N50","SCP259","UC",2,"Endothelial",161
+"SCP259_N50","SCP259","UC",2,"Other epithelial",1588
+"SCP259_N50","SCP259","UC",2,"T/NK",2532
+"SCP259_N50","SCP259","UC",2,"GART-undetected ISC-like",430
+"SCP259_N50","SCP259","UC",2,"GART-detected ISC-like",56
+"SCP259_N51","SCP259","Healthy",1,"Myeloid",846
+"SCP259_N51","SCP259","Healthy",1,"Fibroblast",571
+"SCP259_N51","SCP259","Healthy",1,"Endothelial",57
+"SCP259_N51","SCP259","Healthy",1,"Other epithelial",11190
+"SCP259_N51","SCP259","Healthy",1,"T/NK",4983
+"SCP259_N51","SCP259","Healthy",1,"GART-undetected ISC-like",18
+"SCP259_N51","SCP259","Healthy",1,"GART-detected ISC-like",2
+"SCP259_N51","SCP259","Healthy",2,"Myeloid",846
+"SCP259_N51","SCP259","Healthy",2,"Fibroblast",571
+"SCP259_N51","SCP259","Healthy",2,"Endothelial",57
+"SCP259_N51","SCP259","Healthy",2,"Other epithelial",11190
+"SCP259_N51","SCP259","Healthy",2,"T/NK",4983
+"SCP259_N51","SCP259","Healthy",2,"GART-undetected ISC-like",18
+"SCP259_N51","SCP259","Healthy",2,"GART-detected ISC-like",1
+"SCP259_N52","SCP259","UC",1,"Myeloid",871
+"SCP259_N52","SCP259","UC",1,"Fibroblast",2750
+"SCP259_N52","SCP259","UC",1,"Endothelial",426
+"SCP259_N52","SCP259","UC",1,"Other epithelial",10879
+"SCP259_N52","SCP259","UC",1,"T/NK",7983
+"SCP259_N52","SCP259","UC",1,"GART-undetected ISC-like",115
+"SCP259_N52","SCP259","UC",1,"GART-detected ISC-like",13
+"SCP259_N52","SCP259","UC",2,"Myeloid",871
+"SCP259_N52","SCP259","UC",2,"Fibroblast",2750
+"SCP259_N52","SCP259","UC",2,"Endothelial",426
+"SCP259_N52","SCP259","UC",2,"Other epithelial",10879
+"SCP259_N52","SCP259","UC",2,"T/NK",7983
+"SCP259_N52","SCP259","UC",2,"GART-undetected ISC-like",115
+"SCP259_N52","SCP259","UC",2,"GART-detected ISC-like",0
+"SCP259_N539","SCP259","UC",1,"Myeloid",569
+"SCP259_N539","SCP259","UC",1,"Fibroblast",1308
+"SCP259_N539","SCP259","UC",1,"Endothelial",316
+"SCP259_N539","SCP259","UC",1,"Other epithelial",1119
+"SCP259_N539","SCP259","UC",1,"T/NK",1897
+"SCP259_N539","SCP259","UC",1,"GART-undetected ISC-like",174
+"SCP259_N539","SCP259","UC",1,"GART-detected ISC-like",106
+"SCP259_N539","SCP259","UC",2,"Myeloid",569
+"SCP259_N539","SCP259","UC",2,"Fibroblast",1308
+"SCP259_N539","SCP259","UC",2,"Endothelial",316
+"SCP259_N539","SCP259","UC",2,"Other epithelial",1119
+"SCP259_N539","SCP259","UC",2,"T/NK",1897
+"SCP259_N539","SCP259","UC",2,"GART-undetected ISC-like",174
+"SCP259_N539","SCP259","UC",2,"GART-detected ISC-like",28
+"SCP259_N58","SCP259","UC",1,"Myeloid",725
+"SCP259_N58","SCP259","UC",1,"Fibroblast",1865
+"SCP259_N58","SCP259","UC",1,"Endothelial",579
+"SCP259_N58","SCP259","UC",1,"Other epithelial",6927
+"SCP259_N58","SCP259","UC",1,"T/NK",3988
+"SCP259_N58","SCP259","UC",1,"GART-undetected ISC-like",227
+"SCP259_N58","SCP259","UC",1,"GART-detected ISC-like",174
+"SCP259_N58","SCP259","UC",2,"Myeloid",725
+"SCP259_N58","SCP259","UC",2,"Fibroblast",1865
+"SCP259_N58","SCP259","UC",2,"Endothelial",579
+"SCP259_N58","SCP259","UC",2,"Other epithelial",6927
+"SCP259_N58","SCP259","UC",2,"T/NK",3988
+"SCP259_N58","SCP259","UC",2,"GART-undetected ISC-like",227
+"SCP259_N58","SCP259","UC",2,"GART-detected ISC-like",76
+"SCP259_N661","SCP259","UC",1,"Myeloid",8554
+"SCP259_N661","SCP259","UC",1,"Fibroblast",1789
+"SCP259_N661","SCP259","UC",1,"Endothelial",834
+"SCP259_N661","SCP259","UC",1,"Other epithelial",950
+"SCP259_N661","SCP259","UC",1,"T/NK",18351
+"SCP259_N661","SCP259","UC",1,"GART-undetected ISC-like",710
+"SCP259_N661","SCP259","UC",1,"GART-detected ISC-like",236
+"SCP259_N661","SCP259","UC",2,"Myeloid",8554
+"SCP259_N661","SCP259","UC",2,"Fibroblast",1789
+"SCP259_N661","SCP259","UC",2,"Endothelial",834
+"SCP259_N661","SCP259","UC",2,"Other epithelial",950
+"SCP259_N661","SCP259","UC",2,"T/NK",18351
+"SCP259_N661","SCP259","UC",2,"GART-undetected ISC-like",710
+"SCP259_N661","SCP259","UC",2,"GART-detected ISC-like",57
+"SCP259_N7","SCP259","UC",1,"Myeloid",332
+"SCP259_N7","SCP259","UC",1,"Fibroblast",887
+"SCP259_N7","SCP259","UC",1,"Endothelial",111
+"SCP259_N7","SCP259","UC",1,"Other epithelial",779
+"SCP259_N7","SCP259","UC",1,"T/NK",628
+"SCP259_N7","SCP259","UC",1,"GART-undetected ISC-like",19
+"SCP259_N7","SCP259","UC",1,"GART-detected ISC-like",8
+"SCP259_N7","SCP259","UC",2,"Myeloid",332
+"SCP259_N7","SCP259","UC",2,"Fibroblast",887
+"SCP259_N7","SCP259","UC",2,"Endothelial",111
+"SCP259_N7","SCP259","UC",2,"Other epithelial",779
+"SCP259_N7","SCP259","UC",2,"T/NK",628
+"SCP259_N7","SCP259","UC",2,"GART-undetected ISC-like",19
+"SCP259_N7","SCP259","UC",2,"GART-detected ISC-like",3
+"SCP259_N8","SCP259","Healthy",1,"Myeloid",124
+"SCP259_N8","SCP259","Healthy",1,"Fibroblast",385
+"SCP259_N8","SCP259","Healthy",1,"Endothelial",76
+"SCP259_N8","SCP259","Healthy",1,"Other epithelial",960
+"SCP259_N8","SCP259","Healthy",1,"T/NK",221
+"SCP259_N8","SCP259","Healthy",1,"GART-undetected ISC-like",0
+"SCP259_N8","SCP259","Healthy",1,"GART-detected ISC-like",0
+"SCP259_N8","SCP259","Healthy",2,"Myeloid",124
+"SCP259_N8","SCP259","Healthy",2,"Fibroblast",385
+"SCP259_N8","SCP259","Healthy",2,"Endothelial",76
+"SCP259_N8","SCP259","Healthy",2,"Other epithelial",960
+"SCP259_N8","SCP259","Healthy",2,"T/NK",221
+"SCP259_N8","SCP259","Healthy",2,"GART-undetected ISC-like",0
+"SCP259_N8","SCP259","Healthy",2,"GART-detected ISC-like",0
+"SCP259_N9","SCP259","UC",1,"Myeloid",445
+"SCP259_N9","SCP259","UC",1,"Fibroblast",488
+"SCP259_N9","SCP259","UC",1,"Endothelial",201
+"SCP259_N9","SCP259","UC",1,"Other epithelial",5409
+"SCP259_N9","SCP259","UC",1,"T/NK",2775
+"SCP259_N9","SCP259","UC",1,"GART-undetected ISC-like",379
+"SCP259_N9","SCP259","UC",1,"GART-detected ISC-like",125
+"SCP259_N9","SCP259","UC",2,"Myeloid",445
+"SCP259_N9","SCP259","UC",2,"Fibroblast",488
+"SCP259_N9","SCP259","UC",2,"Endothelial",201
+"SCP259_N9","SCP259","UC",2,"Other epithelial",5409
+"SCP259_N9","SCP259","UC",2,"T/NK",2775
+"SCP259_N9","SCP259","UC",2,"GART-undetected ISC-like",379
+"SCP259_N9","SCP259","UC",2,"GART-detected ISC-like",46

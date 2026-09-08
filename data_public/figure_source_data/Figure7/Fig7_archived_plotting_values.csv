@@ -1,0 +1,753 @@
+﻿Panel,Staining_panel,Participant_ID,Group,Endpoint,Value,Unit,Biological_unit,Numerical_source,Cross_panel_identity
+Figure 7A,GART/MIF/CD74,Fig7A_HC_01,Healthy,GART MFI in crypt/mucosal epithelial ROI,1.9164924621582,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_02,Healthy,GART MFI in crypt/mucosal epithelial ROI,1.84766852855682,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_03,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.38633918762207,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_04,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.32977294921875,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_05,Healthy,GART MFI in crypt/mucosal epithelial ROI,5.06687068939209,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_06,Healthy,GART MFI in crypt/mucosal epithelial ROI,4.13111066818237,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_07,Healthy,GART MFI in crypt/mucosal epithelial ROI,7.74109888076782,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_08,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.58657097816467,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_09,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.40287041664124,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_10,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.59534788131714,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_11,Healthy,GART MFI in crypt/mucosal epithelial ROI,7.35101366043091,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_12,Healthy,GART MFI in crypt/mucosal epithelial ROI,3.27786064147949,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_13,Healthy,GART MFI in crypt/mucosal epithelial ROI,1.96490943431854,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_14,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.61568450927734,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_15,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.1006007194519,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_16,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.04382562637329,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_17,Healthy,GART MFI in crypt/mucosal epithelial ROI,2.31124067306519,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_18,Healthy,GART MFI in crypt/mucosal epithelial ROI,3.68022203445435,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_01,UC,GART MFI in crypt/mucosal epithelial ROI,32.1130752563477,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_02,UC,GART MFI in crypt/mucosal epithelial ROI,22.7587432861328,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_03,UC,GART MFI in crypt/mucosal epithelial ROI,14.8470869064331,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_04,UC,GART MFI in crypt/mucosal epithelial ROI,13.0139093399048,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_05,UC,GART MFI in crypt/mucosal epithelial ROI,13.3101062774658,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_06,UC,GART MFI in crypt/mucosal epithelial ROI,16.6165904998779,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_07,UC,GART MFI in crypt/mucosal epithelial ROI,16.226448059082,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_08,UC,GART MFI in crypt/mucosal epithelial ROI,19.4320468902588,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_09,UC,GART MFI in crypt/mucosal epithelial ROI,7.28005170822144,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_10,UC,GART MFI in crypt/mucosal epithelial ROI,5.84384727478027,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_11,UC,GART MFI in crypt/mucosal epithelial ROI,11.8782825469971,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_12,UC,GART MFI in crypt/mucosal epithelial ROI,9.11855030059814,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_13,UC,GART MFI in crypt/mucosal epithelial ROI,6.81591367721558,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_14,UC,GART MFI in crypt/mucosal epithelial ROI,5.04254579544067,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_15,UC,GART MFI in crypt/mucosal epithelial ROI,5.08648300170898,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_16,UC,GART MFI in crypt/mucosal epithelial ROI,11.7882518768311,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_17,UC,GART MFI in crypt/mucosal epithelial ROI,15.9915781021118,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_18,UC,GART MFI in crypt/mucosal epithelial ROI,7.51830148696899,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_19,UC,GART MFI in crypt/mucosal epithelial ROI,12.2859678268433,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_20,UC,GART MFI in crypt/mucosal epithelial ROI,9.1454496383667,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_21,UC,GART MFI in crypt/mucosal epithelial ROI,9.78598690032959,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_22,UC,GART MFI in crypt/mucosal epithelial ROI,17.0485553741455,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_23,UC,GART MFI in crypt/mucosal epithelial ROI,9.02427959442139,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_24,UC,GART MFI in crypt/mucosal epithelial ROI,11.8223896026611,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_25,UC,GART MFI in crypt/mucosal epithelial ROI,23.6901321411133,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_01,Healthy,CD74+ objects per mm²,58.8147229291871,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_02,Healthy,CD74+ objects per mm²,102.579363737406,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_03,Healthy,CD74+ objects per mm²,151.188257984375,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_04,Healthy,CD74+ objects per mm²,30.1350048216008,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_05,Healthy,CD74+ objects per mm²,33.7448474213745,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_06,Healthy,CD74+ objects per mm²,114.705646194258,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_07,Healthy,CD74+ objects per mm²,47.3307205236394,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_08,Healthy,CD74+ objects per mm²,11.6059995280227,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_09,Healthy,CD74+ objects per mm²,37.6899573852215,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_10,Healthy,CD74+ objects per mm²,43.1656934764865,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_11,Healthy,CD74+ objects per mm²,50.5221404468507,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_12,Healthy,CD74+ objects per mm²,198.010184448355,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_13,Healthy,CD74+ objects per mm²,142.639293753955,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_14,Healthy,CD74+ objects per mm²,95.3996315344101,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_15,Healthy,CD74+ objects per mm²,242.509083199493,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_16,Healthy,CD74+ objects per mm²,151.651196242654,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_17,Healthy,CD74+ objects per mm²,108.068203667863,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_18,Healthy,CD74+ objects per mm²,49.1694698084994,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_01,UC,CD74+ objects per mm²,747.835257364768,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_02,UC,CD74+ objects per mm²,724.134327532472,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_03,UC,CD74+ objects per mm²,831.175126268707,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_04,UC,CD74+ objects per mm²,792.356019087406,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_05,UC,CD74+ objects per mm²,909.340649787357,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_06,UC,CD74+ objects per mm²,789.957061773166,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_07,UC,CD74+ objects per mm²,779.578310109076,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_08,UC,CD74+ objects per mm²,784.339145653724,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_09,UC,CD74+ objects per mm²,1322.24739403845,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_10,UC,CD74+ objects per mm²,911.768065273853,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_11,UC,CD74+ objects per mm²,1063.96744834726,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_12,UC,CD74+ objects per mm²,514.37460104982,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_13,UC,CD74+ objects per mm²,1381.63032378206,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_14,UC,CD74+ objects per mm²,1538.38437910377,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_15,UC,CD74+ objects per mm²,1272.53293720559,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_16,UC,CD74+ objects per mm²,1127.30984263364,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_17,UC,CD74+ objects per mm²,1107.40256019081,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_18,UC,CD74+ objects per mm²,1053.12921201392,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_19,UC,CD74+ objects per mm²,773.25300233739,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_20,UC,CD74+ objects per mm²,343.623442258989,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_21,UC,CD74+ objects per mm²,1384.71068440282,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_22,UC,CD74+ objects per mm²,1057.88173132765,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_23,UC,CD74+ objects per mm²,1063.40991750371,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_24,UC,CD74+ objects per mm²,720.876009326396,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_25,UC,CD74+ objects per mm²,1316.19724292574,objects/mm²,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_01,Healthy,MIF-high area within mucosal ROI (%),1.55070363795795,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_02,Healthy,MIF-high area within mucosal ROI (%),0.74556034259253,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_03,Healthy,MIF-high area within mucosal ROI (%),1.18784936746102,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_04,Healthy,MIF-high area within mucosal ROI (%),1.10718747260454,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_05,Healthy,MIF-high area within mucosal ROI (%),1.81196851865311,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_06,Healthy,MIF-high area within mucosal ROI (%),0.895659920700163,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_07,Healthy,MIF-high area within mucosal ROI (%),0.687680736973951,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_08,Healthy,MIF-high area within mucosal ROI (%),0.686043527656452,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_09,Healthy,MIF-high area within mucosal ROI (%),0.943882166117231,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_10,Healthy,MIF-high area within mucosal ROI (%),0.867368828613884,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_11,Healthy,MIF-high area within mucosal ROI (%),0.842544811963643,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_12,Healthy,MIF-high area within mucosal ROI (%),0.89833111038881,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_13,Healthy,MIF-high area within mucosal ROI (%),1.11297550753654,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_14,Healthy,MIF-high area within mucosal ROI (%),0.913234654597581,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_15,Healthy,MIF-high area within mucosal ROI (%),0.927343116953273,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_16,Healthy,MIF-high area within mucosal ROI (%),0.736033825724247,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_17,Healthy,MIF-high area within mucosal ROI (%),0.848686269583853,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_18,Healthy,MIF-high area within mucosal ROI (%),0.938124560728634,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_01,UC,MIF-high area within mucosal ROI (%),13.6746070963099,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_02,UC,MIF-high area within mucosal ROI (%),16.2944976855978,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_03,UC,MIF-high area within mucosal ROI (%),12.1565965009858,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_04,UC,MIF-high area within mucosal ROI (%),14.4174975399922,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_05,UC,MIF-high area within mucosal ROI (%),13.8774424403017,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_06,UC,MIF-high area within mucosal ROI (%),16.0847070219062,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_07,UC,MIF-high area within mucosal ROI (%),10.2860302176296,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_08,UC,MIF-high area within mucosal ROI (%),5.45990795358787,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_09,UC,MIF-high area within mucosal ROI (%),21.8703014898549,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_10,UC,MIF-high area within mucosal ROI (%),24.4987510366644,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_11,UC,MIF-high area within mucosal ROI (%),22.4307604230251,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_12,UC,MIF-high area within mucosal ROI (%),5.91747696159543,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_13,UC,MIF-high area within mucosal ROI (%),31.9137227089256,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_14,UC,MIF-high area within mucosal ROI (%),25.9497706753026,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_15,UC,MIF-high area within mucosal ROI (%),23.2989773443873,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_16,UC,MIF-high area within mucosal ROI (%),35.2229918977325,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_17,UC,MIF-high area within mucosal ROI (%),12.99533032347,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_18,UC,MIF-high area within mucosal ROI (%),30.050896215977,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_19,UC,MIF-high area within mucosal ROI (%),5.98301362134279,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_20,UC,MIF-high area within mucosal ROI (%),4.05497975076144,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_21,UC,MIF-high area within mucosal ROI (%),26.9084756910368,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_22,UC,MIF-high area within mucosal ROI (%),19.0869649384516,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_23,UC,MIF-high area within mucosal ROI (%),29.4549107440106,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_24,UC,MIF-high area within mucosal ROI (%),3.45790524029867,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_25,UC,MIF-high area within mucosal ROI (%),37.2872696206121,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_01,Healthy,CD74+ objects within 50 μm of GART+ regions (%),4.54545454545455,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_02,Healthy,CD74+ objects within 50 μm of GART+ regions (%),5.49450549450549,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_03,Healthy,CD74+ objects within 50 μm of GART+ regions (%),33.3333333333333,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_04,Healthy,CD74+ objects within 50 μm of GART+ regions (%),13.6363636363636,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_05,Healthy,CD74+ objects within 50 μm of GART+ regions (%),11.5384615384615,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_06,Healthy,CD74+ objects within 50 μm of GART+ regions (%),23.3333333333333,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_07,Healthy,CD74+ objects within 50 μm of GART+ regions (%),41.4634146341463,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_08,Healthy,CD74+ objects within 50 μm of GART+ regions (%),11.1111111111111,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_09,Healthy,CD74+ objects within 50 μm of GART+ regions (%),10,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_10,Healthy,CD74+ objects within 50 μm of GART+ regions (%),24.2424242424242,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_11,Healthy,CD74+ objects within 50 μm of GART+ regions (%),58.1395348837209,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_12,Healthy,CD74+ objects within 50 μm of GART+ regions (%),19.811320754717,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_13,Healthy,CD74+ objects within 50 μm of GART+ regions (%),1.81818181818182,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_14,Healthy,CD74+ objects within 50 μm of GART+ regions (%),6.49350649350649,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_15,Healthy,CD74+ objects within 50 μm of GART+ regions (%),8.98203592814371,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_16,Healthy,CD74+ objects within 50 μm of GART+ regions (%),1.98019801980198,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_17,Healthy,CD74+ objects within 50 μm of GART+ regions (%),20.7792207792208,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_HC_18,Healthy,CD74+ objects within 50 μm of GART+ regions (%),50,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_01,UC,CD74+ objects within 50 μm of GART+ regions (%),91.1308203991131,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_02,UC,CD74+ objects within 50 μm of GART+ regions (%),85.9083191850594,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_03,UC,CD74+ objects within 50 μm of GART+ regions (%),80,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_04,UC,CD74+ objects within 50 μm of GART+ regions (%),81.3008130081301,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_05,UC,CD74+ objects within 50 μm of GART+ regions (%),81.6443594646272,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_06,UC,CD74+ objects within 50 μm of GART+ regions (%),90.8411214953271,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_07,UC,CD74+ objects within 50 μm of GART+ regions (%),91.6317991631799,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_08,UC,CD74+ objects within 50 μm of GART+ regions (%),88.1542699724518,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_09,UC,CD74+ objects within 50 μm of GART+ regions (%),7.99120234604106,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_10,UC,CD74+ objects within 50 μm of GART+ regions (%),4.2483660130719,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_11,UC,CD74+ objects within 50 μm of GART+ regions (%),15.970515970516,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_12,UC,CD74+ objects within 50 μm of GART+ regions (%),27.9116465863454,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_13,UC,CD74+ objects within 50 μm of GART+ regions (%),6.52173913043478,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_14,UC,CD74+ objects within 50 μm of GART+ regions (%),8.45575515635396,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_15,UC,CD74+ objects within 50 μm of GART+ regions (%),16.7906224737268,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_16,UC,CD74+ objects within 50 μm of GART+ regions (%),17.6640926640927,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_17,UC,CD74+ objects within 50 μm of GART+ regions (%),29.1375291375291,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_18,UC,CD74+ objects within 50 μm of GART+ regions (%),16.523400191022,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_19,UC,CD74+ objects within 50 μm of GART+ regions (%),31.7589576547231,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_20,UC,CD74+ objects within 50 μm of GART+ regions (%),20.1298701298701,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_21,UC,CD74+ objects within 50 μm of GART+ regions (%),9.4100074682599,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_22,UC,CD74+ objects within 50 μm of GART+ regions (%),22.3896663078579,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_23,UC,CD74+ objects within 50 μm of GART+ regions (%),22.4137931034483,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_24,UC,CD74+ objects within 50 μm of GART+ regions (%),21.497919556172,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7A,GART/MIF/CD74,Fig7A_UC_25,UC,CD74+ objects within 50 μm of GART+ regions (%),17.4545454545455,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_01,Healthy,GART MFI in crypt/cellular ROI,3.90112495422363,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_02,Healthy,GART MFI in crypt/cellular ROI,3.79770803451538,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_03,Healthy,GART MFI in crypt/cellular ROI,4.16081953048706,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_04,Healthy,GART MFI in crypt/cellular ROI,4.3109917640686,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_05,Healthy,GART MFI in crypt/cellular ROI,4.41823863983154,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_06,Healthy,GART MFI in crypt/cellular ROI,3.24808096885681,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_07,Healthy,GART MFI in crypt/cellular ROI,3.22387862205505,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_08,Healthy,GART MFI in crypt/cellular ROI,4.38091468811035,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_09,Healthy,GART MFI in crypt/cellular ROI,4.16407060623169,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_10,Healthy,GART MFI in crypt/cellular ROI,18.4034309387207,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_11,Healthy,GART MFI in crypt/cellular ROI,15.3804941177368,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_12,Healthy,GART MFI in crypt/cellular ROI,14.902229309082,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_13,Healthy,GART MFI in crypt/cellular ROI,11.8737154006958,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_14,Healthy,GART MFI in crypt/cellular ROI,16.1114940643311,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_15,Healthy,GART MFI in crypt/cellular ROI,19.1804656982422,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_16,Healthy,GART MFI in crypt/cellular ROI,13.8535671234131,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_17,Healthy,GART MFI in crypt/cellular ROI,23.1113510131836,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_18,Healthy,GART MFI in crypt/cellular ROI,18.8226928710938,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_19,Healthy,GART MFI in crypt/cellular ROI,16.495397567749,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_20,Healthy,GART MFI in crypt/cellular ROI,13.344687461853,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_01,UC,GART MFI in crypt/cellular ROI,27.3425045013428,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_02,UC,GART MFI in crypt/cellular ROI,20.5492343902588,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_03,UC,GART MFI in crypt/cellular ROI,27.9642658233643,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_04,UC,GART MFI in crypt/cellular ROI,21.7009696960449,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_05,UC,GART MFI in crypt/cellular ROI,21.3094692230225,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_06,UC,GART MFI in crypt/cellular ROI,25.6153087615967,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_07,UC,GART MFI in crypt/cellular ROI,43.9899749755859,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_08,UC,GART MFI in crypt/cellular ROI,22.197229385376,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_09,UC,GART MFI in crypt/cellular ROI,32.5675354003906,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_10,UC,GART MFI in crypt/cellular ROI,35.7386703491211,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_11,UC,GART MFI in crypt/cellular ROI,39.7675666809082,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_12,UC,GART MFI in crypt/cellular ROI,46.5698089599609,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_13,UC,GART MFI in crypt/cellular ROI,37.6853866577148,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_14,UC,GART MFI in crypt/cellular ROI,34.7666664123535,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_15,UC,GART MFI in crypt/cellular ROI,33.072151184082,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_16,UC,GART MFI in crypt/cellular ROI,30.6835994720459,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_17,UC,GART MFI in crypt/cellular ROI,39.086009979248,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_18,UC,GART MFI in crypt/cellular ROI,47.6895217895508,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_19,UC,GART MFI in crypt/cellular ROI,36.3860130310059,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_20,UC,GART MFI in crypt/cellular ROI,30.9725284576416,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_01,Healthy,MYBL2 nuclear MFI,11.6087598800659,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_02,Healthy,MYBL2 nuclear MFI,1.39996528625488,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_03,Healthy,MYBL2 nuclear MFI,3.5562584400177,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_04,Healthy,MYBL2 nuclear MFI,0.934706151485443,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_05,Healthy,MYBL2 nuclear MFI,15.1791105270386,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_06,Healthy,MYBL2 nuclear MFI,14.4598731994629,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_07,Healthy,MYBL2 nuclear MFI,12.8926048278809,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_08,Healthy,MYBL2 nuclear MFI,1.23008453845978,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_09,Healthy,MYBL2 nuclear MFI,9.96750831604004,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_10,Healthy,MYBL2 nuclear MFI,70.1583938598633,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_11,Healthy,MYBL2 nuclear MFI,48.9071197509766,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_12,Healthy,MYBL2 nuclear MFI,28.3140544891357,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_13,Healthy,MYBL2 nuclear MFI,39.551456451416,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_14,Healthy,MYBL2 nuclear MFI,85.5868530273438,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_15,Healthy,MYBL2 nuclear MFI,80.96826172,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_16,Healthy,MYBL2 nuclear MFI,61.1656837463379,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_17,Healthy,MYBL2 nuclear MFI,79.6533889770508,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_18,Healthy,MYBL2 nuclear MFI,45.9887657165527,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_19,Healthy,MYBL2 nuclear MFI,97.627082824707,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_20,Healthy,MYBL2 nuclear MFI,67.4275894165039,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_01,UC,MYBL2 nuclear MFI,243.015182495117,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_02,UC,MYBL2 nuclear MFI,246.49787902832,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_03,UC,MYBL2 nuclear MFI,246.000350952148,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_04,UC,MYBL2 nuclear MFI,241.02507019043,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_05,UC,MYBL2 nuclear MFI,61.9868812561035,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_06,UC,MYBL2 nuclear MFI,59.5170364379883,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_07,UC,MYBL2 nuclear MFI,49.2681503295898,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_08,UC,MYBL2 nuclear MFI,246.49787902832,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_09,UC,MYBL2 nuclear MFI,238.537445068359,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_10,UC,MYBL2 nuclear MFI,233.562164306641,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_11,UC,MYBL2 nuclear MFI,239.034973144531,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_12,UC,MYBL2 nuclear MFI,240.527542114258,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_13,UC,MYBL2 nuclear MFI,240.527542114258,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_14,UC,MYBL2 nuclear MFI,244.010238647461,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_15,UC,MYBL2 nuclear MFI,243.015182495117,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_16,UC,MYBL2 nuclear MFI,235.552276611328,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_17,UC,MYBL2 nuclear MFI,235.552276611328,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_18,UC,MYBL2 nuclear MFI,230.576995849609,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_19,UC,MYBL2 nuclear MFI,235.054748535156,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_20,UC,MYBL2 nuclear MFI,238.537445068359,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_01,Healthy,Ki67⁺ cells (%),2.29166666666667,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_02,Healthy,Ki67⁺ cells (%),4.27184466019417,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_03,Healthy,Ki67⁺ cells (%),8.87290167865707,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_04,Healthy,Ki67⁺ cells (%),5.04807692307692,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_05,Healthy,Ki67⁺ cells (%),2.52808988764045,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_06,Healthy,Ki67⁺ cells (%),6.06060606060606,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_07,Healthy,Ki67⁺ cells (%),9.40919037199125,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_08,Healthy,Ki67⁺ cells (%),3.19767441860465,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_09,Healthy,Ki67⁺ cells (%),2.81030444964871,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_10,Healthy,Ki67⁺ cells (%),3.81,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_11,Healthy,Ki67⁺ cells (%),3.7,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_12,Healthy,Ki67⁺ cells (%),6.74,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_13,Healthy,Ki67⁺ cells (%),4.31,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_14,Healthy,Ki67⁺ cells (%),5.38,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_15,Healthy,Ki67⁺ cells (%),7.21,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_16,Healthy,Ki67⁺ cells (%),5.66,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_17,Healthy,Ki67⁺ cells (%),6.23,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_18,Healthy,Ki67⁺ cells (%),7.08,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_19,Healthy,Ki67⁺ cells (%),5.73,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_20,Healthy,Ki67⁺ cells (%),4.98,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_01,UC,Ki67⁺ cells (%),83.2271762208068,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_02,UC,Ki67⁺ cells (%),87.9377431906615,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_03,UC,Ki67⁺ cells (%),65.8823529411765,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_04,UC,Ki67⁺ cells (%),56.1995249406176,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_05,UC,Ki67⁺ cells (%),54.6201232032854,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_06,UC,Ki67⁺ cells (%),50.492264416315,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_07,UC,Ki67⁺ cells (%),86.783042394015,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_08,UC,Ki67⁺ cells (%),58.4130982367758,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_09,UC,Ki67⁺ cells (%),65.0793650793651,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_10,UC,Ki67⁺ cells (%),77.1812080536913,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_11,UC,Ki67⁺ cells (%),82.5581395348837,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_12,UC,Ki67⁺ cells (%),79.5454545454545,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_13,UC,Ki67⁺ cells (%),84.9673202614379,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_14,UC,Ki67⁺ cells (%),41,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_15,UC,Ki67⁺ cells (%),33.72,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_16,UC,Ki67⁺ cells (%),54.2,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_17,UC,Ki67⁺ cells (%),63.41,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_18,UC,Ki67⁺ cells (%),47.35,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_19,UC,Ki67⁺ cells (%),38.13,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_20,UC,Ki67⁺ cells (%),67.91,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_01,Healthy,GART⁺Ki67⁺ cells (%),0.416666666666667,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_02,Healthy,GART⁺Ki67⁺ cells (%),0.388349514563107,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_03,Healthy,GART⁺Ki67⁺ cells (%),0.959232613908873,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_04,Healthy,GART⁺Ki67⁺ cells (%),0.480769230769231,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_05,Healthy,GART⁺Ki67⁺ cells (%),0.280898876404494,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_06,Healthy,GART⁺Ki67⁺ cells (%),0.649350649350649,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_07,Healthy,GART⁺Ki67⁺ cells (%),0.437636761487965,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_08,Healthy,GART⁺Ki67⁺ cells (%),0.12,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_09,Healthy,GART⁺Ki67⁺ cells (%),0.234192037470726,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_10,Healthy,GART⁺Ki67⁺ cells (%),0.84,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_11,Healthy,GART⁺Ki67⁺ cells (%),0.4,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_12,Healthy,GART⁺Ki67⁺ cells (%),0.53,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_13,Healthy,GART⁺Ki67⁺ cells (%),0.73,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_14,Healthy,GART⁺Ki67⁺ cells (%),0.5,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_15,Healthy,GART⁺Ki67⁺ cells (%),0.31,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_16,Healthy,GART⁺Ki67⁺ cells (%),0.68,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_17,Healthy,GART⁺Ki67⁺ cells (%),0.57,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_18,Healthy,GART⁺Ki67⁺ cells (%),0.31,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_19,Healthy,GART⁺Ki67⁺ cells (%),0.38,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_20,Healthy,GART⁺Ki67⁺ cells (%),0.34,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_01,UC,GART⁺Ki67⁺ cells (%),48.4076433121019,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_02,UC,GART⁺Ki67⁺ cells (%),53.1128404669261,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_03,UC,GART⁺Ki67⁺ cells (%),38.0392156862745,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_04,UC,GART⁺Ki67⁺ cells (%),53.4441805225653,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_05,UC,GART⁺Ki67⁺ cells (%),40.8624229979466,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_06,UC,GART⁺Ki67⁺ cells (%),38.5372714486639,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_07,UC,GART⁺Ki67⁺ cells (%),60.8478802992519,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_08,UC,GART⁺Ki67⁺ cells (%),62.0906801007557,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_09,UC,GART⁺Ki67⁺ cells (%),43.0839002267574,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_10,UC,GART⁺Ki67⁺ cells (%),45.6375838926174,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_11,UC,GART⁺Ki67⁺ cells (%),41.8604651162791,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_12,UC,GART⁺Ki67⁺ cells (%),30.1948051948052,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_13,UC,GART⁺Ki67⁺ cells (%),38.562091503268,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_14,UC,GART⁺Ki67⁺ cells (%),22.6666666666667,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_15,UC,GART⁺Ki67⁺ cells (%),30.38,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_16,UC,GART⁺Ki67⁺ cells (%),28.72,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_17,UC,GART⁺Ki67⁺ cells (%),46.92,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_18,UC,GART⁺Ki67⁺ cells (%),35.3,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_19,UC,GART⁺Ki67⁺ cells (%),42.91,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_20,UC,GART⁺Ki67⁺ cells (%),37.26,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_01,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.416666666666667,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_02,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.388349514563107,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_03,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.479616306954436,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_04,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.240384615384615,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_05,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.280898876404494,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_06,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.432900432900433,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_07,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.437636761487965,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_08,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.75,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_09,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.234192037470726,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_10,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.71,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_11,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.52,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_12,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.91,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_13,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),1.57,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_14,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.24,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_15,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.43,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_16,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.82,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_17,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.53,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_18,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.77,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_19,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.68,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_HC_20,Healthy,GART⁺MYBL2⁺Ki67⁺ cells (%),0.37,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_01,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),46.2845010615711,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_02,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),50.9727626459144,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_03,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),35.2941176470588,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_04,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),50.3562945368171,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_05,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),38.6036960985626,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_06,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),37.6933895921238,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_07,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),56.6084788029925,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_08,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),61.8387909319899,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_09,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),42.1768707482993,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_10,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),44.1275167785235,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_11,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),36.5116279069767,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_12,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),21.1038961038961,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_13,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),31.0457516339869,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_14,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),22.3333333333333,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_15,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),23.72,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_16,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),53.41,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_17,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),45.16,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_18,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),31.39,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_19,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),18.34,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7B,GART/MYBL2/Ki67,Fig7B_UC_20,UC,GART⁺MYBL2⁺Ki67⁺ cells (%),37.61,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_01,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.72327423095703,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_02,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.37154006958008,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_03,Healthy,GART MFI in EPCAM⁺ crypt epithelium,12.1236934661865,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_04,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.88601398468018,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_05,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.29491996765137,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_06,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.48763465881348,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_07,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.41691923141479,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_08,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.22775268554688,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_09,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.86649179458618,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_10,Healthy,GART MFI in EPCAM⁺ crypt epithelium,6.20561933517456,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_11,Healthy,GART MFI in EPCAM⁺ crypt epithelium,3.60835552215576,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_12,Healthy,GART MFI in EPCAM⁺ crypt epithelium,6.00215768814087,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_13,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.17840147018433,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_14,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.95152473449707,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_15,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.41852521896362,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_16,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.85906553268433,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_17,Healthy,GART MFI in EPCAM⁺ crypt epithelium,11.4862270355225,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_18,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.18855571746826,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_19,Healthy,GART MFI in EPCAM⁺ crypt epithelium,11.35373878479,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_20,Healthy,GART MFI in EPCAM⁺ crypt epithelium,11.7203121185303,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_21,Healthy,GART MFI in EPCAM⁺ crypt epithelium,9.5558032989502,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_22,Healthy,GART MFI in EPCAM⁺ crypt epithelium,19.6018028259277,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_23,Healthy,GART MFI in EPCAM⁺ crypt epithelium,28.7784748077393,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_24,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.12715530395508,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_25,Healthy,GART MFI in EPCAM⁺ crypt epithelium,6.18734407424927,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_26,Healthy,GART MFI in EPCAM⁺ crypt epithelium,17.1305980682373,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_27,Healthy,GART MFI in EPCAM⁺ crypt epithelium,12.6857814788818,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_28,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.59642696380615,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_29,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.71024942398071,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_30,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.18110656738281,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_31,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.87882804870605,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_32,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.57200717926025,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_33,Healthy,GART MFI in EPCAM⁺ crypt epithelium,12.3646812438965,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_34,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.36597728729248,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_35,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.89560699462891,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_36,Healthy,GART MFI in EPCAM⁺ crypt epithelium,10.2389287948608,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_37,Healthy,GART MFI in EPCAM⁺ crypt epithelium,10.0968198776245,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_38,Healthy,GART MFI in EPCAM⁺ crypt epithelium,12.5646591186523,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_39,Healthy,GART MFI in EPCAM⁺ crypt epithelium,15.3370561599731,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_40,Healthy,GART MFI in EPCAM⁺ crypt epithelium,9.5287914276123,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_41,Healthy,GART MFI in EPCAM⁺ crypt epithelium,23.0862331390381,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_42,Healthy,GART MFI in EPCAM⁺ crypt epithelium,12.3880825042725,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_43,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.31631946563721,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_44,Healthy,GART MFI in EPCAM⁺ crypt epithelium,11.836594581604,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_45,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.13996505737305,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_46,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.25744247436523,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_47,Healthy,GART MFI in EPCAM⁺ crypt epithelium,7.64790344238281,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_48,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.69916534423828,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_49,Healthy,GART MFI in EPCAM⁺ crypt epithelium,8.17890357971191,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_50,Healthy,GART MFI in EPCAM⁺ crypt epithelium,5.87273025512695,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_51,Healthy,GART MFI in EPCAM⁺ crypt epithelium,6.31400060653687,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_52,Healthy,GART MFI in EPCAM⁺ crypt epithelium,11.3378000259399,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_53,Healthy,GART MFI in EPCAM⁺ crypt epithelium,9.55061721801758,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_01,UC,GART MFI in EPCAM⁺ crypt epithelium,44.1639976501465,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_02,UC,GART MFI in EPCAM⁺ crypt epithelium,114.055053710938,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_03,UC,GART MFI in EPCAM⁺ crypt epithelium,176.242279052734,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_04,UC,GART MFI in EPCAM⁺ crypt epithelium,231.361602783203,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_05,UC,GART MFI in EPCAM⁺ crypt epithelium,144.028594970703,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_06,UC,GART MFI in EPCAM⁺ crypt epithelium,127.351860046387,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_07,UC,GART MFI in EPCAM⁺ crypt epithelium,126.489715576172,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_08,UC,GART MFI in EPCAM⁺ crypt epithelium,158.306274414063,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_09,UC,GART MFI in EPCAM⁺ crypt epithelium,112.371040344238,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_10,UC,GART MFI in EPCAM⁺ crypt epithelium,202.579803466797,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_11,UC,GART MFI in EPCAM⁺ crypt epithelium,19.603588104248,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_12,UC,GART MFI in EPCAM⁺ crypt epithelium,12.9755239486694,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_13,UC,GART MFI in EPCAM⁺ crypt epithelium,16.2465705871582,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_14,UC,GART MFI in EPCAM⁺ crypt epithelium,28.6143131256104,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_15,UC,GART MFI in EPCAM⁺ crypt epithelium,43.89111328,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_16,UC,GART MFI in EPCAM⁺ crypt epithelium,24.6126728057861,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_17,UC,GART MFI in EPCAM⁺ crypt epithelium,26.7698631286621,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_18,UC,GART MFI in EPCAM⁺ crypt epithelium,13.2454872131348,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_19,UC,GART MFI in EPCAM⁺ crypt epithelium,16.1926021575928,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_20,UC,GART MFI in EPCAM⁺ crypt epithelium,16.8544750213623,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_21,UC,GART MFI in EPCAM⁺ crypt epithelium,21.2308349609375,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_22,UC,GART MFI in EPCAM⁺ crypt epithelium,9.20395755767822,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_23,UC,GART MFI in EPCAM⁺ crypt epithelium,36.0874481201172,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_24,UC,GART MFI in EPCAM⁺ crypt epithelium,16.910306930542,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_25,UC,GART MFI in EPCAM⁺ crypt epithelium,7.44009160995483,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_26,UC,GART MFI in EPCAM⁺ crypt epithelium,8.84947967529297,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_27,UC,GART MFI in EPCAM⁺ crypt epithelium,24.8044033050537,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_28,UC,GART MFI in EPCAM⁺ crypt epithelium,38.4812545776367,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_29,UC,GART MFI in EPCAM⁺ crypt epithelium,35.6984329223633,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_30,UC,GART MFI in EPCAM⁺ crypt epithelium,44.4242630004883,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_31,UC,GART MFI in EPCAM⁺ crypt epithelium,11.8924503326416,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_32,UC,GART MFI in EPCAM⁺ crypt epithelium,14.9410638809204,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_33,UC,GART MFI in EPCAM⁺ crypt epithelium,12.067798614502,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_34,UC,GART MFI in EPCAM⁺ crypt epithelium,17.605562210083,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_35,UC,GART MFI in EPCAM⁺ crypt epithelium,17.0414657592773,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_36,UC,GART MFI in EPCAM⁺ crypt epithelium,46.2591247558594,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_37,UC,GART MFI in EPCAM⁺ crypt epithelium,18.6691188812256,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_38,UC,GART MFI in EPCAM⁺ crypt epithelium,25.3456439971924,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_39,UC,GART MFI in EPCAM⁺ crypt epithelium,20.3789119720459,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_40,UC,GART MFI in EPCAM⁺ crypt epithelium,15.0859298706055,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_41,UC,GART MFI in EPCAM⁺ crypt epithelium,40.733268737793,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_42,UC,GART MFI in EPCAM⁺ crypt epithelium,23.4563407897949,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_01,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,24.0735645294189,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_02,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,17.9699172973633,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_03,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.5541553497314,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_04,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.9152698516846,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_05,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,22.0171356201172,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_06,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.9579467773438,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_07,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,19.1001491546631,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_08,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,18.2727012634277,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_09,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,13.5143785476685,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_10,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,13.1802625656128,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_11,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,20.5055046081543,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_12,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.3190889358521,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_13,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,17.2108783721924,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_14,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.5950355529785,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_15,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,20.6269016265869,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_16,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.4608573913574,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_17,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,17.4601211547852,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_18,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.4861526489258,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_19,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,18.8873443603516,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_20,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,20.3590850830078,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_21,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,15.7220668792725,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_22,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,26.5854797363281,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_23,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,33.1003227233887,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_24,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.8676595687866,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_25,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,12.1242971420288,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_26,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,24.2755870819092,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_27,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,20.1837177276611,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_28,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,15.8065843582153,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_29,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.9602165222168,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_30,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,13.8486490249634,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_31,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.6281967163086,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_32,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,15.132116317749,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_33,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,19.3552799224854,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_34,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.2678737640381,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_35,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,16.4105625152588,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_36,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.9950904846191,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_37,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.9888114929199,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_38,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,18.5209197998047,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_39,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,20.1489639282227,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_40,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,13.148871421814,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_41,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,31.1349906921387,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_42,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,15.6243133544922,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_43,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.5203580856323,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_44,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,14.9494867324829,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_45,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,10.7532634735107,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_46,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,12.8569030761719,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_47,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,21.997859954834,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_48,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.7933044433594,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_49,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.8503570556641,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_50,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,9.8417387008667,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_51,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,11.0934705734253,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_52,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,17.1233768463135,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_53,Healthy,OLFM4 MFI in EPCAM⁺ crypt epithelium,13.0099678039551,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_01,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,222.08674621582,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_02,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,219.28825378418,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_03,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,107.860420227051,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_04,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,129.824859619141,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_05,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,221.153915405273,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_06,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,220.221084594727,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_07,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,66.3756256103516,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_08,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,117.190887451172,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_09,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,86.0689392089844,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_10,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,122.807846069336,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_11,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,65.4132308959961,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_12,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,193.02604675293,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_13,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,111.312774658203,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_14,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,114.518424987793,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_15,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,111.921485900879,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_16,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,134.648666381836,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_17,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,148.085250854492,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_18,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,130.436904907227,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_19,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,129.073867797852,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_20,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,99.8572769165039,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_21,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,102.133361816406,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_22,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,107.588073730469,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_23,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,120.892463684082,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_24,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,83.2614517211914,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_25,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,135.35107421875,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_26,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,120.236930847168,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_27,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,83.8551330566406,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_28,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,139.741165161133,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_29,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,121.644317626953,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_30,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,137.542236328125,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_31,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,71.9514083862305,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_32,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,108.351196289063,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_33,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,89.7058715820313,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_34,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,110.602592468262,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_35,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,106.403144836426,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_36,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,127.059997558594,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_37,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,101.522636413574,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_38,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,106.061882019043,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_39,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,104.333564758301,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_40,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,113.607055664063,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_41,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,134.007614135742,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_42,UC,OLFM4 MFI in EPCAM⁺ crypt epithelium,121.734397888184,arbitrary fluorescence units,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_01,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0714285714285714,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_02,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.2,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_03,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0714285714285714,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_04,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0434782608695652,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_05,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.157894736842105,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_06,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.037037037037037,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_07,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0769230769230769,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_08,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0833333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_09,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.2,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_10,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.363636363636364,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_11,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_12,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.545454545454545,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_13,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.11111111111111,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_14,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.04,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_15,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0625,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_16,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0714285714285714,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_17,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0526315789473684,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_18,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.15,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_19,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0625,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_20,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0714285714285714,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_21,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0588235294117647,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_22,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_23,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.111111111111111,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_24,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0476190476190476,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_25,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.04,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_26,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.66666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_27,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.58333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_28,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.642857142857143,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_29,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.142857142857143,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_30,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.133333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_31,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.181818181818182,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_32,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.08,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_33,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.111111111111111,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_34,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_35,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.625,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_36,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.736842105263158,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_37,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.416666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_38,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_39,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.25,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_40,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0476190476190476,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_41,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_42,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.136363636363636,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_43,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.115384615384615,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_44,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0588235294117647,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_45,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.04,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_46,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0454545454545454,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_47,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.153846153846154,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_48,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0416666666666666,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_49,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.04,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_50,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0384615384615384,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_51,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0869565217391304,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_52,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0555555555555555,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_53,Healthy,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.0625,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_01,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.27272727272727,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_02,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_03,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_04,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_05,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,8.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_06,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_07,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_08,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_09,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.75,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_10,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_11,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.6,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_12,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.77142857142857,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_13,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_14,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.90625,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_15,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.35714285714286,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_16,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.85714285714286,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_17,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.96,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_18,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.8,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_19,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.15384615384615,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_20,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.61904761904762,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_21,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.76923076923077,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_22,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.91666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_23,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.88888888888889,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_24,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,5.91666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_25,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.92307692307692,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_26,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.47368421052632,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_27,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_28,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.7,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_29,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.71428571428571,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_30,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.09090909090909,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_31,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.5,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_32,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,0.9,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_33,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.81818181818182,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_34,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.52380952380952,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_35,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,1.86666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_36,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.25,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_37,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,4.06666666666667,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_38,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.09090909090909,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_39,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.83333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_40,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.33333333333333,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_41,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,2.75,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_42,UC,GART⁺OLFM4⁺EPCAM⁺ objects per crypt ROI,3.35714285714286,objects per crypt ROI,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_01,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.07562855508061,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_02,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.0954603554934,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_03,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.7502342680026,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_04,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.14024685215132,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_05,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.88583278760096,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_06,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.98849067121356,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_07,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.15227168469291,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_08,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.74354801209021,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_09,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.83207975059986,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_10,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),1.99985041634118,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_11,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),1.35696528262387,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_12,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.3955687782696,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_13,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),1.83748344950963,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_14,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.36991482874699,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_15,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.88670920229819,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_16,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.05098165519277,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_17,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.50950698300522,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_18,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.17664120918598,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_19,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.49906455093495,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_20,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.65616706458587,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_21,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.62302769152779,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_22,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),7.82871563718809,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_23,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),11.2522775397646,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_24,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.83357133503364,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_25,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.39124504228485,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_26,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),6.91144708423326,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_27,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.76205059104551,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_28,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.20029256984175,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_29,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.04461560819648,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_30,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.20283246461118,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_31,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.35626927805699,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_32,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.39554192259197,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_33,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.84957485074547,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_34,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.41732425151761,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_35,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.37366650323759,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_36,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.95806388682163,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_37,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.05894938478531,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_38,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.88835460980183,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_39,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),5.80648981525343,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_40,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.79156410363386,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_41,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),10.2031506599355,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_42,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.80431169092832,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_43,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.38805806927851,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_44,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.65175316564953,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_45,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.19812189413162,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_46,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.23163542240796,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_47,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.05581519562024,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_48,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.40716778242051,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_49,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.25272491751891,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_50,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.33209816983669,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_51,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),2.51657302290839,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_52,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.51698840931231,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_HC_53,Healthy,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.83225956816328,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_01,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),13.4524828767123,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_02,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),91.8831168831169,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_03,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),52.4366471734893,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_04,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),51.8674894446249,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_05,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),25.3152039555006,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_06,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),61.5942396430201,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_07,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),33.2388236845576,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_08,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),49.0909090909091,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_09,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),32.0457747688924,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_10,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),86.1655277145027,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_11,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),7.91604281040315,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_12,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),11.1658189950583,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_13,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),11.4867724095665,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_14,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),35.4032683602258,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_15,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),47.7955831938133,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_16,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),24.4151173660158,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_17,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),31.2026869062711,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_18,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),9.75392593317352,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_19,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),11.3400251104273,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_20,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),15.76003439831,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_21,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),19.0425325305885,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_22,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),5.59253229288445,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_23,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),40.8098258874342,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_24,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),13.9392971941459,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_25,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),3.21788645375465,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_26,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),7.25390108052296,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_27,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),15.1089213327621,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_28,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),47.0841933913977,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_29,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),20.4459846316107,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_30,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),39.9502933811713,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_31,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),4.36573598313971,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_32,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),9.4299783458044,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_33,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),8.22854550168525,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_34,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),16.8742384950529,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_35,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),10.0210758292595,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_36,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),37.3446410293903,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_37,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),13.191418520824,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_38,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),14.0382726704562,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_39,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),11.8174177721243,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_40,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),10.4223088078556,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_41,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),35.7383758384175,%,participant,Original FINAL GraphPad Prism,Not inferred
+Figure 7C,GART/EPCAM/OLFM4,Fig7C_UC_42,UC,GART⁺OLFM4⁺ double-positive area among EPCAM⁺ epithelium (%),20.8342506467059,%,participant,Original FINAL GraphPad Prism,Not inferred

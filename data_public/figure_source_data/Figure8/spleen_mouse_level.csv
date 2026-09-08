@@ -1,0 +1,13 @@
+﻿panel,mouse_id,group,endpoint,value,unit,included_in_analysis,missing_reason,source_record,animal_identity_note
+C,CTRL_SPLEEN_01,Control,Splenic index,3.831417625,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,CTRL_SPLEEN_02,Control,Splenic index,4.564315353,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,CTRL_SPLEEN_03,Control,Splenic index,3.174603175,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,CTRL_SPLEEN_04,Control,Splenic index,2.822580645,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,CTRL_SPLEEN_05,Control,Splenic index,3.673469388,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,CTRL_SPLEEN_06,Control,Splenic index,2.380952381,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_01,Model,Splenic index,7.486631016,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_02,Model,Splenic index,6.735751295,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_03,Model,Splenic index,4.591836735,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_04,Model,Splenic index,6.806282723,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_05,Model,Splenic index,7.804878049,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived
+C,DSS_SPLEEN_06,Model,Splenic index,5.445544554,unit not reported in archived Prism table,Yes,NA,spleen.pzfx,Source-position ID; cross-endpoint animal mapping not archived

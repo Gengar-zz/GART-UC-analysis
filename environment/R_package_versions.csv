@@ -1,0 +1,38 @@
+﻿Package,Archived_version,Recovery_status,Evidence_file,Evidence_type,Notes
+R,4.5.2,ARCHIVED_EXACT,Archived revision sessionInfo files,sessionInfo,Exact R version in revision analysis records
+Seurat,5.4.0,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original single-cell environment record
+SeuratObject,5.4.0,ARCHIVED_EXACT,R_sessionInfo_spatial_archived.txt,sessionInfo,Revision spatial record
+harmony,1.2.4,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original epithelial analysis record
+monocle3,1.4.26,ARCHIVED_EXACT,R_sessionInfo_original_scTenifold_archived.txt,sessionInfo,Archived analysis record
+CellChat,2.2.0.9001,ARCHIVED_EXACT,CROSS_METHOD_ANALYSIS_LOCK_archived.md,locked run record,Revision cross-method run record
+liana,1.8.1,ARCHIVED_EXACT,CROSS_METHOD_ANALYSIS_LOCK_archived.md,locked run record,Revision cross-method run record
+SCENIC,1.3.1,ARCHIVED_EXACT,R_sessionInfo_SCENIC_CellChat_archived.txt,sessionInfo,Archived SCENIC environment
+AUCell,1.28.0,ARCHIVED_EXACT,R_sessionInfo_SCENIC_CellChat_archived.txt,sessionInfo,Archived SCENIC environment
+GENIE3,1.28.0,ARCHIVED_EXACT,R_sessionInfo_SCENIC_CellChat_archived.txt,sessionInfo,Archived SCENIC environment
+scTenifoldKnk,1.0.3,ARCHIVED_EXACT,R_sessionInfo_original_scTenifold_archived.txt,sessionInfo/method audit,Archived five-run analysis record
+scTenifoldNet,1.3,ARCHIVED_EXACT,R_sessionInfo_original_scTenifold_archived.txt,sessionInfo/method audit,Archived five-run analysis record
+ggplot2,4.0.3,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+dplyr,1.2.1,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+lme4,2.0-6,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+glmmTMB,1.1.14,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+geepack,1.3.13,ARCHIVED_EXACT,package_versions_donor_balanced_archived.txt,packageVersion output,Revision donor-balanced validation record
+clubSandwich,0.7.0,ARCHIVED_EXACT,package_versions_donor_balanced_archived.txt,packageVersion output,Revision donor-balanced validation record
+survey,4.5,ARCHIVED_EXACT,package_versions_donor_balanced_archived.txt,packageVersion output,Revision donor-balanced validation record
+sandwich,3.1-3,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+metafor,5.0-1,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision multiverse record
+edgeR,4.8.2,ARCHIVED_EXACT,edgeR_DESCRIPTION_archived.txt,archived package DESCRIPTION,Revision local library snapshot
+fgsea,1.32.4,ARCHIVED_PARTIAL,R_sessionInfo_original_scTenifold_archived.txt,sessionInfo,"Exact version exists in an archived original-analysis environment, but exact final revision run environment was not separately captured"
+data.table,1.18.6.1,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+Matrix,1.7-4,ARCHIVED_EXACT,R_sessionInfo_revision_multiverse_archived.txt,sessionInfo,Revision analysis record
+cowplot,1.2.0,ARCHIVED_EXACT,R_sessionInfo_Figure5_archived.txt,sessionInfo,Final Figure 5 rebuild record
+scales,1.4.0,ARCHIVED_EXACT,R_sessionInfo_Figure5_archived.txt,sessionInfo,Final Figure 5 rebuild record
+UCell,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Used upstream; no verifiable archived version record located
+meta,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,No verifiable archived version record located
+numpy,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+pandas,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+scipy,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+scikit-learn,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+matplotlib,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+Pillow,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+reportlab,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located
+pypdfium2,Exact archived version not recoverable.,NOT_RECOVERABLE,NA,none,Imported by final public Python scripts; no contemporaneous environment capture located

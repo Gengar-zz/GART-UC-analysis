@@ -1,0 +1,27 @@
+﻿Analysis,Parameter,Value,Source_script,Notes
+Single-cell preprocessing,QC thresholds,Inherited from frozen public objects; exact upstream thresholds not recoverable from final archived scripts,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,No new cell filtering was performed during revision
+Single-cell preprocessing,UMI/gene filters,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
+Single-cell preprocessing,Mitochondrial threshold,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
+Single-cell preprocessing,Doublet handling,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,No additional doublet filtering in revision
+Single-cell preprocessing,Ambient RNA handling,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Raw GART layer was audited and corrected
+Single-cell embedding,Harmony parameters,Not rerun; inherited from frozen object,scripts/02_singlecell_preprocessing/02_epithelial_annotation_and_ISClike.R,Frozen embedding
+Single-cell clustering,Resolution,Not rerun; inherited from frozen object,scripts/02_singlecell_preprocessing/02_epithelial_annotation_and_ISClike.R,Frozen cluster assignment
+GART detection,Primary threshold,raw GART count >= 1,scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R,raw count 0 = undetected
+GART detection,Sensitivity threshold,raw GART count >= 2,scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R,Prespecified sensitivity
+Donor-balanced GART model,Covariates,condition + scale(log1p(nUMI)) + scale(nGene) + S.Score + G2M.Score + cohort,scripts/03_GART_detection_and_donor_models/02_donor_balanced_primary_validation.R,Each donor total weight = 1
+Pseudotime,Root definition,Selected independently of GART,scripts/05_pseudotime/01_pseudotime_sensitivity.R,No GART-enrichment criterion
+Pseudotime,Excluded features,GART plus predefined S-phase and G2M genes,scripts/05_pseudotime/01_pseudotime_sensitivity.R,Sensitivity analysis
+scTenifoldKnk,Cells per network,"nc_nCells = min(500, available cells)",scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R,Each status was first subsampled to at most 3000 cells
+scTenifoldKnk,Gene universe,3502 genes in runs 1234/2024/8888; 3003 genes in runs 7777/9999,scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R,Run-specific complete outputs retained
+scTenifoldKnk,Seeds,1234;2024;7777;8888;9999,scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R,Prespecified archived seeds
+scTenifoldKnk,Recurrence,top100 in >=3/5 = recurrent; top100 in 5/5 = robust recurrent,scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R,"Reproducibility descriptor, not empirical permutation significance"
+Cell communication,Primary minimum receiver cells,20 per donor-status group,scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R,Sensitivity grid also used 10 and 30
+Cell communication,Minimum expression fraction,10%,scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R,Sensitivity grid also used 5% and 20%
+Cell communication,LIANA internal permutations,100,scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R,Internal cell-level score only; donor-level inference retained
+Multiple testing,Correction,Benjamini-Hochberg within defined result family,scripts/04_donor_pseudobulk_and_modules/03_donor_paired_pseudobulk_GSEA.R,Within-run BH for scTenifoldKnk
+Spatial ROI,Definition,Within-section top 40% EPCAM/KRT8/KRT18/KRT19 epithelial score,scripts/08_spatial_GSE189184/04_export_locked_top40_ROI.py,Outcome-blinded; excludes GART and validation markers
+Spatial program,Name,SC_GART_NEAREST_CENTROID_PROGRAM,scripts/08_spatial_GSE189184/03_finalize_selected_program.py,Trained in independent SCP259 single-cell data
+Spatial inference,Statistical unit,Independent donor/section; 7 donors,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,2 HC and 5 UC
+Spatial inference,Endpoint,Within-donor mean external-program score difference: GART-detected minus GART-undetected ROI spots,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,Primary endpoint
+Spatial inference,Bootstrap iterations,2000 donor resamples,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,95% CI
+Spatial inference,Sign-flip procedure,Two-sided exact paired sign-flip over 2^7 sign configurations,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,Exact P value

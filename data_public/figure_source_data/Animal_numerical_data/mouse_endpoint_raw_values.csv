@@ -1,0 +1,139 @@
+﻿endpoint,family,group,mouse_id,value,source_replicate_position,mouse_id_status
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_01,141.0,1,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_02,148.0,2,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_03,153.0,3,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_04,155.0,4,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_05,160.0,5,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Control,CBC_Control_rep_06,167.0,6,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_01,102.0,1,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_02,112.0,2,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_03,117.0,3,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_04,119.0,4,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_05,124.0,5,source-position ID; cross-endpoint animal mapping absent
+血红蛋白HGB  G/L,CBC,Model,CBC_Model_rep_06,134.0,6,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_01,36.8,1,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_02,39.7,2,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_03,40.6,3,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_04,48.6,4,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_05,49.5,5,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Control,CBC_Control_rep_06,52.4,6,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_01,31.7,1,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_02,33.1,2,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_03,34.3,3,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_04,37.3,4,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_05,38.5,5,source-position ID; cross-endpoint animal mapping absent
+红细胞压积HCT  %,CBC,Model,CBC_Model_rep_06,39.9,6,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_01,4.6,1,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_02,6.4,2,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_03,4.1,3,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_04,5.9,4,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_05,6.7,5,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Control,CBC_Control_rep_06,7.5,6,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_01,6.5,1,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_02,7.7,2,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_03,11.9,3,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_04,8.2,4,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_05,12.3,5,source-position ID; cross-endpoint animal mapping absent
+白细胞数目WBC 10^9/L,CBC,Model,CBC_Model_rep_06,13.5,6,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_01,19.3,1,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_02,21.8,2,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_03,22.9,3,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_04,27.6,4,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_05,28.8,5,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Control,CBC_Control_rep_06,31.3,6,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_01,37.8,1,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_02,39.9,2,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_03,40.3,3,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_04,45.4,4,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_05,45.7,5,source-position ID; cross-endpoint animal mapping absent
+中性粒细胞百分比Gran%,CBC,Model,CBC_Model_rep_06,47.8,6,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_01,852.0,1,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_02,902.0,2,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_03,931.0,3,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_04,1013.0,4,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_05,1042.0,5,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Control,CBC_Control_rep_06,1092.0,6,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_01,1771.0,1,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_02,1841.0,2,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_03,1899.0,3,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_04,1923.0,4,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_05,1981.0,5,source-position ID; cross-endpoint animal mapping absent
+血小板数目PLT 10^9/L,CBC,Model,CBC_Model_rep_06,2051.0,6,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_01,4.077964,1,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_02,14.244014,2,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_03,10.296291,3,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_04,6.502409,4,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_05,19.656574,5,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Control,cytokines_Control_rep_06,9.060648,6,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_01,178.899047,1,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_02,224.345092,2,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_03,193.031259,3,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_04,199.892148,4,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_05,154.487548,5,source-position ID; cross-endpoint animal mapping absent
+IL-6,cytokines,Model,cytokines_Model_rep_06,196.052867,6,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_01,6.633995,1,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_02,13.871384,2,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_03,15.373287,3,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_04,12.204772,4,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_05,16.524256,5,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Control,cytokines_Control_rep_06,16.773346,6,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_01,292.78914,1,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_02,280.376437,2,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_03,292.857382,3,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_04,424.421565,4,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_05,265.88421,5,source-position ID; cross-endpoint animal mapping absent
+IL-17A,cytokines,Model,cytokines_Model_rep_06,335.367501,6,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_01,3.230653,1,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_02,11.237644,2,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_03,19.997353,3,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_04,14.714327,4,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_05,5.676955,5,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Control,cytokines_Control_rep_06,10.779203,6,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_01,36.524057,1,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_02,38.838376,2,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_03,49.27611,3,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_04,31.72747,4,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_05,49.56995,5,source-position ID; cross-endpoint animal mapping absent
+IL-1β,cytokines,Model,cytokines_Model_rep_06,42.271457,6,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_01,30.522592,1,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_02,40.078941,2,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_03,39.916601,3,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_04,34.934331,4,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_05,48.15323,5,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Control,cytokines_Control_rep_06,51.463339,6,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_01,120.916333,1,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_02,115.280835,2,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_03,129.08788,3,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_04,100.771718,4,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_05,138.425816,5,source-position ID; cross-endpoint animal mapping absent
+TNF-α,cytokines,Model,cytokines_Model_rep_06,83.231784,6,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_01,204.528657,1,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_02,182.768842,2,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_03,240.8106812,3,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_04,213.2231835,4,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_05,223.5626204,5,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Control,cytokines_Control_rep_06,237.4268654,6,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_01,43.56242286,1,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_02,96.57553588,2,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_03,36.88878629,3,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_04,45.06634096,4,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_05,48.591149,5,source-position ID; cross-endpoint animal mapping absent
+IL-10,cytokines,Model,cytokines_Model_rep_06,69.59900496,6,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Control,barrier_IHC_Control_rep_01,50.37,1,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Control,barrier_IHC_Control_rep_02,59.4,2,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Control,barrier_IHC_Control_rep_03,46.28,3,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Model,barrier_IHC_Model_rep_01,32.26,1,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Model,barrier_IHC_Model_rep_02,22.51,2,source-position ID; cross-endpoint animal mapping absent
+ZO-1,barrier_IHC,Model,barrier_IHC_Model_rep_03,27.72,3,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Control,barrier_IHC_Control_rep_01,42.91,1,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Control,barrier_IHC_Control_rep_02,49.72,2,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Control,barrier_IHC_Control_rep_03,38.04,3,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Model,barrier_IHC_Model_rep_01,22.67,1,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Model,barrier_IHC_Model_rep_02,17.18,2,source-position ID; cross-endpoint animal mapping absent
+occludin,barrier_IHC,Model,barrier_IHC_Model_rep_03,26.72,3,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Control,barrier_IHC_Control_rep_01,32.84,1,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Control,barrier_IHC_Control_rep_02,29.71,2,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Control,barrier_IHC_Control_rep_03,37.06,3,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Model,barrier_IHC_Model_rep_01,25.17,1,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Model,barrier_IHC_Model_rep_02,22.93,2,source-position ID; cross-endpoint animal mapping absent
+claudin-1,barrier_IHC,Model,barrier_IHC_Model_rep_03,19.74,3,source-position ID; cross-endpoint animal mapping absent

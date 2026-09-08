@@ -1,0 +1,4 @@
+"metric","estimate","n_cells","interpretation"
+"trajectory_rank_correlation",0.394146566849133,9306,"Exploratory state-continuum localization; not temporal transition"
+"GART_correlation_independent_root",0.199296053661246,9306,"Exploratory state-continuum localization; not temporal transition"
+"GART_correlation_cell_cycle_excluded",0.0373937275756851,9306,"Exploratory state-continuum localization; not temporal transition"
