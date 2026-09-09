@@ -25,6 +25,8 @@ GSE37283 retains five normal and four quiescent non-neoplastic UC samples and ex
 
 Independent donors are the biological units for bulk, single-cell, and spatial inference; participants are the units for human tissue imaging; mice are the units for animal experiments. Cells, spots, repeated sample entries, and fields of view are not treated as independent biological replicates.
 
+Participant- and mouse-level imaging values in the rebuilt public source-data panels are reported to two decimal places. Figure 9B retains the formatting of the previously locked public release. Statistical analyses were performed using the original unrounded archived values.
+
 ## Analysis workflow and figure reproduction
 
 The stage order is bulk; single-cell preprocessing; GART detection/donor models; donor-paired pseudobulk, GSEA, and modules; pseudotime; scTenifoldKnk; donor-aware communication; spatial projection; figure generation; and animal endpoint verification. Panel-level input/output mappings are in `PUBLIC_SOURCE_DATA_TRACEABILITY.tsv` and `documentation/figure_to_script_map.csv`. Large expression matrices must be downloaded from the public repositories above and placed in repository-relative external-input locations described by the scripts. Figure 7–9 numerical source files reproduce de-identified participant- or mouse-level plotted values; original microscopy is not distributed.

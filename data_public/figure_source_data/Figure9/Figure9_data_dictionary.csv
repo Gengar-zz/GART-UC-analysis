@@ -1,6 +1,8 @@
-﻿field,definition
+field,definition
 mouse_id,De-identified stable ID for one distinct individual mouse.
 statistical_unit,Mouse.
 selection_status,Random 3-of-6 imaging subset selected before quantification and independently of the final imaging outcome.
 aggregation_rule,Multiple fields of view were averaged within each mouse before group-level statistical analysis.
 exclusion_status,Animals not selected for imaging were not experimental exclusions.
+value,Figure 9A mouse-level values were rebuilt from the original GraphPad Prism PZFX and are reported to two decimal places. Figure 9B retains the values and formatting of the previously locked public release. Statistical analyses used the original unrounded archived values.
+source_record,Figure 9A source rows were rebuilt from the original GraphPad Prism PZFX. Figure 9B was retained from the previously locked public release because its prior locked source version could not be recovered. Panel-specific source details are recorded in Figure9_provenance.csv.
