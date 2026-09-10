@@ -1,7 +1,7 @@
 relative_path	size_bytes	file_type	public_role	include_in_commit	notes
 .gitattributes	154	no_extension	internal QA/audit artifact	YES	Publication-facing file
 .gitignore	1150	no_extension	Git exclusion policy	YES	Publication-facing file
-CITATION.cff	358	cff	license/citation metadata	YES	Publication-facing file
+CITATION.cff	370	cff	license/citation metadata	YES	Publication-facing file
 CODE_LOGIC_DIFF_AUDIT.tsv	5914	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 CODE_PORTABILITY_POST_REPAIR_HASHES.tsv	26884	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 CODE_PORTABILITY_PRE_REPAIR_HASHES.tsv	18927	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -41,7 +41,7 @@ data_public/figure_source_data/Figure3/module_cell_cycle_stratified.csv	6218	csv
 data_public/figure_source_data/Figure3/primary_module_mixed_models.csv	3814	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure3/primary_module_paired_donor_data.csv	23452	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure3/primary_module_paired_donor_tests.csv	1010	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure3/purine_enzyme_adjusted_models.csv	3417	csv	public numerical figure source data	YES	Publication-facing file
+data_public/figure_source_data/Figure3/purine_enzyme_adjusted_models.csv	3241	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure3/purine_enzyme_donor_detection.csv	9836	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_DEG.csv	1926702	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure3/SCP259_primary_pseudobulk_GSEA.csv	1262585	csv	public numerical figure source data	YES	Publication-facing file
@@ -114,16 +114,16 @@ data_public/figure_source_data/Supplementary_Figures/four_cohort_leave_one_out.c
 data_public/figure_source_data/Supplementary_Figures/four_cohort_meta_summary.csv	257	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Supplementary_Figures/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
 data_public/public_dataset_manifest.csv	1496	csv	public data manifest	YES	Publication-facing file
-data_public/supplementary_tables/Table S1.xlsx	11052	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S2.xlsx	9065	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S3.xlsx	1658116	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S4.xlsx	1227914	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S5.xlsx	9171	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S6.xlsx	104390	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S7.xlsx	25258	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S8.xlsx	21647	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S9.xlsx	10388	xlsx	public Supplementary Table	YES	Publication-facing file
-docs/analysis_parameters.csv	4659	csv	reproducibility documentation	YES	Publication-facing file
+data_public/supplementary_tables/Table S1.xlsx	7341	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S2.xlsx	55536	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S3.xlsx	1660546	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S4.xlsx	1230577	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S5.xlsx	357370	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S6.xlsx	106196	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S7.xlsx	18932	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S8.xlsx	16485	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S9.xlsx	5981	xlsx	public Supplementary Table	YES	Publication-facing file
+docs/analysis_parameters.csv	4633	csv	reproducibility documentation	YES	Publication-facing file
 docs/data_dictionary.md	1006	md	reproducibility documentation	YES	Publication-facing file
 documentation/analysis_workflow.md	1143	md	reproducibility documentation	YES	Publication-facing file
 documentation/exclusions_and_locked_decisions.md	1539	md	reproducibility documentation	YES	Publication-facing file
@@ -136,7 +136,7 @@ documentation/numerical_provenance_conflicts.csv	423	csv	reproducibility documen
 documentation/numerical_source_verification.csv	20536	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 documentation/source_data_completeness_audit.csv	22358	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 environment/edgeR_DESCRIPTION_archived.txt	2520	txt	software environment and provenance	YES	Publication-facing file
-environment/key_parameters.csv	4659	csv	software environment and provenance	YES	Publication-facing file
+environment/key_parameters.csv	4633	csv	software environment and provenance	YES	Publication-facing file
 environment/package_version_provenance.csv	8088	csv	software environment and provenance	YES	Publication-facing file
 environment/package_versions_donor_balanced_archived.txt	68	txt	software environment and provenance	YES	Publication-facing file
 environment/package_versions_revision_archived.csv	4659	csv	software environment and provenance	YES	Publication-facing file
@@ -151,15 +151,15 @@ environment/R_sessionInfo_original_singlecell_archived.txt	3769	txt	software env
 environment/R_sessionInfo_revision_multiverse_archived.txt	1677	txt	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo_SCENIC_CellChat_archived.txt	6936	txt	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo_spatial_archived.txt	1354	txt	software environment and provenance	YES	Publication-facing file
-environment/random_seeds.csv	1008	csv	software environment and provenance	YES	Publication-facing file
+environment/random_seeds.csv	995	csv	software environment and provenance	YES	Publication-facing file
 environment/software_versions.txt	345	txt	software environment and provenance	YES	Publication-facing file
 INPUT_CONTRACT_AUDIT.tsv	12049	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 LICENSE	1102	no_extension	license/citation metadata	YES	Publication-facing file
 PRE_GIT_PUBLIC_SCAN.tsv	885	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 PUBLIC_PRIVACY_SECRET_SCAN.tsv	14110	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
-PUBLIC_RELEASE_MANIFEST.tsv	28805	tsv	public release manifest	YES	Publication-facing file
+PUBLIC_RELEASE_MANIFEST.tsv	28596	tsv	public release manifest	YES	Publication-facing file
 PUBLIC_SOURCE_DATA_TRACEABILITY.tsv	25534	tsv	figure/source-data traceability	YES	Publication-facing file
-README.md	4605	md	repository documentation	YES	Publication-facing file
+README.md	4934	md	repository documentation	YES	Publication-facing file
 REPOSITORY_FILE_INVENTORY.tsv	36152	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA.md	4101	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA_CODE_REPAIRED.md	1876	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -179,7 +179,7 @@ scripts/02_singlecell_preprocessing/common.R	5049	r	analysis code	YES	Publicatio
 scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R	3665	r	analysis code	YES	Publication-facing file
 scripts/03_GART_detection_and_donor_models/02_donor_balanced_primary_validation.R	25418	r	analysis code	YES	Publication-facing file
 scripts/04_donor_pseudobulk_and_modules/01_public_module_scoring.R	3157	r	analysis code	YES	Publication-facing file
-scripts/04_donor_pseudobulk_and_modules/02_purine_enzyme_models.R	3089	r	analysis code	YES	Publication-facing file
+scripts/04_donor_pseudobulk_and_modules/02_purine_enzyme_models.R	3146	r	analysis code	YES	Publication-facing file
 scripts/04_donor_pseudobulk_and_modules/03_donor_paired_pseudobulk_GSEA.R	4974	r	analysis code	YES	Publication-facing file
 scripts/05_pseudotime/01_pseudotime_sensitivity.R	3317	r	analysis code	YES	Publication-facing file
 scripts/06_scTenifoldKnk/01_scTenifoldKnk_five_runs.R	2763	r	analysis code	YES	Publication-facing file
@@ -187,13 +187,13 @@ scripts/06_scTenifoldKnk/README.md	795	md	analysis code	YES	Publication-facing f
 scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R	2007	r	analysis code	YES	Publication-facing file
 scripts/07_cell_communication/02_build_final_CellChat_LIANA_summaries.R	15487	r	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/01_extract_singlecell_training_matrix.R	2948	r	analysis code	YES	Publication-facing file
-scripts/08_spatial_GSE189184/02_train_outcome_blinded_singlecell_program.py	24590	py	analysis code	YES	Publication-facing file
+scripts/08_spatial_GSE189184/02_train_outcome_independent_singlecell_program.py	24590	py	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/03_finalize_selected_program.py	3664	py	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/04_export_locked_top40_ROI.py	1263	py	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/05_score_external_program_in_spatial_data.R	5642	r	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py	1523	py	analysis code	YES	Publication-facing file
 scripts/08_spatial_GSE189184/07_plot_final_Figure6.py	2613	py	analysis code	YES	Publication-facing file
-scripts/08_spatial_GSE189184/__pycache__/02_train_outcome_blinded_singlecell_program.cpython-312.pyc	38443	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/08_spatial_GSE189184/__pycache__/02_train_outcome_independent_singlecell_program.cpython-312.pyc	38443	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 scripts/08_spatial_GSE189184/__pycache__/03_finalize_selected_program.cpython-312.pyc	7493	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 scripts/08_spatial_GSE189184/__pycache__/04_export_locked_top40_ROI.cpython-312.pyc	2394	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 scripts/08_spatial_GSE189184/__pycache__/06_donor_level_primary_inference.cpython-312.pyc	3544	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore

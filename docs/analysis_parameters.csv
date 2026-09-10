@@ -1,4 +1,4 @@
-﻿Analysis,Parameter,Value,Source_script,Notes
+Analysis,Parameter,Value,Source_script,Notes
 Single-cell preprocessing,QC thresholds,Inherited from frozen public objects; exact upstream thresholds not recoverable from final archived scripts,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,No new cell filtering was performed during revision
 Single-cell preprocessing,UMI/gene filters,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
 Single-cell preprocessing,Mitochondrial threshold,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
@@ -19,7 +19,7 @@ Cell communication,Primary minimum receiver cells,20 per donor-status group,scri
 Cell communication,Minimum expression fraction,10%,scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R,Sensitivity grid also used 5% and 20%
 Cell communication,LIANA internal permutations,100,scripts/07_cell_communication/01_LIANA_donor_aware_LODO.R,Internal cell-level score only; donor-level inference retained
 Multiple testing,Correction,Benjamini-Hochberg within defined result family,scripts/04_donor_pseudobulk_and_modules/03_donor_paired_pseudobulk_GSEA.R,Within-run BH for scTenifoldKnk
-Spatial ROI,Definition,Within-section top 40% EPCAM/KRT8/KRT18/KRT19 epithelial score,scripts/08_spatial_GSE189184/04_export_locked_top40_ROI.py,Outcome-blinded; excludes GART and validation markers
+Spatial ROI,Definition,Within-section top 40% EPCAM/KRT8/KRT18/KRT19 epithelial score,scripts/08_spatial_GSE189184/04_export_locked_top40_ROI.py,Outcome-independent; excludes GART and validation markers
 Spatial program,Name,SC_GART_NEAREST_CENTROID_PROGRAM,scripts/08_spatial_GSE189184/03_finalize_selected_program.py,Trained in independent SCP259 single-cell data
 Spatial inference,Statistical unit,Independent donor/section; 7 donors,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,2 HC and 5 UC
 Spatial inference,Endpoint,Within-donor mean external-program score difference: GART-detected minus GART-undetected ROI spots,scripts/08_spatial_GSE189184/06_donor_level_primary_inference.py,Primary endpoint
