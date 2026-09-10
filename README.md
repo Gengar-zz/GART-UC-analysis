@@ -41,6 +41,10 @@ Recovered R package versions are in `environment/R_package_versions.csv`; known 
 
 GART is excluded from the purine-biosynthesis validation module. scTenifoldKnk recurrence is a cross-run reproducibility descriptor, not permutation significance, and no explicit permutation procedure was used for gene-level testing. The primary spatial endpoint uses seven independent donors and an outcome-independent within-section top-40% epithelial ROI based on EPCAM/KRT8/KRT18/KRT19.
 
+Supplementary Table S2 distinguishes the complete single-cell atlas map (145 sample entries: 12 GSE214695 and 133 SCP259 entries, with 30 SCP259 individuals) from the 79 sample entries contributing ISC-like cells (9,306 cells from 33 donors). Revision analyses used archived processed objects. Exact historical gene/UMI and mitochondrial filtering thresholds, doublet and ambient-RNA parameters, and stepwise upstream removal counts could not be recovered; no unavailable parameter was inferred and no additional upstream cell filtering was performed during revision.
+
+Figure 3 donor-paired pseudobulk and enrichment analyses use 11 paired SCP259 UC donors, whereas broader atlas module analyses use all eligible donors contributing the relevant states or cell-cycle strata. CellChat/LIANA primary comparisons use four predefined sender compartments (myeloid, fibroblast, endothelial, and T/NK); other epithelial cells excluding the ISC-like receiver are a sensitivity analysis. LIANA+ used 100 internal permutations for internal cell-level scoring, while formal inference used paired donor-level contrasts.
+
 ## Privacy and microscopy availability
 
 Only de-identified numerical human and animal source data are included. Raw human microscopy, direct clinical identifiers, original Prism files, internal verification workbooks, and local QA files are excluded. Original microscopy is available from the corresponding author upon reasonable request, subject to institutional and ethical requirements.

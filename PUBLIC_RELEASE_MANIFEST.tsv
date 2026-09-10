@@ -115,8 +115,8 @@ data_public/figure_source_data/Supplementary_Figures/four_cohort_meta_summary.cs
 data_public/figure_source_data/Supplementary_Figures/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
 data_public/public_dataset_manifest.csv	1496	csv	public data manifest	YES	Publication-facing file
 data_public/supplementary_tables/Table S1.xlsx	7341	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S2.xlsx	55536	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S3.xlsx	1660546	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S2.xlsx	65631	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S3.xlsx	1690892	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S4.xlsx	1230577	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S5.xlsx	357370	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S6.xlsx	106196	xlsx	public Supplementary Table	YES	Publication-facing file
@@ -124,9 +124,9 @@ data_public/supplementary_tables/Table S7.xlsx	18932	xlsx	public Supplementary T
 data_public/supplementary_tables/Table S8.xlsx	16485	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S9.xlsx	5981	xlsx	public Supplementary Table	YES	Publication-facing file
 docs/analysis_parameters.csv	4633	csv	reproducibility documentation	YES	Publication-facing file
-docs/data_dictionary.md	1006	md	reproducibility documentation	YES	Publication-facing file
-documentation/analysis_workflow.md	1143	md	reproducibility documentation	YES	Publication-facing file
-documentation/exclusions_and_locked_decisions.md	1539	md	reproducibility documentation	YES	Publication-facing file
+docs/data_dictionary.md	1377	md	reproducibility documentation	YES	Publication-facing file
+documentation/analysis_workflow.md	1845	md	reproducibility documentation	YES	Publication-facing file
+documentation/exclusions_and_locked_decisions.md	1702	md	reproducibility documentation	YES	Publication-facing file
 documentation/figure_to_script_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
 documentation/figure_to_source_data_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
 documentation/file_inventory_sha256.csv	23466	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -134,7 +134,7 @@ documentation/final_figure_numbering.csv	476	csv	reproducibility documentation	Y
 documentation/microscopy_data_availability.csv	2118	csv	reproducibility documentation	YES	Publication-facing file
 documentation/numerical_provenance_conflicts.csv	423	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 documentation/numerical_source_verification.csv	20536	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
-documentation/source_data_completeness_audit.csv	22358	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+documentation/source_data_completeness_audit.csv	22348	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 environment/edgeR_DESCRIPTION_archived.txt	2520	txt	software environment and provenance	YES	Publication-facing file
 environment/key_parameters.csv	4633	csv	software environment and provenance	YES	Publication-facing file
 environment/package_version_provenance.csv	8088	csv	software environment and provenance	YES	Publication-facing file
@@ -158,8 +158,8 @@ LICENSE	1102	no_extension	license/citation metadata	YES	Publication-facing file
 PRE_GIT_PUBLIC_SCAN.tsv	885	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 PUBLIC_PRIVACY_SECRET_SCAN.tsv	14110	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 PUBLIC_RELEASE_MANIFEST.tsv	28596	tsv	public release manifest	YES	Publication-facing file
-PUBLIC_SOURCE_DATA_TRACEABILITY.tsv	25534	tsv	figure/source-data traceability	YES	Publication-facing file
-README.md	4934	md	repository documentation	YES	Publication-facing file
+PUBLIC_SOURCE_DATA_TRACEABILITY.tsv	25587	tsv	figure/source-data traceability	YES	Publication-facing file
+README.md	6043	md	repository documentation	YES	Publication-facing file
 REPOSITORY_FILE_INVENTORY.tsv	36152	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA.md	4101	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA_CODE_REPAIRED.md	1876	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
