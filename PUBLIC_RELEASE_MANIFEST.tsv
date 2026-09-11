@@ -115,7 +115,7 @@ data_public/figure_source_data/Supplementary_Figures/four_cohort_meta_summary.cs
 data_public/figure_source_data/Supplementary_Figures/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
 data_public/public_dataset_manifest.csv	1496	csv	public data manifest	YES	Publication-facing file
 data_public/supplementary_tables/Table S1.xlsx	7341	xlsx	public Supplementary Table	YES	Publication-facing file
-data_public/supplementary_tables/Table S2.xlsx	65631	xlsx	public Supplementary Table	YES	Publication-facing file
+data_public/supplementary_tables/Table S2.xlsx	71229	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S3.xlsx	1690892	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S4.xlsx	1230577	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S5.xlsx	357370	xlsx	public Supplementary Table	YES	Publication-facing file
@@ -123,10 +123,10 @@ data_public/supplementary_tables/Table S6.xlsx	106196	xlsx	public Supplementary 
 data_public/supplementary_tables/Table S7.xlsx	18932	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S8.xlsx	16485	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S9.xlsx	5981	xlsx	public Supplementary Table	YES	Publication-facing file
-docs/analysis_parameters.csv	4633	csv	reproducibility documentation	YES	Publication-facing file
-docs/data_dictionary.md	1377	md	reproducibility documentation	YES	Publication-facing file
-documentation/analysis_workflow.md	1845	md	reproducibility documentation	YES	Publication-facing file
-documentation/exclusions_and_locked_decisions.md	1702	md	reproducibility documentation	YES	Publication-facing file
+docs/analysis_parameters.csv	6135	csv	reproducibility documentation	YES	Publication-facing file
+docs/data_dictionary.md	1882	md	reproducibility documentation	YES	Publication-facing file
+documentation/analysis_workflow.md	2272	md	reproducibility documentation	YES	Publication-facing file
+documentation/exclusions_and_locked_decisions.md	2193	md	reproducibility documentation	YES	Publication-facing file
 documentation/figure_to_script_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
 documentation/figure_to_source_data_map.csv	10131	csv	reproducibility documentation	YES	Publication-facing file
 documentation/file_inventory_sha256.csv	23466	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -136,12 +136,12 @@ documentation/numerical_provenance_conflicts.csv	423	csv	reproducibility documen
 documentation/numerical_source_verification.csv	20536	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 documentation/source_data_completeness_audit.csv	22348	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 environment/edgeR_DESCRIPTION_archived.txt	2520	txt	software environment and provenance	YES	Publication-facing file
-environment/key_parameters.csv	4633	csv	software environment and provenance	YES	Publication-facing file
+environment/key_parameters.csv	6135	csv	software environment and provenance	YES	Publication-facing file
 environment/package_version_provenance.csv	8088	csv	software environment and provenance	YES	Publication-facing file
 environment/package_versions_donor_balanced_archived.txt	68	txt	software environment and provenance	YES	Publication-facing file
 environment/package_versions_revision_archived.csv	4659	csv	software environment and provenance	YES	Publication-facing file
 environment/Python_package_versions.txt	352	txt	software environment and provenance	YES	Publication-facing file
-environment/R_package_versions.csv	4974	csv	software environment and provenance	YES	Publication-facing file
+environment/R_package_versions.csv	5314	csv	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo.txt	6161	txt	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo_archived.txt	21605	txt	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo_donor_balanced_archived.txt	887	txt	software environment and provenance	YES	Publication-facing file
@@ -152,14 +152,14 @@ environment/R_sessionInfo_revision_multiverse_archived.txt	1677	txt	software env
 environment/R_sessionInfo_SCENIC_CellChat_archived.txt	6936	txt	software environment and provenance	YES	Publication-facing file
 environment/R_sessionInfo_spatial_archived.txt	1354	txt	software environment and provenance	YES	Publication-facing file
 environment/random_seeds.csv	995	csv	software environment and provenance	YES	Publication-facing file
-environment/software_versions.txt	345	txt	software environment and provenance	YES	Publication-facing file
+environment/software_versions.txt	517	txt	software environment and provenance	YES	Publication-facing file
 INPUT_CONTRACT_AUDIT.tsv	12049	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 LICENSE	1102	no_extension	license/citation metadata	YES	Publication-facing file
 PRE_GIT_PUBLIC_SCAN.tsv	885	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 PUBLIC_PRIVACY_SECRET_SCAN.tsv	14110	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 PUBLIC_RELEASE_MANIFEST.tsv	28596	tsv	public release manifest	YES	Publication-facing file
 PUBLIC_SOURCE_DATA_TRACEABILITY.tsv	25587	tsv	figure/source-data traceability	YES	Publication-facing file
-README.md	6043	md	repository documentation	YES	Publication-facing file
+README.md	6786	md	repository documentation	YES	Publication-facing file
 REPOSITORY_FILE_INVENTORY.tsv	36152	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA.md	4101	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 REPOSITORY_PUBLIC_RELEASE_QA_CODE_REPAIRED.md	1876	md	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore

@@ -1,4 +1,6 @@
-R: 4.5.2 for revised single-cell, donor-balanced, spatial, and plotting workflows
+R: 4.4.2 for the archived original single-cell integration/reclustering environment
+Seurat: 5.4.0; SeuratObject: 5.3.0; harmony: 1.2.4 for the archived original single-cell environment
+R: 4.5.2 for revision donor-balanced, spatial, and plotting workflows
 R: 4.4.2 for archived scTenifoldKnk runs
 Python: Not recoverable from the archived environment
 CellChat: 2.2.0.9001

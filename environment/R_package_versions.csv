@@ -1,6 +1,8 @@
 ﻿Package,Archived_version,Recovery_status,Evidence_file,Evidence_type,Notes
 R,4.5.2,ARCHIVED_EXACT,Archived revision sessionInfo files,sessionInfo,Exact R version in revision analysis records
+R (original single-cell environment),4.4.2,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original single-cell integration/reclustering environment
 Seurat,5.4.0,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original single-cell environment record
+SeuratObject (original single-cell environment),5.3.0,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original single-cell environment record
 SeuratObject,5.4.0,ARCHIVED_EXACT,R_sessionInfo_spatial_archived.txt,sessionInfo,Revision spatial record
 harmony,1.2.4,ARCHIVED_EXACT,R_sessionInfo_original_singlecell_archived.txt,sessionInfo,Original epithelial analysis record
 monocle3,1.4.26,ARCHIVED_EXACT,R_sessionInfo_original_scTenifold_archived.txt,sessionInfo,Archived analysis record

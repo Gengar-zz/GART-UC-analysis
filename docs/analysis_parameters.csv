@@ -1,11 +1,22 @@
 Analysis,Parameter,Value,Source_script,Notes
-Single-cell preprocessing,QC thresholds,Inherited from frozen public objects; exact upstream thresholds not recoverable from final archived scripts,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,No new cell filtering was performed during revision
-Single-cell preprocessing,UMI/gene filters,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
-Single-cell preprocessing,Mitochondrial threshold,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Frozen objects used
-Single-cell preprocessing,Doublet handling,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,No additional doublet filtering in revision
-Single-cell preprocessing,Ambient RNA handling,Not recoverable from the archived environment,scripts/02_singlecell_preprocessing/01_rebuild_singlecell_inputs.R,Raw GART layer was audited and corrected
-Single-cell embedding,Harmony parameters,Not rerun; inherited from frozen object,scripts/02_singlecell_preprocessing/02_epithelial_annotation_and_ISClike.R,Frozen embedding
-Single-cell clustering,Resolution,Not rerun; inherited from frozen object,scripts/02_singlecell_preprocessing/02_epithelial_annotation_and_ISClike.R,Frozen cluster assignment
+GSE214695 source preprocessing,Input,Cell Ranger-filtered matrices,data_public/supplementary_tables/Table S2.xlsx,Dataset-specific source workflow
+GSE214695 source preprocessing,Gene filter,nFeature_RNA >100,data_public/supplementary_tables/Table S2.xlsx,More than 100 detected genes
+GSE214695 source preprocessing,Mitochondrial filter,percent.mt <65,data_public/supplementary_tables/Table S2.xlsx,Less than 65% mitochondrial transcripts
+GSE214695 source preprocessing,Hard UMI cutoff,None,data_public/supplementary_tables/Table S2.xlsx,No additional hard nCount_RNA/UMI threshold
+GSE214695 source preprocessing,Doublet handling,"scDblFinder 1.8.0; per sample; default parameters",data_public/supplementary_tables/Table S2.xlsx,Applied by the source workflow
+SCP259 source preprocessing,Input,Smillie et al. processed release,data_public/supplementary_tables/Table S2.xlsx,Processed source dataset used for this study
+SCP259 source preprocessing,Gene filter,>=250 detected genes,data_public/supplementary_tables/Table S2.xlsx,Cells with fewer than 250 detected genes were excluded
+SCP259 source preprocessing,Doublet handling,Iterative mixed-lineage cluster removal with reassignment and reclustering,data_public/supplementary_tables/Table S2.xlsx,Published source-study procedure
+SCP259 source preprocessing,Ambient-RNA handling,Source-study droplet-contamination model and filtering of putative contaminants,data_public/supplementary_tables/Table S2.xlsx,Published source-study procedure
+Integrated atlas,Composition,"393722 cells; 145 sample entries; GSE214695 28230/12; SCP259 365492/133",data_public/supplementary_tables/Table S2.xlsx,After dataset-specific source preprocessing and integration
+Integrated atlas,Normalization,LogNormalize scale factor 10000,data_public/supplementary_tables/Table S2.xlsx,Verified revision parameter
+Integrated atlas,Highly variable genes,2000,data_public/supplementary_tables/Table S2.xlsx,Verified revision parameter
+Integrated atlas,PCA,30 principal components,data_public/supplementary_tables/Table S2.xlsx,Verified revision parameter
+Integrated atlas,Final embedding,Harmony dimensions 1-30,data_public/supplementary_tables/Table S2.xlsx,No unverified grouping variable or clustering parameter asserted
+Epithelial reclustering,Parameters,"3000 HVGs; 50 PCs; Harmony dimensions 1-30; resolution 0.6",data_public/supplementary_tables/Table S2.xlsx,Cell-cycle variation was not regressed
+ISC-like reclustering,Parameters,"dimensions 1-25; ISC_snn; resolution 0.3",data_public/supplementary_tables/Table S2.xlsx,Frozen final assignment
+ISC-like analysis,Composition,"9306 cells; 33 donors; 9 subclusters",data_public/supplementary_tables/Table S2.xlsx,Final analytical subset
+ISC-like annotation,Stem/ISC score,"LGR5; ASCL2; OLFM4; SMOC2; SOX9; PROM1",data_public/supplementary_tables/Table S2.xlsx,Distinct from later functional modules
 GART detection,Primary threshold,raw GART count >= 1,scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R,raw count 0 = undetected
 GART detection,Sensitivity threshold,raw GART count >= 2,scripts/03_GART_detection_and_donor_models/01_GART_detection_models.R,Prespecified sensitivity
 Donor-balanced GART model,Covariates,condition + scale(log1p(nUMI)) + scale(nGene) + S.Score + G2M.Score + cohort,scripts/03_GART_detection_and_donor_models/02_donor_balanced_primary_validation.R,Each donor total weight = 1

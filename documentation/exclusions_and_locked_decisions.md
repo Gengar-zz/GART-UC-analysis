@@ -2,6 +2,7 @@
 
 - The final bulk synthesis contains GSE24287, GSE36807, GSE37283, and GSE87466. GSE3629 lacks a healthy comparator and is excluded.
 - In GSE37283, the 11 UC-associated-neoplasia samples are excluded; five normal controls and four quiescent non-neoplastic UC samples are retained.
+- Single-cell preprocessing is dataset-specific rather than a newly rerun unified QC pipeline. The GSE214695 source workflow used Cell Ranger-filtered matrices, >100 detected genes, <65% mitochondrial transcripts, no additional hard UMI cutoff, and per-sample scDblFinder 1.8.0 with default parameters. The processed SCP259 release used >=250 detected genes, iterative mixed-lineage doublet-cluster removal with reassignment/reclustering, and source-study ambient-RNA contamination filtering.
 - GART detection is defined from corrected raw counts: 0 is undetected and >=1 is detected; >=2 is sensitivity only.
 - GART is excluded from the purine-biosynthesis validation score.
 - Pseudotime roots were selected independently of GART. Directional transition language is not used.
