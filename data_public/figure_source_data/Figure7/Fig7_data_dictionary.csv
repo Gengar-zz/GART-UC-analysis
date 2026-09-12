@@ -9,3 +9,7 @@ Unit,Measurement unit corresponding to the endpoint.
 Biological_unit,Biological and statistical unit; participant for every record.
 Numerical_source,Original GraphPad Prism PZFX; PZFX-derived provenance and SHA-256 are recorded separately.
 Cross_panel_identity,Participant identity was not inferred across endpoints or panels; Observation_ID is endpoint-specific.
+Statistical_methods,"Participant-level comparisons were two-sided and unpaired. Mann–Whitney U tests were used for all Figure 7 endpoints except CD74-positive cell density (7A), Ki67-positive cell percentage (7B), and GART/Ki67 double-positive cell percentage (7B), which used Welch’s unpaired t tests."
+Statistical_input,Formal statistics were calculated from original unrounded archived participant-level values; the public participant-level source-data values are rounded to two decimal places.
+Multiplicity_adjustment,No multiplicity adjustment was applied to the Figure 7 human immunofluorescence comparisons.
+Statistical_summary_file,"Fig7_statistical_summary_revised.csv contains group summaries, effect estimates, confidence intervals, test statistics, degrees of freedom where applicable, and P values for all 13 endpoints."
