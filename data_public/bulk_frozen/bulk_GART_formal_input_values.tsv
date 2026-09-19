@@ -1,0 +1,192 @@
+cohort	sample_id	group	GART_expression	source_input_type	reproducibility_class
+GSE24287	GSM597304	Healthy	-0.189245039966667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597305	Healthy	-0.370693044136	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597306	Healthy	-0.0924266623566667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597307	Healthy	0.0543333370333333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597308	Healthy	0.249022075503333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597309	Healthy	0.206615996973333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597310	Healthy	-0.11490875164	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597311	Healthy	0.0858927515733333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597312	Healthy	-0.362387929353333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597313	Healthy	-0.00021173204	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597314	Healthy	0.146112886886667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597315	Healthy	0.0845984679113333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597316	Healthy	0.14041907826	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597317	Healthy	-0.00671909577	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597318	Healthy	-0.425184512457333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597319	Healthy	-0.28118640408	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597320	Healthy	-0.345915504652	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597321	Healthy	-0.0783283346866667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597322	Healthy	-0.0653224320666667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597323	Healthy	-0.177637017	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597324	Healthy	-0.330633475513333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597325	Healthy	-0.277031799933333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597326	Healthy	-0.399783615686667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597327	Healthy	0.327782238733333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597328	Healthy	0.11383380636	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597230	UC	-0.118859980685185	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597231	UC	0.175444012503086	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597232	UC	0.268101763444444	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597233	UC	-0.292334113444444	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597234	UC	-0.0757682849197531	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597235	UC	-0.16581373257284	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597236	UC	-0.319826420203086	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597237	UC	-0.0196696825833333	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597238	UC	-0.202202664450617	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597239	UC	0.427600203046296	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597240	UC	0.712345285382716	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597241	UC	0.471082498425926	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597242	UC	0.455709986671605	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597243	UC	0.458994227858025	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597244	UC	0.383855976227513	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597245	UC	0.759936093654321	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597246	UC	0.491804119337037	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597247	UC	-0.189654573	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597248	UC	0.28624478241358	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597249	UC	0.104983525981481	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597250	UC	-0.748604094487654	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597251	UC	0.0461986784259259	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597252	UC	0.0472354249104938	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597253	UC	0.422115349067901	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597254	UC	0.147892496135802	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597255	UC	-0.154684357771605	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE24287	GSM597256	UC	-0.252732248722222	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901319	Healthy	4.87766393556746	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901320	Healthy	4.7815072215873	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901321	Healthy	5.06455067070238	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901322	Healthy	4.85460729393651	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901323	Healthy	4.88329406426984	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901324	Healthy	4.86040338053175	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901325	Healthy	4.73099702082143	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901339	UC	5.31478122889593	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901340	UC	5.07347024420555	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901341	UC	5.17789910010407	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901342	UC	5.0321813988746	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901343	UC	5.00753845214296	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901344	UC	5.10907107861889	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901345	UC	4.73342287098889	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901346	UC	5.06539742737778	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901347	UC	4.97314977835296	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901348	UC	5.06812559190407	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901349	UC	4.97642041868519	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901350	UC	4.97642041868519	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901351	UC	4.98671250563889	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901352	UC	4.86621983266667	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE36807	GSM901353	UC	5.19713711871296	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915455	Healthy	4.58939770439048	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915456	Healthy	4.99242303784286	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915457	Healthy	4.73418137178095	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915458	Healthy	4.79913458407857	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915459	Healthy	4.88240408703143	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915451	UC	4.88567516604643	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915452	UC	5.08958804420397	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915453	UC	4.99159764600893	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE37283	GSM915454	UC	5.21616273416071	Archived unrounded GART expression vector derived from the archived gene-level matrix	INSPECTION_ONLY_FROZEN_INTERMEDIATE
+GSE87466	GSM2332098	Healthy	6.554716666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332099	Healthy	6.411516666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332100	Healthy	6.53625	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332101	Healthy	6.365766666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332102	Healthy	6.716683333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332103	Healthy	6.11065	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332104	Healthy	6.424783333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332105	Healthy	6.130716666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332106	Healthy	6.022666666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332107	Healthy	6.233466666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332108	Healthy	6.202633333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332109	Healthy	5.959683333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332110	Healthy	6.360983333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332111	Healthy	6.392183333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332112	Healthy	6.517299999999999	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332113	Healthy	6.167283333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332114	Healthy	6.444216666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332115	Healthy	5.985033333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332116	Healthy	6.431283333333332	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332117	Healthy	6.589766666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332118	Healthy	6.347566666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332119	UC	6.786333333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332120	UC	6.529183333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332121	UC	6.42265	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332122	UC	6.1056833333333325	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332123	UC	6.087133333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332124	UC	6.528966666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332125	UC	6.478866666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332126	UC	6.4629166666666675	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332127	UC	6.57865	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332128	UC	6.786733333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332129	UC	6.677366666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332130	UC	6.6068	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332131	UC	6.401316666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332132	UC	6.284400000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332133	UC	6.703033333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332134	UC	6.507833333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332135	UC	6.410416666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332136	UC	6.7452	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332137	UC	6.5110833333333344	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332138	UC	6.2672	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332139	UC	6.629833333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332140	UC	6.659533333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332141	UC	6.623316666666668	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332142	UC	6.461466666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332143	UC	6.0887	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332144	UC	6.867066666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332145	UC	6.59665	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332146	UC	6.558833333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332147	UC	6.346	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332148	UC	6.40445	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332149	UC	6.32715	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332150	UC	6.709433333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332151	UC	6.248966666666665	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332152	UC	6.4698833333333345	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332153	UC	6.461483333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332154	UC	6.4135833333333325	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332155	UC	6.198916666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332156	UC	6.308833333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332157	UC	6.6996	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332158	UC	6.502116666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332159	UC	6.586016666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332160	UC	6.144516666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332161	UC	6.649000000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332162	UC	6.794900000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332163	UC	6.1908	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332164	UC	6.413016666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332165	UC	6.421616666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332166	UC	6.521683333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332167	UC	6.52955	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332168	UC	6.72225	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332169	UC	6.87705	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332170	UC	6.326716666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332171	UC	6.122266666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332172	UC	6.81495	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332173	UC	6.4539	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332174	UC	6.5006666666666675	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332175	UC	6.968800000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332176	UC	6.650666666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332177	UC	6.53425	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332178	UC	6.5986	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332179	UC	6.303416666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332180	UC	6.300116666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332181	UC	6.245233333333332	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332182	UC	6.370483333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332183	UC	6.352216666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332184	UC	6.2067999999999985	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332185	UC	6.464283333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332186	UC	6.219666666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332187	UC	6.248416666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332188	UC	5.945383333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332189	UC	6.658899999999999	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332190	UC	6.321816666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332191	UC	6.240950000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332192	UC	6.318033333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332193	UC	6.77865	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332194	UC	6.522616666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332195	UC	6.557166666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332196	UC	5.737916666666666	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332197	UC	6.302533333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332198	UC	6.751833333333334	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332199	UC	6.287866666666667	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332200	UC	6.674133333333333	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332201	UC	6.591449999999999	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332202	UC	6.5202833333333325	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332203	UC	6.399450000000001	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332204	UC	6.0114833333333335	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE
+GSE87466	GSM2332205	UC	6.7375333333333325	Verified six-probe arithmetic-mean donor-level GART expression	REGENERATABLE_FROM_PUBLIC_SOURCE

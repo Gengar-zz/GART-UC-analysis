@@ -1,0 +1,31 @@
+figure,panel,endpoint,mouse_id,group,value,unit,statistical_unit,source_precision
+Figure 9,A,GART MFI,CTRL_A_01,Control,0.24,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART MFI,CTRL_A_02,Control,0.96,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART MFI,CTRL_A_03,Control,0.46,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART MFI,DSS_A_01,DSS,12.32,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART MFI,DSS_A_02,DSS,9.38,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART MFI,DSS_A_03,DSS,5.76,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,CTRL_A_01,Control,2.42,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,CTRL_A_02,Control,1.88,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,CTRL_A_03,Control,5.74,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,DSS_A_01,DSS,35.96,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,DSS_A_02,DSS,51.84,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,MYBL2 nuclear MFI,DSS_A_03,DSS,39.71,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),CTRL_A_01,Control,2.91,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),CTRL_A_02,Control,6.17,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),CTRL_A_03,Control,4.99,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),DSS_A_01,DSS,23.34,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),DSS_A_02,DSS,19.6,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,Ki67+ cells (%),DSS_A_03,DSS,12.97,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),CTRL_A_01,Control,0.92,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),CTRL_A_02,Control,0.74,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),CTRL_A_03,Control,0.38,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),DSS_A_01,DSS,15.61,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),DSS_A_02,DSS,11.39,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+Ki67+ cells (%),DSS_A_03,DSS,19.6,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),CTRL_A_01,Control,0.47,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),CTRL_A_02,Control,0.84,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),CTRL_A_03,Control,0.37,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),DSS_A_01,DSS,6.2,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),DSS_A_02,DSS,8.34,%,mouse,Exact value as stored in archived Prism file
+Figure 9,A,GART+MYBL2+Ki67+ cells (%),DSS_A_03,DSS,15.68,%,mouse,Exact value as stored in archived Prism file

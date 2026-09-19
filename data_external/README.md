@@ -19,3 +19,7 @@ Large public matrices and local frozen objects are not committed. By default, sc
 - `fonts/arial.ttf` and `fonts/arialbd.ttf`: locally licensed Arial font files used by the Python Figure 4E renderer; these are not distributed by this repository.
 
 See `INPUT_CONTRACT_AUDIT.tsv` for script-level categories, producers, requirements, and resolution status.
+
+## Reproducibility classes
+
+`FULLY_REPRODUCIBLE_FROM_DISTRIBUTED_INPUTS` means the repository-distributed inputs are sufficient for a complete rerun. `REGENERATABLE_FROM_PUBLIC_SOURCE` means the input can be regenerated exactly from a named public source. `INSPECTION_ONLY_FROZEN_INTERMEDIATE` means the exact archived formal input is distributed and downstream inference is exactly reproducible, but historical run-specific upstream server metadata are unavailable. This last classification applies to GSE24287, GSE36807, and GSE37283 and does not mean their reported statistics are irreproducible.

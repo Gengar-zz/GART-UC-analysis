@@ -1,15 +1,12 @@
-Column,Definition
-Panel,Figure 7 panel; no participant identity is inferred across endpoints or panels.
-Staining_panel,Multiplex immunofluorescence staining combination.
-Observation_ID,Observation IDs are endpoint-specific anonymous labels. They identify independent participant-level values within each endpoint and must not be used to infer participant identity across endpoints.
-Group,Healthy or UC.
-Endpoint,Quantitative endpoint title in the original FINAL GraphPad Prism table.
-Value,Participant-level value parsed directly from the original GraphPad Prism PZFX and reported to exactly two decimal places; statistical analyses used the original unrounded archived values.
-Unit,Measurement unit corresponding to the endpoint.
-Biological_unit,Biological and statistical unit; participant for every record.
-Numerical_source,Original GraphPad Prism PZFX; PZFX-derived provenance and SHA-256 are recorded separately.
-Cross_panel_identity,Participant identity was not inferred across endpoints or panels; Observation_ID is endpoint-specific.
-Statistical_methods,"Participant-level comparisons were two-sided and unpaired. Mann–Whitney U tests were used for all Figure 7 endpoints except CD74-positive cell density (7A), Ki67-positive cell percentage (7B), and GART/Ki67 double-positive cell percentage (7B), which used Welch’s unpaired t tests."
-Statistical_input,Formal statistics were calculated from original unrounded archived participant-level values; the public participant-level source-data values are rounded to two decimal places.
-Multiplicity_adjustment,No multiplicity adjustment was applied to the Figure 7 human immunofluorescence comparisons.
-Statistical_summary_file,"Fig7_statistical_summary_revised.csv contains group summaries, effect estimates, confidence intervals, test statistics, degrees of freedom where applicable, and P values for all 13 endpoints."
+Column_or_item,Definition
+panel,Figure 7 panel.
+endpoint,Endpoint title in the archived formal Prism analysis table.
+anonymous_observation_id,Endpoint-specific anonymous label used only to enumerate the archived formal statistical inputs. It must not be used to infer participant identity or pairing across endpoints.
+group,Healthy-control (HC) or ulcerative-colitis (UC) group as stored in the archived formal Prism table.
+exact_formal_value,Exact archived numerical value used for the formal Prism statistical analysis; no two-decimal rounding was applied.
+unit,Measurement unit associated with the endpoint.
+source_analysis_object,Archived Prism PZFX formal analysis object.
+formal_input_scope,"Exact archived formal statistical inputs used to reproduce the reported analyses. These data are not described as raw image measurements, ROI-level measurements, or independently reconstructed participant-level measurements."
+rounded_files,Files prefixed DISPLAY_ONLY_ROUNDED are retained only for display/reference. They are not used for formal statistical reproduction.
+statistical_methods,"Two-sided unpaired Mann-Whitney U tests were used except for CD74-positive cell density (7A), Ki67-positive cell percentage (7B), and GART/Ki67 double-positive cell percentage (7B), which used two-sided Welch unpaired t tests."
+multiplicity_adjustment,No multiplicity adjustment was applied to Figure 7 human immunofluorescence comparisons.

@@ -1,0 +1,43 @@
+figure,panel,endpoint,mouse_id,group,value,unit,statistical_unit,source_precision
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,CTRL_A_01,Control,0.44,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,CTRL_A_02,Control,0.7,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,CTRL_A_03,Control,0.62,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,DSS_A_01,DSS,13.39,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,DSS_A_02,DSS,18.14,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,GART MFI in crypt/cellular ROI,DSS_A_03,DSS,8.77,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,CTRL_A_01,Control,655.58,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,CTRL_A_02,Control,315.37,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,CTRL_A_03,Control,539.31,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,DSS_A_01,DSS,2886.38,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,DSS_A_02,DSS,2051.92,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects per mm²,DSS_A_03,DSS,1595.47,objects/mm²,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),CTRL_A_01,Control,15.38,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),CTRL_A_02,Control,9.31,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),CTRL_A_03,Control,11.6,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),DSS_A_01,DSS,69.34,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),DSS_A_02,DSS,88.76,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,CD74+ objects within 50 μm of GART+ regions (%),DSS_A_03,DSS,52.71,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),CTRL_A_01,Control,17.9,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),CTRL_A_02,Control,32.54,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),CTRL_A_03,Control,25.71,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),DSS_A_01,DSS,85.02,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),DSS_A_02,DSS,53.75,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,A,MIF-high area within 50 μm of GART+ regions (%),DSS_A_03,DSS,70.94,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,CTRL_B_01,Control,6.1,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,CTRL_B_02,Control,5.81,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,CTRL_B_03,Control,8.75,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,DSS_B_01,DSS,47.42,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,DSS_B_02,DSS,26.71,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PAICS MFI in crypt/cellular ROI,DSS_B_03,DSS,44.97,arbitrary fluorescence units,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),CTRL_B_01,Control,0.36,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),CTRL_B_02,Control,0.61,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),CTRL_B_03,Control,0.48,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),DSS_B_01,DSS,7.45,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),DSS_B_02,DSS,3.13,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,PCNA+ cells (%),DSS_B_03,DSS,3.77,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,CTRL_B_01,Control,1.37,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,CTRL_B_02,Control,0.93,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,CTRL_B_03,Control,0.58,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,DSS_B_01,DSS,7.04,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,DSS_B_02,DSS,2.68,%,mouse,Exact value as stored in archived Prism file
+Supplementary Figure S6,B,GART+PAICS+ overlap area / crypt epithelial area,DSS_B_03,DSS,4.37,%,mouse,Exact value as stored in archived Prism file
