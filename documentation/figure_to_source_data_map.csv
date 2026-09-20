@@ -1,4 +1,4 @@
-Figure,Panel,Analysis,Script,Source_data,Statistical_unit,Status
+﻿Figure,Panel,Analysis,Script,Source_data,Statistical_unit,Status
 Figure 1,A,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
 Figure 1,B,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
 Figure 1,C,Final revision panel,scripts/01_bulk/04_plot_final_four_cohort_Figure1.R,data_public/figure_source_data/Figure1/Fig1A_four_bulk_cohorts_source_data.csv,donor,Final source mapped
@@ -35,9 +35,9 @@ Figure 6,C,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figur
 Figure 6,D,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
 Figure 6,E,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
 Figure 6,F,Final revision panel,scripts/08_spatial_GSE189184/07_plot_final_Figure6.py,data_public/figure_source_data/Figure6/GSE189184_primary_spot_source_data.csv,donor,Final source mapped
-Figure 7,A,Final revision panel,Exact archived formal statistical inputs,data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7A_source_data.csv,participant,Final source mapped
-Figure 7,B,Final revision panel,Exact archived formal statistical inputs,data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7B_source_data.csv,participant,Final source mapped
-Figure 7,C,Final revision panel,Exact archived formal statistical inputs,data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7C_source_data.csv,participant,Final source mapped
+Figure 7,A,Current Prism formal-input reproduction,scripts/11_imaging_statistics/reproduce_Figure7_statistics.R,data_public/figure_source_data/Figure7/Figure7_formal_statistical_inputs.csv,participant,13/13 PASS
+Figure 7,B,Current Prism formal-input reproduction,scripts/11_imaging_statistics/reproduce_Figure7_statistics.R,data_public/figure_source_data/Figure7/Figure7_formal_statistical_inputs.csv,participant,13/13 PASS
+Figure 7,C,Current Prism formal-input reproduction,scripts/11_imaging_statistics/reproduce_Figure7_statistics.R,data_public/figure_source_data/Figure7/Figure7_formal_statistical_inputs.csv,participant,13/13 PASS
 Figure 8,A,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/body_weight_mouse_level.csv,mouse x day,Final source mapped
 Figure 8,B,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/DAI_mouse_level.csv,mouse x day,Final source mapped
 Figure 8,C,Final revision panel,Not recoverable; public mouse-level source data,data_public/figure_source_data/Figure8/spleen_mouse_level.csv,mouse,Final source mapped

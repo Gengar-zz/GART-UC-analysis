@@ -1,7 +1,7 @@
 # Figure 7 formal statistical inputs
 
-`Figure7_formal_statistical_inputs.csv` contains the exact archived formal statistical inputs used for the reported Prism analyses. Observation identifiers are endpoint-specific and are provided only to enumerate the archived formal statistical inputs; no cross-endpoint pairing is implied.
+`Figure7_formal_statistical_inputs.csv` contains the formal Figure 7 numerical inputs re-extracted from the three Prism files frozen at the start of the final synchronization task. Values are deterministically rounded to at most 13 digits after the decimal point; no meaningless trailing zeros are added. Statistical reproduction at manuscript reporting precision is 13/13 PASS.
 
-Files prefixed `DISPLAY_ONLY_ROUNDED` are retained only for display/reference. Formal statistical reproduction uses the exact archived numerical inputs. These formal inputs are not described as raw image measurements, original ROI-level measurements, or independently reconstructed participant-level measurements.
+Observation identifiers are endpoint-specific anonymous labels used only to enumerate the formal statistical inputs; no cross-endpoint pairing is implied. Each value represents one independent participant-level observation within its endpoint. These formal inputs are not described as raw image measurements or ROI/field-level measurements.
 
-`data_public/formal_analysis_objects/Figure7B_archived_formal_Prism_source.pzfx` is the archived formal Figure 7B Prism analysis object. A publication-safety scan found no participant identifiers, patient names, pathology IDs, hospital IDs, telephone numbers, dates of birth, or local absolute file paths. The file contains the generic local Prism login value `Administrator`, which is not a participant identifier.
+`Fig7_statistical_summary_revised.csv` contains the endpoint-specific group summaries, effect estimates, confidence intervals, test statistics, degrees of freedom where applicable, and P values. `data_public/formal_analysis_objects/Figure7B_archived_formal_Prism_source.pzfx` is the current task-start Figure 7B Prism snapshot used for the synchronized public release.

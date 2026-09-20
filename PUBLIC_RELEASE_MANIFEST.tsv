@@ -1,4 +1,4 @@
-relative_path	size_bytes	file_type	public_role	include_in_commit	notes
+﻿relative_path	size_bytes	file_type	public_role	include_in_commit	notes
 .gitattributes	154	no_extension	internal QA/audit artifact	YES	Publication-facing file
 .gitignore	1177	no_extension	Git exclusion policy	YES	Publication-facing file
 CITATION.cff	370	cff	license/citation metadata	YES	Publication-facing file
@@ -88,14 +88,10 @@ data_public/figure_source_data/Figure6/selected_singlecell_program_scores.csv	10
 data_public/figure_source_data/Figure6/spatial_locked_primary_ROI_membership.csv	394939	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure6/spatial_section_donor_map.csv	2171	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure6/spatial_selection_summary.json	114	json	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7_archived_plotting_values.csv	144592	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7A_source_data.csv	31290	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7B_source_data.csv	34799	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/DISPLAY_ONLY_ROUNDED_Fig7C_source_data.csv	78735	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/Fig7_data_dictionary.csv	1432	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/Fig7_provenance.csv	7154	csv	public numerical figure source data	YES	Publication-facing file
-data_public/figure_source_data/Figure7/Figure7_formal_statistical_inputs.csv	90920	csv	formal statistical input	YES	Exact archived formal Prism numerical inputs; endpoint-specific anonymous labels
-data_public/figure_source_data/Figure7/README.md	1068	md	source-data documentation	YES	Figure 7 formal-input and display-only precision documentation
+data_public/figure_source_data/Figure7/Fig7_data_dictionary.csv	990	csv	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
+data_public/figure_source_data/Figure7/Fig7_statistical_summary_revised.csv	7048	csv	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
+data_public/figure_source_data/Figure7/Figure7_formal_statistical_inputs.csv	83114	csv	formal statistical input	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
+data_public/figure_source_data/Figure7/README.md	1136	md	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
 data_public/figure_source_data/Figure8/animal_accounting.csv	14652	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure8/barrier_IHC_mouse_level.csv	6979	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Figure8/blood_mouse_level.csv	10934	csv	public numerical figure source data	YES	Publication-facing file
@@ -115,8 +111,8 @@ data_public/figure_source_data/Supplementary_Figures/four_cohort_effect_sizes.cs
 data_public/figure_source_data/Supplementary_Figures/four_cohort_leave_one_out.csv	837	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Supplementary_Figures/four_cohort_meta_summary.csv	257	csv	public numerical figure source data	YES	Publication-facing file
 data_public/figure_source_data/Supplementary_Figures/pseudotime_stability.csv	430	csv	public numerical figure source data	YES	Publication-facing file
-data_public/formal_analysis_objects/Figure7B_archived_formal_Prism_source.pzfx	93881	pzfx	formal analysis object	YES	Privacy-screened archived Figure 7B Prism analysis object
-data_public/formal_analysis_objects/README.md	364	md	analysis-object documentation	YES	Formal analysis-object provenance and checksum
+data_public/formal_analysis_objects/Figure7B_archived_formal_Prism_source.pzfx	89343	pzfx	formal analysis object	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
+data_public/formal_analysis_objects/README.md	398	md	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
 data_public/public_dataset_manifest.csv	1496	csv	public data manifest	YES	Publication-facing file
 data_public/supplementary_tables/Table S1.xlsx	9414	xlsx	public Supplementary Table	YES	Publication-facing file
 data_public/supplementary_tables/Table S2.xlsx	71229	xlsx	public Supplementary Table	YES	Publication-facing file
@@ -131,6 +127,7 @@ docs/analysis_parameters.csv	6135	csv	reproducibility documentation	YES	Publicat
 docs/data_dictionary.md	1882	md	reproducibility documentation	YES	Publication-facing file
 documentation/analysis_workflow.md	2272	md	reproducibility documentation	YES	Publication-facing file
 documentation/exclusions_and_locked_decisions.md	2193	md	reproducibility documentation	YES	Publication-facing file
+documentation/FIG7_CURRENT_AUTHORITATIVE_PRISM_SNAPSHOT.tsv	999	tsv	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
 documentation/figure_to_script_map.csv	10125	csv	reproducibility documentation	YES	Publication-facing file
 documentation/figure_to_source_data_map.csv	10125	csv	reproducibility documentation	YES	Publication-facing file
 documentation/file_inventory_sha256.csv	23466	csv	reproducibility documentation	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -157,6 +154,7 @@ environment/R_sessionInfo_SCENIC_CellChat_archived.txt	6936	txt	software environ
 environment/R_sessionInfo_spatial_archived.txt	1354	txt	software environment and provenance	YES	Publication-facing file
 environment/random_seeds.csv	995	csv	software environment and provenance	YES	Publication-facing file
 environment/software_versions.txt	517	txt	software environment and provenance	YES	Publication-facing file
+FIGURE7_CURRENT_PRISM_FINAL_SYNC_QA.md	3696	md	Figure 7 final synchronization QA	YES	Current-Prism 13/13 reproduction and scope QA
 INPUT_CONTRACT_AUDIT.tsv	26532	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
 LICENSE	1102	no_extension	license/citation metadata	YES	Publication-facing file
 PRE_GIT_PUBLIC_SCAN.tsv	885	tsv	internal QA/audit artifact	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
@@ -214,6 +212,7 @@ scripts/09_figure_generation/plot_Figure5D.R	4868	r	analysis code	YES	Publicatio
 scripts/09_figure_generation/plot_Figure5F.R	3952	r	analysis code	YES	Publication-facing file
 scripts/10_animal_statistics/01_verify_animal_endpoint_BH.py	4292	py	analysis code	YES	Publication-facing file
 scripts/10_animal_statistics/__pycache__/01_verify_animal_endpoint_BH.cpython-312.pyc	7791	pyc	analysis code	NO	INTERNAL_ONLY or runtime/external file; excluded by .gitignore
+scripts/11_imaging_statistics/reproduce_Figure7_statistics.R	3576	R	Figure 7 documentation/reproducibility	YES	Current Figure 7 synchronized public material; 13/13 reproduction PASS
 scripts/path_config.py	932	py	analysis code	YES	Publication-facing file
 scripts/path_config.R	997	r	analysis code	YES	Publication-facing file
 session_info/python_environment.txt	352	txt	software environment and provenance	YES	Publication-facing file

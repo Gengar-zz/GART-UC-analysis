@@ -1,12 +1,10 @@
-Column_or_item,Definition
+﻿Column_or_item,Definition
 panel,Figure 7 panel.
-endpoint,Endpoint title in the archived formal Prism analysis table.
-anonymous_observation_id,Endpoint-specific anonymous label used only to enumerate the archived formal statistical inputs. It must not be used to infer participant identity or pairing across endpoints.
-group,Healthy-control (HC) or ulcerative-colitis (UC) group as stored in the archived formal Prism table.
-exact_formal_value,Exact archived numerical value used for the formal Prism statistical analysis; no two-decimal rounding was applied.
+endpoint,Endpoint title in the current task-start Prism snapshot.
+anonymous_observation_id,Endpoint-specific anonymous label used only to enumerate formal inputs. It must not be used to infer participant identity or pairing across endpoints.
+group,Healthy-control (HC) or ulcerative-colitis (UC) group.
+value,"Participant-level formal statistical input, deterministically rounded to at most 13 decimal places from the task-start Prism snapshot."
 unit,Measurement unit associated with the endpoint.
-source_analysis_object,Archived Prism PZFX formal analysis object.
-formal_input_scope,"Exact archived formal statistical inputs used to reproduce the reported analyses. These data are not described as raw image measurements, ROI-level measurements, or independently reconstructed participant-level measurements."
-rounded_files,Files prefixed DISPLAY_ONLY_ROUNDED are retained only for display/reference. They are not used for formal statistical reproduction.
-statistical_methods,"Two-sided unpaired Mann-Whitney U tests were used except for CD74-positive cell density (7A), Ki67-positive cell percentage (7B), and GART/Ki67 double-positive cell percentage (7B), which used two-sided Welch unpaired t tests."
+biological_and_statistical_unit,One independent participant within each endpoint.
+statistical_methods,"Two-sided unpaired Mann–Whitney U tests except CD74-positive cell density (7A), Ki67-positive cell percentage (7B), and GART/Ki67 double-positive cell percentage (7B), which use two-sided Welch unpaired t tests."
 multiplicity_adjustment,No multiplicity adjustment was applied to Figure 7 human immunofluorescence comparisons.

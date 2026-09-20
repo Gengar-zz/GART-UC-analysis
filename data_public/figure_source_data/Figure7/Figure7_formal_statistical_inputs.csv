@@ -1,753 +1,753 @@
-panel,endpoint,anonymous_observation_id,group,exact_formal_value,unit,source_analysis_object
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_01,HC,1.9164924621582,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_02,HC,1.84766852855682,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_03,HC,2.38633918762207,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_04,HC,2.32977294921875,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_05,HC,5.06687068939209,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_06,HC,4.13111066818237,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_07,HC,7.74109888076782,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_08,HC,2.58657097816467,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_09,HC,2.40287041664124,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_10,HC,2.59534788131714,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_11,HC,7.35101366043091,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_12,HC,3.27786064147949,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_13,HC,1.96490943431854,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_14,HC,2.61568450927734,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_15,HC,2.1006007194519,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_16,HC,2.04382562637329,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_17,HC,2.31124067306519,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_HC_18,HC,3.68022203445435,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_01,UC,32.1130752563477,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_02,UC,22.7587432861328,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_03,UC,14.8470869064331,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_04,UC,13.0139093399048,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_05,UC,13.3101062774658,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_06,UC,16.6165904998779,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_07,UC,16.226448059082,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_08,UC,19.4320468902588,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_09,UC,7.28005170822144,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_10,UC,5.84384727478027,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_11,UC,11.8782825469971,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_12,UC,9.11855030059814,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_13,UC,6.81591367721558,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_14,UC,5.04254579544067,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_15,UC,5.08648300170898,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_16,UC,11.7882518768311,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_17,UC,15.9915781021118,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_18,UC,7.51830148696899,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_19,UC,12.2859678268433,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_20,UC,9.1454496383667,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_21,UC,9.78598690032959,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_22,UC,17.0485553741455,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_23,UC,9.02427959442139,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_24,UC,11.8223896026611,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GART_UC_25,UC,23.6901321411133,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_01,HC,1.55070363795795,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_02,HC,0.74556034259253,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_03,HC,1.18784936746102,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_04,HC,1.10718747260454,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_05,HC,1.81196851865311,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_06,HC,0.895659920700163,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_07,HC,0.687680736973951,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_08,HC,0.686043527656452,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_09,HC,0.943882166117231,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_10,HC,0.867368828613884,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_11,HC,0.842544811963643,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_12,HC,0.89833111038881,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_13,HC,1.11297550753654,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_14,HC,0.913234654597581,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_15,HC,0.927343116953273,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_16,HC,0.736033825724247,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_17,HC,0.848686269583853,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_HC_18,HC,0.938124560728634,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_01,UC,13.6746070963099,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_02,UC,16.2944976855978,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_03,UC,12.1565965009858,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_04,UC,14.4174975399922,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_05,UC,13.8774424403017,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_06,UC,16.0847070219062,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_07,UC,10.2860302176296,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_08,UC,5.45990795358787,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_09,UC,21.8703014898549,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_10,UC,24.4987510366644,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_11,UC,22.4307604230251,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_12,UC,5.91747696159543,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_13,UC,31.9137227089256,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_14,UC,25.9497706753026,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_15,UC,23.2989773443873,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_16,UC,35.2229918977325,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_17,UC,12.99533032347,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_18,UC,30.050896215977,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_19,UC,5.98301362134279,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_20,UC,4.05497975076144,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_21,UC,26.9084756910368,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_22,UC,19.0869649384516,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_23,UC,29.4549107440106,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_24,UC,3.45790524029867,%,archived Prism PZFX
-Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIF_UC_25,UC,37.2872696206121,%,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_01,HC,58.8147229291871,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_02,HC,102.579363737406,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_03,HC,151.188257984375,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_04,HC,30.1350048216008,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_05,HC,33.7448474213745,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_06,HC,114.705646194258,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_07,HC,47.3307205236394,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_08,HC,11.6059995280227,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_09,HC,37.6899573852215,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_10,HC,43.1656934764865,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_11,HC,50.5221404468507,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_12,HC,198.010184448355,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_13,HC,142.639293753955,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_14,HC,95.3996315344101,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_15,HC,242.509083199493,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_16,HC,151.651196242654,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_17,HC,108.068203667863,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_HC_18,HC,49.1694698084994,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_01,UC,747.835257364768,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_02,UC,724.134327532472,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_03,UC,831.175126268707,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_04,UC,792.356019087406,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_05,UC,909.340649787357,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_06,UC,789.957061773166,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_07,UC,779.578310109076,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_08,UC,784.339145653724,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_09,UC,1322.24739403845,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_10,UC,911.768065273853,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_11,UC,1063.96744834726,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_12,UC,514.37460104982,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_13,UC,1381.63032378206,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_14,UC,1538.38437910377,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_15,UC,1272.53293720559,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_16,UC,1127.30984263364,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_17,UC,1107.40256019081,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_18,UC,1053.12921201392,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_19,UC,773.25300233739,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_20,UC,343.623442258989,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_21,UC,1384.71068440282,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_22,UC,1057.88173132765,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_23,UC,1063.40991750371,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_24,UC,720.876009326396,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects per mm²,Fig7A_CD74density_UC_25,UC,1316.19724292574,objects/mm²,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_01,HC,4.54545454545455,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_02,HC,5.49450549450549,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_03,HC,33.3333333333333,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_04,HC,13.6363636363636,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_05,HC,11.5384615384615,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_06,HC,23.3333333333333,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_07,HC,41.4634146341463,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_08,HC,11.1111111111111,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_09,HC,10.0,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_10,HC,24.2424242424242,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_11,HC,58.1395348837209,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_12,HC,19.811320754717,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_13,HC,1.81818181818182,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_14,HC,6.49350649350649,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_15,HC,8.98203592814371,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_16,HC,1.98019801980198,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_17,HC,20.7792207792208,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_HC_18,HC,50.0,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_01,UC,91.1308203991131,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_02,UC,85.9083191850594,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_03,UC,80.0,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_04,UC,81.3008130081301,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_05,UC,81.6443594646272,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_06,UC,90.8411214953271,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_07,UC,91.6317991631799,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_08,UC,88.1542699724518,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_09,UC,7.99120234604106,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_10,UC,4.2483660130719,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_11,UC,15.970515970516,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_12,UC,27.9116465863454,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_13,UC,6.52173913043478,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_14,UC,8.45575515635396,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_15,UC,16.7906224737268,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_16,UC,17.6640926640927,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_17,UC,29.1375291375291,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_18,UC,16.523400191022,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_19,UC,31.7589576547231,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_20,UC,20.1298701298701,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_21,UC,9.4100074682599,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_22,UC,22.3896663078579,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_23,UC,22.4137931034483,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_24,UC,21.497919556172,%,archived Prism PZFX
-Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74nearGART_UC_25,UC,17.4545454545455,%,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_01,HC,3.90112495422363,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_02,HC,3.79770803451538,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_03,HC,4.38091468811035,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_04,HC,4.16407060623169,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_05,HC,19.1804656982422,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_06,HC,13.8535671234131,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_07,HC,23.1113510131836,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_08,HC,18.8226928710938,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_09,HC,16.495397567749,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_10,HC,13.344687461853,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_11,HC,18.4034309387207,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_12,HC,15.3804941177368,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_13,HC,14.902229309082,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_14,HC,11.8737154006958,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_15,HC,16.1114940643311,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_16,HC,4.41823863983154,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_17,HC,3.24808096885681,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_18,HC,3.22387862205505,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_19,HC,4.16081953048706,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_HC_20,HC,4.3109917640686,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_01,UC,27.3425045013428,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_02,UC,20.5492343902588,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_03,UC,27.9642658233643,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_04,UC,21.7009696960449,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_05,UC,21.3094692230225,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_06,UC,25.6153087615967,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_07,UC,43.9899749755859,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_08,UC,35.7386703491211,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_09,UC,33.072151184082,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_10,UC,30.6835994720459,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_11,UC,39.086009979248,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_12,UC,47.6895217895508,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_13,UC,36.3860130310059,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_14,UC,30.9725284576416,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_15,UC,22.197229385376,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_16,UC,32.5675354003906,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_17,UC,39.7675666809082,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_18,UC,46.5698089599609,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_19,UC,37.6853866577148,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GART_UC_20,UC,34.7666664123535,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_01,HC,11.6087598800659,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_02,HC,1.39996528625488,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_03,HC,48.9071197509766,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_04,HC,28.3140544891357,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_05,HC,39.551456451416,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_06,HC,85.5868530273438,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_07,HC,67.4275894165039,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_08,HC,15.1791105270386,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_09,HC,9.96750831604004,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_10,HC,70.1583938598633,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_11,HC,80.96826172,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_12,HC,61.1656837463379,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_13,HC,79.6533889770508,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_14,HC,45.9887657165527,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_15,HC,97.627082824707,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_16,HC,3.5562584400177,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_17,HC,0.934706151485443,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_18,HC,14.4598731994629,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_19,HC,12.8926048278809,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_HC_20,HC,1.23008453845978,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_01,UC,243.023184637131,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_02,UC,246.497879028322,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_03,UC,246.000350952148,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_04,UC,246.5187324734,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_05,UC,238.537445068359,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_06,UC,233.562164306641,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_07,UC,239.034973144532,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_08,UC,240.527542114258,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_09,UC,235.054748535157,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_10,UC,238.536863476147,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_11,UC,240.530677671655,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_12,UC,244.010238647461,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_13,UC,243.015182495117,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_14,UC,235.552276611328,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_15,UC,235.549373177318,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_16,UC,230.57699584961,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_17,UC,241.025070190433,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_18,UC,61.9868812561035,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_19,UC,59.5170364379884,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2_UC_20,UC,49.2681503295898,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_01,HC,2.29166666666667,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_02,HC,4.27184466019417,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_03,HC,8.87290167865707,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_04,HC,5.04807692307692,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_05,HC,2.81030444964871,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_06,HC,3.81,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_07,HC,3.7,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_08,HC,6.74,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_09,HC,6.23,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_10,HC,7.08,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_11,HC,5.73,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_12,HC,4.98,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_13,HC,2.52808988764045,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_14,HC,6.06060606060606,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_15,HC,9.40919037199125,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_16,HC,3.19767441860465,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_17,HC,4.31,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_18,HC,5.38,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_19,HC,7.21,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_HC_20,HC,5.66,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_01,UC,83.2271762208068,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_02,UC,87.9377431906615,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_03,UC,65.8823529411765,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_04,UC,56.1995249406176,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_05,UC,54.6201232032854,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_06,UC,50.492264416315,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_07,UC,86.783042394015,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_08,UC,58.4130982367758,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_09,UC,65.0793650793651,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_10,UC,41.0,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_11,UC,33.72,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_12,UC,54.2,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_13,UC,63.41,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_14,UC,47.35,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_15,UC,38.13,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_16,UC,67.91,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_17,UC,77.1812080536913,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_18,UC,82.5581395348837,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_19,UC,79.5454545454545,%,archived Prism PZFX
-Fig. 7B,Ki67+ cells (%),Fig7B_Ki67_UC_20,UC,84.9673202614379,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_01,HC,0.416666666666667,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_02,HC,0.388349514563107,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_03,HC,0.959232613908873,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_04,HC,0.480769230769231,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_05,HC,0.280898876404494,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_06,HC,0.649350649350649,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_07,HC,0.437636761487965,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_08,HC,0.12,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_09,HC,0.234192037470726,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_10,HC,0.84,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_11,HC,0.4,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_12,HC,0.53,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_13,HC,0.73,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_14,HC,0.5,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_15,HC,0.31,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_16,HC,0.68,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_17,HC,0.57,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_18,HC,0.31,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_19,HC,0.38,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_HC_20,HC,0.34,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_01,UC,48.4076433121019,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_02,UC,53.1128404669261,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_03,UC,38.0392156862745,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_04,UC,53.4441805225653,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_05,UC,40.8624229979466,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_06,UC,38.5372714486639,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_07,UC,60.8478802992519,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_08,UC,62.0906801007557,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_09,UC,43.0839002267574,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_10,UC,45.6375838926174,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_11,UC,41.8604651162791,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_12,UC,30.1948051948052,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_13,UC,38.562091503268,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_14,UC,22.6666666666667,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_15,UC,30.38,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_16,UC,28.72,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_17,UC,46.92,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_18,UC,35.3,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_19,UC,42.91,%,archived Prism PZFX
-Fig. 7B,GART+Ki67+ cells (%),Fig7B_GART_Ki67_UC_20,UC,37.26,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_01,HC,0.416666666666667,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_02,HC,0.388349514563107,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_03,HC,0.479616306954436,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_04,HC,0.240384615384615,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_05,HC,0.280898876404494,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_06,HC,0.432900432900433,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_07,HC,0.437636761487965,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_08,HC,0.75,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_09,HC,0.234192037470726,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_10,HC,0.71,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_11,HC,0.52,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_12,HC,0.91,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_13,HC,1.57,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_14,HC,0.24,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_15,HC,0.43,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_16,HC,0.82,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_17,HC,0.53,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_18,HC,0.77,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_19,HC,0.68,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_HC_20,HC,0.37,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_01,UC,46.2845010615711,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_02,UC,50.9727626459144,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_03,UC,35.2941176470588,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_04,UC,50.3562945368171,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_05,UC,38.6036960985626,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_06,UC,37.6933895921238,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_07,UC,56.6084788029925,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_08,UC,61.8387909319899,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_09,UC,42.1768707482993,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_10,UC,44.1275167785235,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_11,UC,36.5116279069767,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_12,UC,21.1038961038961,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_13,UC,31.0457516339869,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_14,UC,22.3333333333333,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_15,UC,23.72,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_16,UC,53.41,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_17,UC,45.16,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_18,UC,31.39,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_19,UC,18.34,%,archived Prism PZFX
-Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GART_MYBL2_Ki67_UC_20,UC,37.61,%,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_01,HC,7.72327423095703,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_02,HC,5.37154006958008,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_03,HC,12.1236934661865,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_04,HC,7.88601398468018,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_05,HC,7.29491996765137,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_06,HC,7.48763465881348,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_07,HC,5.41691923141479,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_08,HC,7.22775268554688,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_09,HC,7.86649179458618,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_10,HC,6.20561933517456,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_11,HC,3.60835552215576,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_12,HC,6.00215768814087,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_13,HC,5.17840147018433,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_14,HC,5.95152473449707,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_15,HC,7.41852521896362,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_16,HC,7.85906553268433,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_17,HC,11.4862270355225,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_18,HC,8.18855571746826,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_19,HC,11.35373878479,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_20,HC,11.7203121185303,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_21,HC,9.5558032989502,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_22,HC,19.6018028259277,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_23,HC,28.7784748077393,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_24,HC,7.12715530395508,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_25,HC,6.18734407424927,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_26,HC,17.1305980682373,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_27,HC,12.6857814788818,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_28,HC,8.59642696380615,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_29,HC,7.71024942398071,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_30,HC,8.18110656738281,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_31,HC,8.87882804870605,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_32,HC,8.57200717926025,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_33,HC,12.3646812438965,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_34,HC,7.36597728729248,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_35,HC,5.89560699462891,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_36,HC,10.2389287948608,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_37,HC,10.0968198776245,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_38,HC,12.5646591186523,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_39,HC,15.3370561599731,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_40,HC,9.5287914276123,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_41,HC,23.0862331390381,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_42,HC,12.3880825042725,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_43,HC,8.31631946563721,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_44,HC,11.836594581604,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_45,HC,8.13996505737305,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_46,HC,8.25744247436523,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_47,HC,7.64790344238281,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_48,HC,8.69916534423828,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_49,HC,8.17890357971191,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_50,HC,5.87273025512695,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_51,HC,6.31400060653687,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_52,HC,11.3378000259399,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_HC_53,HC,9.55061721801758,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_01,UC,44.1639976501465,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_02,UC,114.055053710938,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_03,UC,176.242279052734,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_04,UC,231.361602783203,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_05,UC,144.028594970703,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_06,UC,127.351860046387,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_07,UC,126.489715576172,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_08,UC,158.306274414063,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_09,UC,112.371040344238,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_10,UC,202.579803466797,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_11,UC,19.603588104248,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_12,UC,12.9755239486694,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_13,UC,16.2465705871582,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_14,UC,28.6143131256104,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_15,UC,43.89111328,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_16,UC,24.6126728057861,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_17,UC,26.7698631286621,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_18,UC,13.2454872131348,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_19,UC,16.1926021575928,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_20,UC,16.8544750213623,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_21,UC,21.2308349609375,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_22,UC,9.20395755767822,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_23,UC,36.0874481201172,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_24,UC,16.910306930542,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_25,UC,7.44009160995483,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_26,UC,8.84947967529297,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_27,UC,24.8044033050537,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_28,UC,38.4812545776367,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_29,UC,35.6984329223633,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_30,UC,44.4242630004883,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_31,UC,11.8924503326416,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_32,UC,14.9410638809204,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_33,UC,12.067798614502,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_34,UC,17.605562210083,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_35,UC,17.0414657592773,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_36,UC,46.2591247558594,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_37,UC,18.6691188812256,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_38,UC,25.3456439971924,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_39,UC,20.3789119720459,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_40,UC,15.0859298706055,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_41,UC,40.733268737793,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GART_UC_42,UC,23.4563407897949,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_01,HC,24.0735645294189,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_02,HC,17.9699172973633,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_03,HC,16.5541553497314,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_04,HC,16.9152698516846,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_05,HC,22.0171356201172,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_06,HC,11.9579467773438,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_07,HC,19.1001491546631,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_08,HC,18.2727012634277,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_09,HC,13.5143785476685,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_10,HC,13.1802625656128,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_11,HC,20.5055046081543,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_12,HC,14.3190889358521,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_13,HC,17.2108783721924,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_14,HC,14.5950355529785,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_15,HC,20.6269016265869,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_16,HC,16.4608573913574,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_17,HC,17.4601211547852,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_18,HC,16.4861526489258,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_19,HC,18.8873443603516,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_20,HC,20.3590850830078,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_21,HC,15.7220668792725,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_22,HC,26.5854797363281,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_23,HC,33.1003227233887,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_24,HC,11.8676595687866,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_25,HC,12.1242971420288,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_26,HC,24.2755870819092,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_27,HC,20.1837177276611,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_28,HC,15.8065843582153,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_29,HC,16.9602165222168,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_30,HC,13.8486490249634,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_31,HC,14.6281967163086,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_32,HC,15.132116317749,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_33,HC,19.3552799224854,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_34,HC,16.2678737640381,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_35,HC,16.4105625152588,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_36,HC,14.9950904846191,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_37,HC,14.9888114929199,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_38,HC,18.5209197998047,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_39,HC,20.1489639282227,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_40,HC,13.148871421814,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_41,HC,31.1349906921387,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_42,HC,15.6243133544922,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_43,HC,11.5203580856323,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_44,HC,14.9494867324829,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_45,HC,10.7532634735107,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_46,HC,12.8569030761719,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_47,HC,21.997859954834,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_48,HC,11.7933044433594,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_49,HC,11.8503570556641,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_50,HC,9.8417387008667,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_51,HC,11.0934705734253,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_52,HC,17.1233768463135,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_HC_53,HC,13.0099678039551,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_01,UC,222.08674621582,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_02,UC,219.28825378418,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_03,UC,107.860420227051,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_04,UC,129.824859619141,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_05,UC,221.153915405273,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_06,UC,220.221084594727,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_07,UC,66.3756256103516,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_08,UC,117.190887451172,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_09,UC,86.0689392089844,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_10,UC,122.807846069336,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_11,UC,65.4132308959961,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_12,UC,193.02604675293,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_13,UC,111.312774658203,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_14,UC,114.518424987793,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_15,UC,111.921485900879,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_16,UC,134.648666381836,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_17,UC,148.085250854492,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_18,UC,130.436904907227,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_19,UC,129.073867797852,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_20,UC,99.8572769165039,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_21,UC,102.133361816406,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_22,UC,107.588073730469,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_23,UC,120.892463684082,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_24,UC,83.2614517211914,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_25,UC,135.35107421875,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_26,UC,120.236930847168,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_27,UC,83.8551330566406,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_28,UC,139.741165161133,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_29,UC,121.644317626953,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_30,UC,137.542236328125,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_31,UC,71.9514083862305,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_32,UC,108.351196289063,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_33,UC,89.7058715820313,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_34,UC,110.602592468262,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_35,UC,106.403144836426,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_36,UC,127.059997558594,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_37,UC,101.522636413574,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_38,UC,106.061882019043,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_39,UC,104.333564758301,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_40,UC,113.607055664063,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_41,UC,134.007614135742,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4_UC_42,UC,121.734397888184,arbitrary fluorescence units,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_01,HC,0.0714285714285714,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_02,HC,0.2,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_03,HC,0.0714285714285714,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_04,HC,0.0434782608695652,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_05,HC,0.157894736842105,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_06,HC,0.037037037037037,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_07,HC,0.0769230769230769,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_08,HC,0.0833333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_09,HC,0.2,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_10,HC,0.363636363636364,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_11,HC,1.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_12,HC,0.545454545454545,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_13,HC,1.11111111111111,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_14,HC,0.04,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_15,HC,0.0625,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_16,HC,0.0714285714285714,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_17,HC,0.0526315789473684,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_18,HC,0.15,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_19,HC,0.0625,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_20,HC,0.0714285714285714,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_21,HC,0.0588235294117647,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_22,HC,2.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_23,HC,0.111111111111111,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_24,HC,0.0476190476190476,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_25,HC,0.04,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_26,HC,1.66666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_27,HC,1.58333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_28,HC,0.642857142857143,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_29,HC,0.142857142857143,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_30,HC,0.133333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_31,HC,0.181818181818182,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_32,HC,0.08,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_33,HC,0.111111111111111,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_34,HC,1.0,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_35,HC,0.625,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_36,HC,0.736842105263158,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_37,HC,0.416666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_38,HC,0.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_39,HC,0.25,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_40,HC,0.0476190476190476,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_41,HC,2.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_42,HC,0.136363636363636,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_43,HC,0.115384615384615,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_44,HC,0.0588235294117647,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_45,HC,0.04,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_46,HC,0.0454545454545454,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_47,HC,0.153846153846154,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_48,HC,0.0416666666666666,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_49,HC,0.04,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_50,HC,0.0384615384615384,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_51,HC,0.0869565217391304,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_52,HC,0.0555555555555555,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_HC_53,HC,0.0625,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_01,UC,3.27272727272727,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_02,UC,1.0,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_03,UC,3.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_04,UC,1.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_05,UC,8.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_06,UC,4.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_07,UC,1.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_08,UC,0.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_09,UC,4.75,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_10,UC,2.0,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_11,UC,0.6,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_12,UC,3.77142857142857,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_13,UC,2.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_14,UC,4.90625,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_15,UC,2.35714285714286,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_16,UC,4.85714285714286,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_17,UC,4.96,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_18,UC,2.8,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_19,UC,2.15384615384615,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_20,UC,3.61904761904762,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_21,UC,2.76923076923077,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_22,UC,3.91666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_23,UC,4.88888888888889,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_24,UC,5.91666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_25,UC,1.92307692307692,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_26,UC,3.47368421052632,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_27,UC,2.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_28,UC,4.7,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_29,UC,1.71428571428571,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_30,UC,2.09090909090909,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_31,UC,0.5,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_32,UC,0.9,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_33,UC,2.81818181818182,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_34,UC,3.52380952380952,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_35,UC,1.86666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_36,UC,2.25,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_37,UC,4.06666666666667,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_38,UC,2.09090909090909,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_39,UC,3.83333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_40,UC,2.33333333333333,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_41,UC,2.75,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GART_OLFM4_EPCAM_UC_42,UC,3.35714285714286,objects/crypt ROI,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_01,HC,3.07562855508061,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_02,HC,2.0954603554934,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_03,HC,4.7502342680026,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_04,HC,3.14024685215132,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_05,HC,2.88583278760096,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_06,HC,2.98849067121356,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_07,HC,2.15227168469291,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_08,HC,2.74354801209021,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_09,HC,2.83207975059986,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_10,HC,1.99985041634118,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_11,HC,1.35696528262387,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_12,HC,2.3955687782696,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_13,HC,1.83748344950963,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_14,HC,2.36991482874699,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_15,HC,2.88670920229819,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_16,HC,3.05098165519277,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_17,HC,4.50950698300522,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_18,HC,3.17664120918598,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_19,HC,4.49906455093495,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_20,HC,4.65616706458587,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_21,HC,3.62302769152779,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_22,HC,7.82871563718809,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_23,HC,11.2522775397646,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_24,HC,2.83357133503364,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_25,HC,2.39124504228485,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_26,HC,6.91144708423326,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_27,HC,4.76205059104551,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_28,HC,3.20029256984175,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_29,HC,3.04461560819648,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_30,HC,3.20283246461118,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_31,HC,3.35626927805699,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_32,HC,3.39554192259197,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_33,HC,4.84957485074547,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_34,HC,3.41732425151761,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_35,HC,2.37366650323759,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_36,HC,3.95806388682163,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_37,HC,4.05894938478531,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_38,HC,4.88835460980183,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_39,HC,5.80648981525343,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_40,HC,3.79156410363386,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_41,HC,10.2031506599355,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_42,HC,4.80431169092832,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_43,HC,3.38805806927851,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_44,HC,4.65175316564953,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_45,HC,3.19812189413162,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_46,HC,3.23163542240796,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_47,HC,3.05581519562024,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_48,HC,3.40716778242051,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_49,HC,3.25272491751891,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_50,HC,2.33209816983669,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_51,HC,2.51657302290839,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_52,HC,4.51698840931231,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_HC_53,HC,3.83225956816328,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_01,UC,13.4524828767123,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_02,UC,91.8831168831169,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_03,UC,52.4366471734893,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_04,UC,51.8674894446249,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_05,UC,25.3152039555006,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_06,UC,61.5942396430201,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_07,UC,33.2388236845576,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_08,UC,49.0909090909091,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_09,UC,32.0457747688924,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_10,UC,86.1655277145027,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_11,UC,7.91604281040315,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_12,UC,11.1658189950583,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_13,UC,11.4867724095665,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_14,UC,35.4032683602258,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_15,UC,47.7955831938133,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_16,UC,24.4151173660158,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_17,UC,31.2026869062711,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_18,UC,9.75392593317352,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_19,UC,11.3400251104273,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_20,UC,15.76003439831,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_21,UC,19.0425325305885,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_22,UC,5.59253229288445,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_23,UC,40.8098258874342,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_24,UC,13.9392971941459,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_25,UC,3.21788645375465,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_26,UC,7.25390108052296,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_27,UC,15.1089213327621,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_28,UC,47.0841933913977,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_29,UC,20.4459846316107,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_30,UC,39.9502933811713,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_31,UC,4.36573598313971,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_32,UC,9.4299783458044,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_33,UC,8.22854550168525,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_34,UC,16.8742384950529,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_35,UC,10.0210758292595,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_36,UC,37.3446410293903,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_37,UC,13.191418520824,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_38,UC,14.0382726704562,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_39,UC,11.8174177721243,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_40,UC,10.4223088078556,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_41,UC,35.7383758384175,%,archived Prism PZFX
-Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GART_OLFM4_area_UC_42,UC,20.8342506467059,%,archived Prism PZFX
+﻿panel,endpoint,anonymous_observation_id,group,value,unit
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_01,HC,1.9164924621582,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_02,HC,1.8476685285568,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_03,HC,2.3863391876221,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_04,HC,2.3297729492188,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_05,HC,5.0668706893921,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_06,HC,4.1311106681824,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_07,HC,7.7410988807678,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_08,HC,2.5865709781647,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_09,HC,2.4028704166412,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_10,HC,2.5953478813171,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_11,HC,7.3510136604309,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_12,HC,3.2778606414795,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_13,HC,1.9649094343185,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_14,HC,2.6156845092773,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_15,HC,2.1006007194519,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_16,HC,2.0438256263733,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_17,HC,2.3112406730652,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_HC_18,HC,3.6802220344544,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_01,UC,32.1130752563477,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_02,UC,22.7587432861328,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_03,UC,14.8470869064331,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_04,UC,13.0139093399048,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_05,UC,13.3101062774658,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_06,UC,16.6165904998779,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_07,UC,16.226448059082,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_08,UC,19.4320468902588,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_09,UC,7.2800517082214,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_10,UC,5.8438472747803,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_11,UC,11.8782825469971,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_12,UC,9.1185503005981,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_13,UC,6.8159136772156,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_14,UC,5.0425457954407,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_15,UC,5.086483001709,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_16,UC,11.7882518768311,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_17,UC,15.9915781021118,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_18,UC,7.518301486969,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_19,UC,12.2859678268433,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_20,UC,9.1454496383667,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_21,UC,9.7859869003296,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_22,UC,17.0485553741455,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_23,UC,9.0242795944214,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_24,UC,11.8223896026611,arbitrary fluorescence units
+Fig. 7A,GART MFI in crypt/mucosal epithelial ROI,Fig7A_GARTMFIincryptmuco_UC_25,UC,23.6901321411133,arbitrary fluorescence units
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_01,HC,1.550703637958,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_02,HC,0.7455603425925,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_03,HC,1.187849367461,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_04,HC,1.1071874726045,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_05,HC,1.8119685186531,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_06,HC,0.8956599207002,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_07,HC,0.687680736974,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_08,HC,0.6860435276565,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_09,HC,0.9438821661172,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_10,HC,0.8673688286139,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_11,HC,0.8425448119636,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_12,HC,0.8983311103888,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_13,HC,1.1129755075365,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_14,HC,0.9132346545976,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_15,HC,0.9273431169533,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_16,HC,0.7360338257242,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_17,HC,0.8486862695839,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_HC_18,HC,0.9381245607286,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_01,UC,13.6746070963099,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_02,UC,16.2944976855978,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_03,UC,12.1565965009858,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_04,UC,14.4174975399922,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_05,UC,13.8774424403017,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_06,UC,16.0847070219062,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_07,UC,10.2860302176296,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_08,UC,5.4599079535879,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_09,UC,21.8703014898549,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_10,UC,24.4987510366644,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_11,UC,22.4307604230251,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_12,UC,5.9174769615954,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_13,UC,31.9137227089256,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_14,UC,25.9497706753026,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_15,UC,23.2989773443873,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_16,UC,35.2229918977325,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_17,UC,12.99533032347,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_18,UC,30.050896215977,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_19,UC,5.9830136213428,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_20,UC,4.0549797507614,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_21,UC,26.9084756910368,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_22,UC,19.0869649384516,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_23,UC,29.4549107440106,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_24,UC,3.4579052402987,%
+Fig. 7A,MIF-high area within mucosal ROI (%),Fig7A_MIFhighareawithinm_UC_25,UC,37.2872696206121,%
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_01,HC,58.8147229291871,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_02,HC,102.579363737406,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_03,HC,151.188257984375,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_04,HC,30.1350048216008,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_05,HC,33.7448474213745,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_06,HC,114.705646194258,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_07,HC,47.3307205236394,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_08,HC,11.6059995280227,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_09,HC,37.6899573852215,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_10,HC,43.1656934764865,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_11,HC,50.5221404468507,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_12,HC,198.010184448355,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_13,HC,142.639293753955,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_14,HC,95.3996315344101,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_15,HC,242.509083199493,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_16,HC,151.651196242654,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_17,HC,108.068203667863,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_HC_18,HC,49.1694698084994,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_01,UC,747.835257364768,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_02,UC,724.134327532472,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_03,UC,831.175126268707,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_04,UC,792.356019087406,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_05,UC,909.340649787357,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_06,UC,789.957061773166,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_07,UC,779.578310109076,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_08,UC,784.339145653724,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_09,UC,1322.24739403845,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_10,UC,911.768065273853,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_11,UC,1063.96744834726,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_12,UC,514.37460104982,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_13,UC,1381.63032378206,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_14,UC,1538.38437910377,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_15,UC,1272.53293720559,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_16,UC,1127.30984263364,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_17,UC,1107.40256019081,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_18,UC,1053.12921201392,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_19,UC,773.25300233739,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_20,UC,343.623442258989,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_21,UC,1384.71068440282,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_22,UC,1057.88173132765,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_23,UC,1063.40991750371,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_24,UC,720.876009326396,objects/mm²
+Fig. 7A,CD74+ objects per mm²,Fig7A_CD74objectspermm²_UC_25,UC,1316.19724292574,objects/mm²
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_01,HC,4.5454545454546,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_02,HC,5.4945054945055,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_03,HC,33.3333333333333,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_04,HC,13.6363636363636,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_05,HC,11.5384615384615,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_06,HC,23.3333333333333,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_07,HC,41.4634146341463,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_08,HC,11.1111111111111,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_09,HC,10,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_10,HC,24.2424242424242,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_11,HC,58.1395348837209,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_12,HC,19.811320754717,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_13,HC,1.8181818181818,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_14,HC,6.4935064935065,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_15,HC,8.9820359281437,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_16,HC,1.980198019802,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_17,HC,20.7792207792208,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_HC_18,HC,50,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_01,UC,91.1308203991131,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_02,UC,85.9083191850594,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_03,UC,80,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_04,UC,81.3008130081301,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_05,UC,81.6443594646272,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_06,UC,90.8411214953271,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_07,UC,91.6317991631799,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_08,UC,88.1542699724518,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_09,UC,7.9912023460411,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_10,UC,4.2483660130719,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_11,UC,15.970515970516,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_12,UC,27.9116465863454,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_13,UC,6.5217391304348,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_14,UC,8.455755156354,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_15,UC,16.7906224737268,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_16,UC,17.6640926640927,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_17,UC,29.1375291375291,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_18,UC,16.523400191022,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_19,UC,31.7589576547231,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_20,UC,20.1298701298701,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_21,UC,9.4100074682599,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_22,UC,22.3896663078579,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_23,UC,22.4137931034483,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_24,UC,21.497919556172,%
+Fig. 7A,CD74+ objects within 50 μm of GART+ regions (%),Fig7A_CD74objectswithin5_UC_25,UC,17.4545454545455,%
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_01,HC,3.9011249542236,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_02,HC,3.7977080345154,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_03,HC,4.3809146881104,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_04,HC,4.1640706062317,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_05,HC,19.1804656982422,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_06,HC,13.8535671234131,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_07,HC,23.1113510131836,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_08,HC,18.8226928710938,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_09,HC,16.495397567749,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_10,HC,13.344687461853,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_11,HC,18.4034309387207,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_12,HC,15.3804941177368,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_13,HC,14.902229309082,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_14,HC,11.8737154006958,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_15,HC,16.1114940643311,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_16,HC,4.4182386398315,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_17,HC,3.2480809688568,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_18,HC,3.2238786220551,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_19,HC,4.1608195304871,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_HC_20,HC,4.3109917640686,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_01,UC,27.3425045013428,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_02,UC,20.5492343902588,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_03,UC,27.9642658233643,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_04,UC,21.7009696960449,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_05,UC,21.3094692230225,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_06,UC,25.6153087615967,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_07,UC,43.9899749755859,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_08,UC,35.7386703491211,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_09,UC,33.072151184082,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_10,UC,30.6835994720459,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_11,UC,39.086009979248,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_12,UC,47.6895217895508,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_13,UC,36.3860130310059,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_14,UC,30.9725284576416,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_15,UC,22.197229385376,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_16,UC,32.5675354003906,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_17,UC,39.7675666809082,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_18,UC,46.5698089599609,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_19,UC,37.6853866577148,arbitrary fluorescence units
+Fig. 7B,GART MFI in crypt/cellular ROI,Fig7B_GARTMFIincryptcell_UC_20,UC,34.7666664123535,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_01,HC,11.6087598800659,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_02,HC,1.3999652862549,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_03,HC,48.9071197509766,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_04,HC,28.3140544891357,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_05,HC,39.551456451416,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_06,HC,85.5868530273438,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_07,HC,67.4275894165039,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_08,HC,15.1791105270386,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_09,HC,9.96750831604,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_10,HC,70.1583938598633,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_11,HC,80.96826172,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_12,HC,61.1656837463379,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_13,HC,79.6533889770508,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_14,HC,45.9887657165527,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_15,HC,97.627082824707,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_16,HC,3.5562584400177,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_17,HC,0.9347061514854,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_18,HC,14.4598731994629,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_19,HC,12.8926048278809,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_HC_20,HC,1.2300845384598,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_01,UC,243.023184637131,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_02,UC,246.497879028322,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_03,UC,246.000350952148,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_04,UC,246.5187324734,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_05,UC,238.537445068359,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_06,UC,233.562164306641,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_07,UC,239.034973144532,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_08,UC,240.527542114258,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_09,UC,235.054748535157,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_10,UC,238.536863476147,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_11,UC,240.530677671655,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_12,UC,244.010238647461,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_13,UC,243.015182495117,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_14,UC,235.552276611328,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_15,UC,235.549373177318,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_16,UC,230.57699584961,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_17,UC,241.025070190433,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_18,UC,61.9868812561035,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_19,UC,59.5170364379884,arbitrary fluorescence units
+Fig. 7B,MYBL2 nuclear MFI,Fig7B_MYBL2nuclearMFI_UC_20,UC,49.2681503295898,arbitrary fluorescence units
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_01,HC,2.2916666666667,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_02,HC,4.2718446601942,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_03,HC,8.8729016786571,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_04,HC,5.0480769230769,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_05,HC,2.8103044496487,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_06,HC,3.815578967985,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_07,HC,3.7843615707245,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_08,HC,6.7464782490583,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_09,HC,6.2351958304274,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_10,HC,7.0854782676261,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_11,HC,5.7386428977402,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_12,HC,4.9863775234802,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_13,HC,2.5280898876405,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_14,HC,6.0606060606061,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_15,HC,9.4091903719913,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_16,HC,3.1976744186047,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_17,HC,4.3189266402662,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_18,HC,5.3896590345581,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_19,HC,7.2174175314748,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_HC_20,HC,5.6674153513271,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_01,UC,83.2271762208068,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_02,UC,87.9377431906615,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_03,UC,65.8823529411765,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_04,UC,56.1995249406176,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_05,UC,54.6201232032854,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_06,UC,50.492264416315,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_07,UC,86.783042394015,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_08,UC,58.4130982367758,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_09,UC,65.0793650793651,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_10,UC,41.1354767230424,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_11,UC,33.7276688431612,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_12,UC,54.224562456823,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_13,UC,63.4155787413323,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_14,UC,47.357447435674,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_15,UC,38.1356572731796,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_16,UC,67.9118574232276,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_17,UC,77.1812080536913,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_18,UC,82.5581395348837,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_19,UC,79.5454545454545,%
+Fig. 7B,Ki67+ cells (%),Fig7B_Ki67cells_UC_20,UC,84.9673202614379,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_01,HC,0.4166666666667,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_02,HC,0.3883495145631,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_03,HC,0.9592326139089,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_04,HC,0.4807692307692,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_05,HC,0.2808988764045,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_06,HC,0.6493506493506,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_07,HC,0.437636761488,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_08,HC,0.125126449359,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_09,HC,0.2341920374707,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_10,HC,0.8484452308975,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_11,HC,0.4635427824536,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_12,HC,0.53745664275,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_13,HC,0.7324754117457,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_14,HC,0.543164824964,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_15,HC,0.3161388531349,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_16,HC,0.685478240586,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_17,HC,0.576227747712,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_18,HC,0.3137072474454,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_19,HC,0.3845833074756,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_HC_20,HC,0.3453743572248,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_01,UC,48.4076433121019,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_02,UC,53.1128404669261,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_03,UC,38.0392156862745,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_04,UC,53.4441805225653,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_05,UC,40.8624229979466,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_06,UC,38.5372714486639,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_07,UC,60.8478802992519,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_08,UC,62.0906801007557,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_09,UC,43.0839002267574,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_10,UC,45.6375838926174,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_11,UC,41.8604651162791,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_12,UC,30.1948051948052,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_13,UC,38.562091503268,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_14,UC,22.6666666666667,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_15,UC,30.3862477234462,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_16,UC,28.7265131836065,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_17,UC,46.926371335713,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_18,UC,35.3613479359341,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_19,UC,42.9112764593561,%
+Fig. 7B,GART+Ki67+ cells (%),Fig7B_GARTKi67cells_UC_20,UC,37.26663868245,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_01,HC,0.4152447148569,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_02,HC,0.3857629128537,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_03,HC,0.4796163069544,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_04,HC,0.2403846153846,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_05,HC,0.2801569947386,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_06,HC,0.4329004329004,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_07,HC,0.4351994577462,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_08,HC,0.7554371346642,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_09,HC,0.2315611758237,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_10,HC,0.7162487854274,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_11,HC,0.5277452858976,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_12,HC,0.9172488564275,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_13,HC,1.5762488572457,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_14,HC,0.2463878532754,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_15,HC,0.4374889356725,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_16,HC,0.8216388542846,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_17,HC,0.5353677344511,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_18,HC,0.7763078535682,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_19,HC,0.6851354965247,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_HC_20,HC,0.3715734793569,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_01,UC,46.2845010615711,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_02,UC,20.9727626459144,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_03,UC,35.2941176470588,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_04,UC,50.3562945368171,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_05,UC,18.6036960985626,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_06,UC,37.6933895921238,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_07,UC,56.6084788029925,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_08,UC,61.8387909319899,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_09,UC,42.1768707482993,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_10,UC,44.1275167785235,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_11,UC,36.5116279069767,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_12,UC,21.1038961038961,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_13,UC,31.0457516339869,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_14,UC,22.3333333333333,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_15,UC,23.7275427782413,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_16,UC,53.4173251375424,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_17,UC,25.1662881235775,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_18,UC,31.397542457,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_19,UC,18.342876982,%
+Fig. 7B,GART+MYBL2+Ki67+ cells (%),Fig7B_GARTMYBL2Ki67cells_UC_20,UC,17.6135936543613,%
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_01,HC,7.723274230957,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_02,HC,5.3715400695801,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_03,HC,12.1236934661865,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_04,HC,7.8860139846802,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_05,HC,7.2949199676514,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_06,HC,7.4876346588135,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_07,HC,5.4169192314148,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_08,HC,7.2277526855469,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_09,HC,7.8664917945862,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_10,HC,6.2056193351746,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_11,HC,3.6083555221558,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_12,HC,6.0021576881409,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_13,HC,5.1784014701843,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_14,HC,5.9515247344971,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_15,HC,7.4185252189636,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_16,HC,7.8590655326843,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_17,HC,11.4862270355225,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_18,HC,8.1885557174683,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_19,HC,11.35373878479,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_20,HC,11.7203121185303,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_21,HC,9.5558032989502,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_22,HC,19.6018028259277,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_23,HC,28.7784748077393,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_24,HC,7.1271553039551,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_25,HC,6.1873440742493,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_26,HC,17.1305980682373,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_27,HC,12.6857814788818,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_28,HC,8.5964269638062,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_29,HC,7.7102494239807,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_30,HC,8.1811065673828,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_31,HC,8.8788280487061,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_32,HC,8.5720071792603,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_33,HC,12.3646812438965,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_34,HC,7.3659772872925,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_35,HC,5.8956069946289,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_36,HC,10.2389287948608,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_37,HC,10.0968198776245,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_38,HC,12.5646591186523,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_39,HC,15.3370561599731,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_40,HC,9.5287914276123,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_41,HC,23.0862331390381,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_42,HC,12.3880825042725,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_43,HC,8.3163194656372,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_44,HC,11.836594581604,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_45,HC,8.1399650573731,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_46,HC,8.2574424743652,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_47,HC,7.6479034423828,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_48,HC,8.6991653442383,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_49,HC,8.1789035797119,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_50,HC,5.872730255127,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_51,HC,6.3140006065369,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_52,HC,11.3378000259399,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_HC_53,HC,9.5506172180176,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_01,UC,44.1639976501465,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_02,UC,114.055053710938,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_03,UC,176.242279052734,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_04,UC,231.361602783203,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_05,UC,144.028594970703,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_06,UC,127.351860046387,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_07,UC,126.489715576172,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_08,UC,158.306274414063,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_09,UC,112.371040344238,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_10,UC,202.579803466797,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_11,UC,19.603588104248,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_12,UC,12.9755239486694,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_13,UC,16.2465705871582,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_14,UC,28.6143131256104,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_15,UC,43.8911132872367,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_16,UC,24.6126728057861,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_17,UC,26.7698631286621,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_18,UC,13.2454872131348,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_19,UC,16.1926021575928,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_20,UC,16.8544750213623,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_21,UC,21.2308349609375,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_22,UC,9.2039575576782,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_23,UC,36.0874481201172,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_24,UC,16.910306930542,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_25,UC,7.4400916099548,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_26,UC,8.849479675293,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_27,UC,24.8044033050537,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_28,UC,38.4812545776367,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_29,UC,35.6984329223633,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_30,UC,44.4242630004883,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_31,UC,11.8924503326416,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_32,UC,14.9410638809204,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_33,UC,12.067798614502,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_34,UC,17.605562210083,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_35,UC,17.0414657592773,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_36,UC,46.2591247558594,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_37,UC,18.6691188812256,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_38,UC,25.3456439971924,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_39,UC,20.3789119720459,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_40,UC,15.0859298706055,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_41,UC,40.733268737793,arbitrary fluorescence units
+Fig. 7C,GART MFI in EPCAM+ crypt epithelium,Fig7C_GARTMFIinEPCAMcryp_UC_42,UC,23.4563407897949,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_01,HC,24.0735645294189,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_02,HC,17.9699172973633,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_03,HC,16.5541553497314,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_04,HC,16.9152698516846,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_05,HC,22.0171356201172,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_06,HC,11.9579467773438,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_07,HC,19.1001491546631,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_08,HC,18.2727012634277,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_09,HC,13.5143785476685,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_10,HC,13.1802625656128,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_11,HC,20.5055046081543,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_12,HC,14.3190889358521,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_13,HC,17.2108783721924,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_14,HC,14.5950355529785,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_15,HC,20.6269016265869,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_16,HC,16.4608573913574,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_17,HC,17.4601211547852,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_18,HC,16.4861526489258,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_19,HC,18.8873443603516,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_20,HC,20.3590850830078,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_21,HC,15.7220668792725,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_22,HC,26.5854797363281,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_23,HC,33.1003227233887,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_24,HC,11.8676595687866,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_25,HC,12.1242971420288,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_26,HC,24.2755870819092,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_27,HC,20.1837177276611,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_28,HC,15.8065843582153,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_29,HC,16.9602165222168,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_30,HC,13.8486490249634,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_31,HC,14.6281967163086,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_32,HC,15.132116317749,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_33,HC,19.3552799224854,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_34,HC,16.2678737640381,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_35,HC,16.4105625152588,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_36,HC,14.9950904846191,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_37,HC,14.9888114929199,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_38,HC,18.5209197998047,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_39,HC,20.1489639282227,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_40,HC,13.148871421814,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_41,HC,31.1349906921387,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_42,HC,15.6243133544922,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_43,HC,11.5203580856323,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_44,HC,14.9494867324829,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_45,HC,10.7532634735107,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_46,HC,12.8569030761719,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_47,HC,21.997859954834,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_48,HC,11.7933044433594,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_49,HC,11.8503570556641,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_50,HC,9.8417387008667,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_51,HC,11.0934705734253,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_52,HC,17.1233768463135,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_HC_53,HC,13.0099678039551,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_01,UC,222.086746215821,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_02,UC,219.288253784185,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_03,UC,107.860420227052,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_04,UC,129.824859619142,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_05,UC,221.153915405274,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_06,UC,220.221084594727,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_07,UC,66.3756256103516,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_08,UC,117.190887451173,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_09,UC,86.0689392089844,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_10,UC,122.807846069337,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_11,UC,65.4132308959961,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_12,UC,193.026046752934,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_13,UC,111.312774658204,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_14,UC,114.518424987793,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_15,UC,111.921485900888,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_16,UC,134.648666381837,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_17,UC,148.085250854493,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_18,UC,130.436904907228,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_19,UC,129.073867797852,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_20,UC,99.8572769165039,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_21,UC,102.133361816406,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_22,UC,107.588073730469,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_23,UC,120.892463684082,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_24,UC,83.2614517211914,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_25,UC,135.351074218753,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_26,UC,120.236930847168,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_27,UC,83.8551330566406,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_28,UC,139.741165161134,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_29,UC,121.644317626953,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_30,UC,137.542236328126,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_31,UC,71.9514083862306,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_32,UC,108.351196289064,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_33,UC,89.7058715820313,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_34,UC,110.602592468263,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_35,UC,106.403144836427,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_36,UC,127.059997558596,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_37,UC,101.522636413575,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_38,UC,106.061882019043,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_39,UC,104.333564758302,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_40,UC,113.607055664064,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_41,UC,134.007614135743,arbitrary fluorescence units
+Fig. 7C,OLFM4 MFI in EPCAM+ crypt epithelium,Fig7C_OLFM4MFIinEPCAMcry_UC_42,UC,121.734397888185,arbitrary fluorescence units
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_01,HC,0.0714285714286,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_02,HC,0.2,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_03,HC,0.0714285714286,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_04,HC,0.0434782608696,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_05,HC,0.1578947368421,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_06,HC,0.037037037037,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_07,HC,0.0769230769231,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_08,HC,0.0833333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_09,HC,0.2,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_10,HC,0.3636363636364,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_11,HC,1.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_12,HC,0.5454545454545,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_13,HC,1.1111111111111,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_14,HC,0.04,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_15,HC,0.0625,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_16,HC,0.0714285714286,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_17,HC,0.0526315789474,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_18,HC,0.15,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_19,HC,0.0625,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_20,HC,0.0714285714286,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_21,HC,0.0588235294118,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_22,HC,2.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_23,HC,0.1111111111111,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_24,HC,0.047619047619,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_25,HC,0.04,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_26,HC,1.6666666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_27,HC,1.5833333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_28,HC,0.6428571428571,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_29,HC,0.1428571428571,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_30,HC,0.1333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_31,HC,0.1818181818182,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_32,HC,0.08,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_33,HC,0.1111111111111,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_34,HC,1,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_35,HC,0.625,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_36,HC,0.7368421052632,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_37,HC,0.4166666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_38,HC,0.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_39,HC,0.25,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_40,HC,0.047619047619,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_41,HC,2.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_42,HC,0.1363636363636,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_43,HC,0.1153846153846,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_44,HC,0.0588235294118,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_45,HC,0.04,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_46,HC,0.0454545454545,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_47,HC,0.1538461538462,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_48,HC,0.0416666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_49,HC,0.04,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_50,HC,0.0384615384615,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_51,HC,0.0869565217391,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_52,HC,0.0555555555556,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_HC_53,HC,0.0625,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_01,UC,3.2727272727273,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_02,UC,1,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_03,UC,3.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_04,UC,1.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_05,UC,8.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_06,UC,4.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_07,UC,1.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_08,UC,0.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_09,UC,4.75,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_10,UC,2,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_11,UC,0.6,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_12,UC,3.7714285714286,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_13,UC,2.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_14,UC,4.90625,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_15,UC,2.3571428571429,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_16,UC,4.8571428571429,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_17,UC,4.96,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_18,UC,2.8,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_19,UC,2.1538461538462,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_20,UC,3.6190476190476,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_21,UC,2.7692307692308,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_22,UC,3.9166666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_23,UC,4.8888888888889,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_24,UC,5.9166666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_25,UC,1.9230769230769,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_26,UC,3.4736842105263,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_27,UC,2.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_28,UC,4.7,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_29,UC,1.7142857142857,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_30,UC,2.0909090909091,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_31,UC,0.5,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_32,UC,0.9,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_33,UC,2.8181818181818,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_34,UC,3.5238095238095,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_35,UC,1.8666666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_36,UC,2.25,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_37,UC,4.0666666666667,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_38,UC,2.0909090909091,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_39,UC,3.8333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_40,UC,2.3333333333333,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_41,UC,2.75,objects/crypt ROI
+Fig. 7C,GART+OLFM4+EPCAM+ objects per crypt ROI,Fig7C_GARTOLFM4EPCAMobje_UC_42,UC,3.3571428571429,objects/crypt ROI
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_01,HC,3.0756285550806,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_02,HC,2.0954603554934,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_03,HC,4.7502342680026,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_04,HC,3.1402468521513,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_05,HC,2.885832787601,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_06,HC,2.9884906712136,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_07,HC,2.1522716846929,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_08,HC,2.7435480120902,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_09,HC,2.8320797505999,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_10,HC,1.9998504163412,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_11,HC,1.3569652826239,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_12,HC,2.3955687782696,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_13,HC,1.8374834495096,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_14,HC,2.369914828747,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_15,HC,2.8867092022982,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_16,HC,3.0509816551928,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_17,HC,4.5095069830052,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_18,HC,3.176641209186,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_19,HC,4.499064550935,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_20,HC,4.6561670645859,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_21,HC,3.6230276915278,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_22,HC,7.8287156371881,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_23,HC,11.2522775397646,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_24,HC,2.8335713350336,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_25,HC,2.3912450422849,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_26,HC,6.9114470842333,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_27,HC,4.7620505910455,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_28,HC,3.2002925698418,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_29,HC,3.0446156081965,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_30,HC,3.2028324646112,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_31,HC,3.356269278057,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_32,HC,3.395541922592,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_33,HC,4.8495748507455,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_34,HC,3.4173242515176,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_35,HC,2.3736665032376,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_36,HC,3.9580638868216,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_37,HC,4.0589493847853,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_38,HC,4.8883546098018,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_39,HC,5.8064898152534,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_40,HC,3.7915641036339,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_41,HC,10.2031506599355,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_42,HC,4.8043116909283,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_43,HC,3.3880580692785,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_44,HC,4.6517531656495,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_45,HC,3.1981218941316,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_46,HC,3.231635422408,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_47,HC,3.0558151956202,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_48,HC,3.4071677824205,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_49,HC,3.2527249175189,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_50,HC,2.3320981698367,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_51,HC,2.5165730229084,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_52,HC,4.5169884093123,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_HC_53,HC,3.8322595681633,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_01,UC,13.4524828767123,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_02,UC,91.8831168831169,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_03,UC,52.4366471734893,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_04,UC,51.8674894446249,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_05,UC,25.3152039555006,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_06,UC,61.5942396430201,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_07,UC,33.2388236845576,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_08,UC,49.0909090909091,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_09,UC,32.0457747688924,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_10,UC,86.1655277145027,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_11,UC,7.9160428104032,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_12,UC,11.1658189950583,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_13,UC,11.4867724095665,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_14,UC,35.4032683602258,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_15,UC,47.7955831938133,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_16,UC,24.4151173660158,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_17,UC,31.2026869062711,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_18,UC,9.7539259331735,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_19,UC,11.3400251104273,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_20,UC,15.76003439831,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_21,UC,19.0425325305885,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_22,UC,5.5925322928845,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_23,UC,40.8098258874342,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_24,UC,13.9392971941459,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_25,UC,3.2178864537547,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_26,UC,7.253901080523,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_27,UC,15.1089213327621,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_28,UC,47.0841933913977,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_29,UC,20.4459846316107,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_30,UC,39.9502933811713,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_31,UC,4.3657359831397,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_32,UC,9.4299783458044,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_33,UC,8.2285455016853,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_34,UC,16.8742384950529,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_35,UC,10.0210758292595,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_36,UC,37.3446410293903,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_37,UC,13.191418520824,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_38,UC,14.0382726704562,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_39,UC,11.8174177721243,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_40,UC,10.4223088078556,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_41,UC,35.7383758384175,%
+Fig. 7C,GART+OLFM4+ double-positive area among EPCAM+ epithelium (%),Fig7C_GARTOLFM4doublepos_UC_42,UC,20.8342506467059,%
